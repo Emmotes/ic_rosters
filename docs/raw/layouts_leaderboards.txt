@@ -1,0 +1,61 @@
+# coreIds
+# 1 Modest
+# 2 Strong
+# 3 Fast
+# 4 Magic
+# 5 Aerois
+# 6 Unaffiliated
+# 7 Dexterous
+
+# Format:
+# linkHash,coreId,coreLevel,dps,record|holder|pipe|separated,comment
+
+# Champions to base DPS numbers on
+# because they benefit from every node:
+#         Modest: Artemis
+#         Strong: Artemis
+#           Fast: Artemis
+#          Magic: Asharra
+#         Aerois: Lucius
+#   Unaffiliated: Artemis
+#      Dexterous: Artemis
+
+# =======================
+# ==== Minimum Pipes ====
+# =======================
+# Cores using the minimum number of pipes.
+
+3RLSXOvfhj-9x1knFdA9B,1,15,1.60e29,Darkbolt,Min Pipes: 81
+H3uUXluEvpnqUK1uxp7mE,2,15,5.70e29,Darkbolt,Min Pipes: 79
+LPEwIiOxwfWpfb7RQo2Pw,3,15,2.92e25,Emmote,Min Pipes: 74
+iBpZmEKggkM5IWYOLl9kf,4,15,2.23e35,Emmote,Min Pipes: 76
+taZalpaozjGYfEmEuegt5,5,15,5.05e21,Emmote,Min Pipes: 81
+HHys4x0fUH8rcUPzXzT3y,6,15,4.94e31,Emmote,Min Pipes: 83
+641C3uzNU-JG1tOjyDEp1,7,15,4.94e31,Emmote,Min Pipes: 78
+
+# ========================
+# ==== Minimum Rarity ====
+# ========================
+# Cores using the lowest rarity possible.
+
+P6qKM1sA_9quq9rDQrJyL,1,15,1.60e29,Darkbolt,Min Rarity: 5 Rares
+_rx3Ib9tL41p8MCkGo1PP,2,15,5.70e29,UniQP,Min Rarity: 2 Rares
+MxgE51Uw1Z8UUwAwof8dx,3,15,2.92e25,Darkbolt|Vorkera_x,Min Rarity: 4 Rares
+tAEHsyw8mAqbtGKi1AN8L,4,15,2.23e35,UniQP|Emmote|Midander|Retaki,Min Rarity: 7 Rares
+YxVuZO8-ZrtTtbtmHR99t,5,15,5.05e21,UniQP,Min Rarity: 5 Rare
+tkzbSmwWg180UBfXvogZp,6,15,4.94e31,Emmote,Min Rarity: 0 Rares
+tb3pg-3du5NOKab97s-1c,7,15,4.94e31,UniQP,Min Rarity: 0 Rares
+
+# =========================================
+# ==== Minimum Supercharged Core Level ====
+# =========================================
+# Cores that are FE with at least 1 supercharged node. Lower level is best.
+# Ties on level are decided by highest flow amount.
+
+0CEq8FvgfWK36mDitydgP,1,2,8.96e05,UniQP,Min Supercharge: 2
+Kfym6fRfuKT0KiVAsLXG8,2,3,5.07e07,Emmote,Min Supercharge: 3
+RCk2kjf6Tpp8M6DE_g9Er,3,3,3.43e08,Emmote,Min Supercharge: 3
+iQFZgLbd4rC_6TcOYRrMa,4,4,1.59e12,UniQP,Min Supercharge: 4
+dQW_3sDcrQdLFwkGUUCm4,5,3,8.07e05,Emmote,Min Supercharge: 3
+lv6HGYAJqqqGart_Hqgam,6,4,4.49e12,Emmote,Min Supercharge: 4
+zTgqPh8-Txh0mFImERhoX,7,8,3.73e22,UniQP|Emmote,Min Supercharge: 8

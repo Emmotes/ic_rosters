@@ -1,0 +1,221 @@
+# coreIds
+# 1 Modest
+# 2 Strong
+# 3 Fast
+# 4 Magic
+# 5 Aerois
+# 6 Unaffiliated
+# 7 Dexterous
+
+# ================================
+# ==== 1. Modest Core Layouts ====
+# ================================
+
+# Format:
+# linkHash,coreId,dps,strength,dexterity,constitution,intelligence,wisdom,charisma,permutationId
+#     for stats: if they're active use a 1. If they're inactive use a 0.
+
+DkOJBZGdGpnq4_K4yQont,1,2.18e44,1,1,1,1,1,1,1
+I_8g095yWaHD-a-z3QeAJ,1,2.18e42,0,1,1,1,1,1,2
+UBppioFeMIfJ4fE90nPYp,1,1.50e42,1,0,1,1,1,1,3
+GVzF80oaJtc0Nm_DA9Mko,1,1.50e40,0,0,1,1,1,1,4
+i8ZPac6myhxjSWsHC2F2L,1,2.65e42,1,1,0,1,1,1,5
+uaxwwiADbr1-LgADkbgay,1,2.32e40,0,1,0,1,1,1,6
+IESmXYEl4VeiXJdJHbh5G,1,1.83e40,1,0,0,1,1,1,7
+gst8woyENk7-Nwnobs0FK,1,1.60e38,0,0,0,1,1,1,8
+6Yv_YlUxFfujj05FwG9ed,1,1.50e42,1,1,1,0,1,1,9
+G6VezXEgRas4EsTfbUfw0,1,1.50e40,0,1,1,0,1,1,10
+ENRsq3GEvoUCpVFXy6t8j,1,1.04e40,1,0,1,0,1,1,11
+6XeOgeeTMx4w-kRz0Xfxp,1,1.04e38,0,0,1,0,1,1,12
+#                               1,1,0,0,1,1,13
+Y6cDJ0LRJbeSFFUgDFfc6,1,1.60e38,0,1,0,0,1,1,14
+#                               1,0,0,0,1,1,15
+vBw5kDMFWXx5Pd6HEWElR,1,1.10e36,0,0,0,0,1,1,16
+lxl77lg_2zUFrv6SLU6-E,1,4.43e42,1,1,1,1,0,1,17
+uPENWunG92vAP47zSu7uZ,1,3.73e40,0,1,1,1,0,1,18
+yWqFzHx5bvXJe990YOTjT,1,3.05e40,1,0,1,1,0,1,19
+eS2YlQByPi6gqBWarBSEA,1,2.57e38,0,0,1,1,0,1,20
+s0BKs7Uh8FFbUv2ArVLIc,1,4.16e40,1,1,0,1,0,1,21
+NlZjPJ4DECNoQSfpQKnyQ,1,3.18e38,0,1,0,1,0,1,22
+#                               1,0,0,1,0,1,23
+#                               0,0,0,1,0,1,24
+Z3dqepoGNtSI25cJzrPbj,1,3.05e40,1,1,1,0,0,1,25
+u4thZ5VbiZ2xg2HxLjr7W,1,2.57e38,0,1,1,0,0,1,26
+8z5iuN2u8G544H6M8XcwL,1,2.11e38,1,0,1,0,0,1,27
+XrYsURBf5qXUI7NQKziYl,1,1.77e36,0,0,1,0,0,1,28
+gkSrGgzXRfYioKRKXDvjW,1,2.87e38,1,1,0,0,0,1,29
+#                               0,1,0,0,0,1,30
+#                               1,0,0,0,0,1,31
+#                               0,0,0,0,0,1,32
+_m6XZ-qfY25-S8QZrLXD-,1,1.71e42,1,1,1,1,1,0,33
+tFUbbSl60Q161is_ovBxs,1,1.57e40,0,1,1,1,1,0,34
+LqCb1S8NMJP8HZ_omgw5-,1,1.18e40,1,0,1,1,1,0,35
+mm30BPhg7xZC98FvtWvQp,1,1.08e38,0,0,1,1,1,0,36
+#                               1,1,0,1,1,0,37
+8hE9ZcjRkmb-_Y9n3uJoo,1,1.60e38,0,1,0,1,1,0,38
+#                               1,0,0,1,1,0,39
+#                               0,0,0,1,1,0,40
+p1p7iGg0p3A9Oj6ud6RsF,1,1.08e40,1,1,1,0,1,0,41
+hb3RxqzSrDI7mURvMfAS4,1,1.08e38,0,1,1,0,1,0,42
+wKHuZ_w2G6TfjR4QRPry7,1,7.46e37,1,0,1,0,1,0,43
+#                               0,0,1,0,1,0,44
+#                               1,1,0,0,1,0,45
+MzwW865zNbwMEQx-XEanR,1,1.10e36,0,1,0,0,1,0,46
+#                               1,0,0,0,1,0,47
+CSaKhYTuWTdYXqjaSba82,1,7.61e33,0,0,0,0,1,0,48
+sGv2PkfUhcXsZAEQEDdvy,1,3.33e40,1,1,1,1,0,0,49
+ZDdVjG8jV5E03Xzrus1Ix,1,2.57e38,0,1,1,1,0,0,50
+#                               1,0,1,1,0,0,51
+flemAiU7XDQHU5osjDHYk,1,1.77e36,0,0,1,1,0,0,52
+EX_CnsXKrgbbgo165f2aN,1,2.87e38,1,1,0,1,0,0,53
+DsVh4JSKxCnsYuKIstsHI,1,2.32e36,0,1,0,1,0,0,54
+#                               1,0,0,1,0,0,55
+O7kCMROWNQtSTcqCpprEe,1,1.60e34,0,0,0,1,0,0,56
+AakI7P5b5DgmZY8yIo_aw,1,2.30e38,1,1,1,0,0,0,57
+r7km5hQkiVaIMYHtx5Y5G,1,1.77e36,0,1,1,0,0,0,58
+ZfqWE2FZDktWsEoi_xi9K,1,1.58e36,1,0,1,0,0,0,59
+GAs3OcWHhKepgrt4wzHhy,1,1.22e34,0,0,1,0,0,0,60
+#                               1,1,0,0,0,0,61
+#                               0,1,0,0,0,0,62
+#                               1,0,0,0,0,0,63
+#                               0,0,0,0,0,0,64
+
+# ================================
+# ==== 2. Strong Core Layouts ====
+# ================================
+
+# Format:
+# linkHash,coreId,dps,strength,dexterity,constitution,intelligence,wisdom,melee,permutationId
+#     for stats: if they're active use a 1. If they're inactive use a 0.
+
+NiGSGsacHW4McSTThGhaB,2,3.09e45,1,1,1,1,1,1,1
+jRrxHkBW6rSGswR7YGk6c,2,2.13e43,0,1,1,1,1,1,2
+gVeG_CZSEgeL4SEonfioQ,2,2.13e43,1,0,1,1,1,1,3
+#                               0,0,1,1,1,1,4
+_LFD4nB_OiamUmNouxx6G,2,2.13e43,1,1,0,1,1,1,5
+WcLloORKcEsp1Vh7ugnlO,2,1.47e41,0,1,0,1,1,1,6
+6uEhp_1goLtVyRXi7K2b6,2,1.47e41,1,0,0,1,1,1,7
+#                               0,0,0,1,1,1,8
+HRzw-pCS165T9h4HkWt92,2,2.13e43,1,1,1,0,1,1,9
+tbvDcUWyGZ9HNfNHm51xn,2,1.47e41,0,1,1,0,1,1,10
+r-4KDS1iJHaXKztITDBfh,2,1.47e41,1,0,1,0,1,1,11
+#                               0,0,1,0,1,1,12
+#                               1,1,0,0,1,1,13
+rEzWJQwNcgeK9hiBc_GVY,2,1.01e39,0,1,0,0,1,1,14
+#                               1,0,0,0,1,1,15
+#                               0,0,0,0,1,1,16
+ME5yZd7N0M22Zo9pT8C8n,2,2.43e43,1,1,1,1,0,1,17
+C7nEm7QXfoVk6qU6uqG8f,2,1.68e41,0,1,1,1,0,1,18
+77x_hHuScVMKwn8bQevcS,2,1.68e41,1,0,1,1,0,1,19
+Sf8Eqs8uvtLTsMvavyVVG,2,1.16e39,0,0,1,1,0,1,20
+QNbT8eQbHm8BiFYoERFss,2,1.68e41,1,1,0,1,0,1,21
+#                               0,1,0,1,0,1,22
+#                               1,0,0,1,0,1,23
+#                               0,0,0,1,0,1,24
+pyyM6w6EM1nVdtP32AdH_,2,1.68e41,1,1,1,0,0,1,25
+dCRcufrLOJXX8pMwiLi0z,2,1.16e39,0,1,1,0,0,1,26
+-IZN07vLwS5kudzxlDoRq,2,1.16e39,1,0,1,0,0,1,27
+UF2jgEMPD4MBDI36p5N17,2,7.97e36,0,0,1,0,0,1,28
+1tNOG7sYzo7Yk95em5NSq,2,1.16e39,1,1,0,0,0,1,29
+#                               0,1,0,0,0,1,30
+#                               1,0,0,0,0,1,31
+#                               0,0,0,0,0,1,32
+elqOcFEB-wuahwbAxTYvF,2,2.76e43,1,1,1,1,1,0,33
+7KJjraFMsPZ3X_al-oJQC,2,1.90e41,0,1,1,1,1,0,34
+rWGJH__w8BsCOiVJ8ZjrP,2,1.90e41,1,0,1,1,1,0,35
+yhFwvNRGsDdRmWy31MRnQ,2,1.31e39,0,0,1,1,1,0,36
+H8TK3pxjZneEx4U0KKJP3,2,1.99e41,1,1,0,1,1,0,37
+IrcwCZtz0yoyNlPVZGTZQ,2,1.37e39,0,1,0,1,1,0,38
+7J_aSDIQtryetxDSnl3Uu,2,1.37e39,1,0,0,1,1,0,39
+9GcEHV7HJr3H8gDJGcDMN,2,9.45e36,0,0,0,1,1,0,40
+pHkq18UE_TXwPYzI0aXRb,2,1.90e41,1,1,1,0,1,0,41
+rDs4JTqcYvj3sbxPXmJ-4,2,1.31e39,0,1,1,0,1,0,42
+#                               1,0,1,0,1,0,43
+FrSv6Sxd9e-inZhQMQQN3,2,9.06e36,0,0,1,0,1,0,44
+#                               1,1,0,0,1,0,45
+rp3P3F7nafN1YztHnFCEz,2,9.45e36,0,1,0,0,1,0,46
+#                               1,0,0,0,1,0,47
+HcWBuqRMPUzyXDchJUw4T,2,6.52e34,0,0,0,0,1,0,48
+_1L9cQTtDM1JSSx3LhyoF,2,1.99e41,1,1,1,1,0,0,49
+t5N5een-w8gjhTS37X0Kf,2,1.39e39,0,1,1,1,0,0,50
+xUHtYbd65F1wOKyHVIbO8,2,1.37e39,1,0,1,1,0,0,51
+MOgrRfFbXjmIBuNZu3_1L,2,9.45e36,0,0,1,1,0,0,52
+#                               1,1,0,1,0,0,53
+BoKzBuQQ_gwJbctPbz0FM,2,9.45e36,0,1,0,1,0,0,54
+#                               1,0,0,1,0,0,55
+aWlgIBvGaXLpMnox7F8zh,2,6.52e34,0,0,0,1,0,0,56
+2NkR_-Zj7k8nTTT72xM17,2,1.37e39,1,1,1,0,0,0,57
+2XBdKezuPRW50tUV5wmxx,2,9.45e36,0,1,1,0,0,0,58
+Dfl86ku0QJr55DVVZzcV8,2,9.45e36,1,0,1,0,0,0,59
+#                               0,0,1,0,0,0,60
+e5l-Cqc9D-lsTtSy8j0qv,2,9.45e36,1,1,0,0,0,0,61
+#                               0,1,0,0,0,0,62
+#                               1,0,0,0,0,0,63
+#                               0,0,0,0,0,0,64
+
+# ==============================
+# ==== 3. Fast Core Layouts ====
+# ==============================
+
+# Format:
+# linkHash,coreId,dps,note
+
+plcWqJ1WV0VuqeIfPlKvv,3,1.03e39,Fully Supercharged
+a3egkSdwZEtornHzWM6Q9,3,9.73e38,'Budget' Supercharged
+cwVpTjFwEtyRSYAA5LfEy,3,3.38e32,Nahara
+
+# ===============================
+# ==== 4. Magic Core Layouts ====
+# ===============================
+
+# Format:
+# linkHash,coreId,dps,intelligence,wisdom,charisma,magic,permutationId
+#     for stats: if they're active use a 1. If they're inactive use a 0.
+
+8euk6u6PKHy_mmNX4S7ek,4,2.83e53,1,1,1,1,1
+py0fM4EedKfIniT2SGw66,4,3.52e49,0,1,1,1,2
+1QAVPgKXTPpv6QyZmNM3l,4,1.71e49,1,0,1,1,3
+Ig_TEITfWozF2MZ8YbCJB,4,1.67e45,0,0,1,1,4
+qeHJee7Hou-VGAQzaOonE,4,1.35e49,1,1,0,1,5
+WFKQC_XoBwO6aZQWEDRJ2,4,6.40e44,0,1,0,1,6
+VWE8AGgjNEWfILkyr-Nfs,4,8.16e44,1,0,0,1,7
+umP6sO2p9qV1JfI3m7abQ,4,7.96e40,0,0,0,1,8
+UFBP5fZasLTvqf_bkqfx5,4,3.84e45,1,1,1,0,9
+c23hOzJAH6rdvgsf5yKeZ,4,1.82e41,0,1,1,0,10
+1GTgb0TcV1rE5D0W0Uoyj,4,2.19e41,1,0,1,0,11
+GvRCQNy_OdugNFOjnqZZt,4,1.04e37,0,0,1,0,12
+Y-dm5dFF-poiLBflC5f17,4,1.91e41,1,1,0,0,13
+y9CoTUR3HQcKJ9AATFo2L,4,9.06e36,0,1,0,0,14
+80K7ITgZH227LMZ8Z-Xr2,4,1.04e37,1,0,0,0,15
+hDKfifV4tRpUJ7BNj7MI9,4,4.96e32,0,0,0,0,16
+
+
+# ================================
+# ==== 5. Aerois Core Layouts ====
+# ================================
+
+# Format:
+# linkHash,coreId,dps,lucius
+#     for stats: if they're active use a 1. If they're inactive use a 0.
+
+CPsUZyBluqIEn96nwVj0C,5,7.91e35,1
+
+# ======================================
+# ==== 6. Unaffiliated Core Layouts ====
+# ======================================
+
+# Format:
+# linkHash,coreId,dps,unaffiliated
+#     for stats: if they're active use a 1. If they're inactive use a 0.
+
+dFFmh0JAwYRLfa9mH_uHt,6,1.15e49,1
+
+# ======================================
+# ==== 7. Dexterous Core Layouts ====
+# ======================================
+
+# Format:
+# linkHash,coreId,dps,dexterous
+#     for stats: if they're active use a 1. If they're inactive use a 0.
+
+7114GoDxPsVq9PvgtiUYx,7,1.15e49,1
