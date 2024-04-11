@@ -1,8 +1,6 @@
-const v=1.0
-var apo = `’`;
+const v=1.1
 
 function init() {
-	nameEeggs();
 	nixieBlueIt();
 	window.addEventListener('hashchange',() =>{
 		swapTab();
@@ -26,28 +24,8 @@ function setHash(hash) {
 	}
 }
 
-function ins(str, index, value) {
-    return str.substr(0, index) + value + str.substr(index);
-}
-
 function randInt(min, max) {
     return Math.floor(Math.random() * (max - min + 1) + min);
-}
-
-function nameEeggs() {
-	var arr = document.querySelectorAll(".championLink,.championLinkDPS");
-	for (let ele of arr) {
-		var name = ele.innerHTML.trim();
-		if (name.includes(apo)) {
-			name = name.replaceAll(apo,"");
-			let index = randInt(1,name.length-1);
-			name = ins(name,index,apo);
-		}
-		if (name == "Torogar" || name == "Totoro") {
-			name = randInt(1,8) == 7 ? "Totoro" : "Torogar";
-		}
-		ele.innerHTML = name;
-	}
 }
 
 function nixieBlueIt() {
