@@ -149,6 +149,7 @@ A list of all champions and the patrons they are available for.
 <tr><td style="text-align:right">145</td><td>Dynaheir</td><td style="text-align:right">3</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2027-02-20</label></td></tr>
 <tr><td style="text-align:right">146</td><td>Dark Urge</td><td style="text-align:right">11</td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td></tr>
 <tr><td style="text-align:right">147</td><td>Gale</td><td style="text-align:right">1</td><td><label class="cblabel"><input type="checkbox" disabled checked>w/ Feats</label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Always</label></td></tr>
+<tr><td style="text-align:right">148</td><td>Diana</td><td style="text-align:right">9</td><td><label class="cblabel"><input type="checkbox" disabled checked></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled></label></td><td><label class="cblabel"><input type="checkbox" disabled checked>Until 2032-12-31</label></td></tr>
 </tbody></table>
 <br />
 
@@ -179,6 +180,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="nordom" style="background-image:url(images/portraits/nordom.png)">Nordom (9)</span>
 <span class="eventRosterChampion" id="nixie" style="background-image:url(images/portraits/nixie.png)">Nixie (1)</span>
 <span class="eventRosterChampion" id="evandra" style="background-image:url(images/portraits/evandra.png)">Evandra (5)</span>
+<span class="eventRosterChampion" id="diana" style="background-image:url(images/portraits/diana.png)">Diana (9)</span>
 </span>
 
 {:/nomarkdown}
