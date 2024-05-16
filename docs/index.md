@@ -288,6 +288,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="artemis" style="background-image:url(images/portraits/artemis.png)">Artemis (3)</span>
 <span class="eventRosterChampion" id="baeloth" style="background-image:url(images/portraits/baeloth.png)">Baeloth (4)</span>
 <span class="eventRosterChampion" id="viconia" style="background-image:url(images/portraits/viconia.png)">Viconia (5)</span>
+<span class="eventRosterChampion" id="gazrick" style="background-image:url(images/portraits/gazrick.png)">Gazrick (7)</span>
 <span class="eventRosterChampion" id="imoen" style="background-image:url(images/portraits/imoen.png)">Imoen (11)</span>
 <span class="eventRosterChampion" id="wyll" style="background-image:url(images/portraits/wyll.png)">Wyll (12)</span>
 </span>
@@ -333,8 +334,10 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterHolder">
 <span class="eventRosterChampion" id="regis" style="background-image:url(images/portraits/regis.png)">Regis (2)</span>
 <span class="eventRosterChampion" id="strix" style="background-image:url(images/portraits/strix.png)">Strix (11)</span>
+<span class="eventRosterChampion" id="cattibrie" style="background-image:url(images/portraits/cattibrie.png)">Catti-brie (7)</span>
 <span class="eventRosterChampion" id="kthriss" style="background-image:url(images/portraits/kthriss.png)">K'thriss (1)</span>
 <span class="eventRosterChampion" id="rosie" style="background-image:url(images/portraits/rosie.png)">Rosie (10)</span>
+<span class="eventRosterChampion" id="spurt" style="background-image:url(images/portraits/spurt.png)">Spurt (3)</span>
 <span class="eventRosterChampion" id="briv" style="background-image:url(images/portraits/briv.png)">Briv (5)</span>
 <span class="eventRosterChampion" id="alyndra" style="background-image:url(images/portraits/alyndra.png)">Alyndra (6)</span>
 <span class="eventRosterChampion" id="tatyana" style="background-image:url(images/portraits/tatyana.png)">Tatyana (8)</span>
@@ -368,11 +371,9 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span class="eventRosterHolder">
 <span class="eventRosterChampion" id="nrakk" style="background-image:url(images/portraits/nrakk.png)">Nrakk (8)</span>
-<span class="eventRosterChampion" id="cattibrie" style="background-image:url(images/portraits/cattibrie.png)">Catti-brie (7)</span>
 <span class="eventRosterChampion" id="xander" style="background-image:url(images/portraits/xander.png)">Xander (5)</span>
 <span class="eventRosterChampion" id="wulfgar" style="background-image:url(images/portraits/wulfgar.png)">Wulfgar (10)</span>
 <span class="eventRosterChampion" id="aila" style="background-image:url(images/portraits/aila.png)">Aila (9)</span>
-<span class="eventRosterChampion" id="spurt" style="background-image:url(images/portraits/spurt.png)">Spurt (3)</span>
 <span class="eventRosterChampion" id="shandie" style="background-image:url(images/portraits/shandie.png)">Shandie (6)</span>
 <span class="eventRosterChampion" id="turiel" style="background-image:url(images/portraits/turiel.png)">Turiel (1)</span>
 <span class="eventRosterChampion" id="morgaen" style="background-image:url(images/portraits/morgaen.png)">Môrgæn (9)</span>
@@ -384,7 +385,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="ellywick" style="background-image:url(images/portraits/ellywick.png)">Ellywick (10)</span>
 <span class="eventRosterChampion" id="corazon" style="background-image:url(images/portraits/corazon.png)">Corazón (8)</span>
 <span class="eventRosterChampion" id="rust" style="background-image:url(images/portraits/rust.png)">Rust (11)</span>
-<span class="eventRosterChampion" id="gazrick" style="background-image:url(images/portraits/gazrick.png)">Gazrick (7)</span>
 <span class="eventRosterChampion" id="valentine" style="background-image:url(images/portraits/valentine.png)">Valentine (5)</span>
 <span class="eventRosterChampion" id="dob" style="background-image:url(images/portraits/dob.png)">Dob (12)</span>
 <span class="eventRosterChampion" id="fen" style="background-image:url(images/portraits/fen.png)">Fen (6)</span>
