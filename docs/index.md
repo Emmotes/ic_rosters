@@ -1,6 +1,6 @@
 # Idle Champions Roster Tables
 
-Some roster tables that detail various bits of information for champions.
+Some roster tables that detail various bits of information for champions and even a tab for when known exclusivity periods will end.
 
 {::nomarkdown}
 <div class="tabs">
