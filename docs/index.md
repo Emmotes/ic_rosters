@@ -4537,6 +4537,72 @@ A list of all champions and the patrons they are available for.
         <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-06-05
     </span>
     <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        150
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Aeon
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        10
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled>Sometimes
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2032-12-31
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        151
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Umberto
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        7
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>w/ Feats
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-07-03
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
 </span><br>
 {:/nomarkdown}
 <br />
@@ -4568,6 +4634,8 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="nahara" style="background-image:url(images/portraits/nahara.png)">Nahara (3)</span>
 <span class="eventRosterChampion" id="strongheart" style="background-image:url(images/portraits/strongheart.png)">Strongheart (11)</span>
 <span class="eventRosterChampion" id="vinursa" style="background-image:url(images/portraits/vinursa.png)">Vin Ursa (7)</span>
+<span class="eventRosterChampion" id="aeon" style="background-image:url(images/portraits/aeon.png)">Aeon (10)</span>
+<span class="eventRosterChampion" id="umberto" style="background-image:url(images/portraits/umberto.png)">Umberto (7)</span>
 </span>
 
 {:/nomarkdown}
