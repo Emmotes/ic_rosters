@@ -2785,7 +2785,7 @@ A list of all champions and the patrons they are available for.
     </span>
     <span class="patronRosterItem">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft">
-        <label class="cblabel"><input type="checkbox" disabled>
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-08-14
     </span>
     <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
@@ -3148,7 +3148,7 @@ A list of all champions and the patrons they are available for.
     </span>
     <span class="patronRosterItem">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft">
-        <label class="cblabel"><input type="checkbox" disabled checked>Until 2025-01-11
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-08-07
     </span>
     <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
@@ -5419,6 +5419,120 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
             </span>
             <span class="postSeasonTableDate">
                 <span>02 November 2024 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="e8a" onclick="exclusiveToggleContent(`e8`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Emergence 8 Icon](images/general/e8.png)**Emergence 8** - Planescape
+            </span>
+        </span>
+        <span id="e8" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Better Every Day Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Better Every Day</span>
+                        <span style="margin-left:15px">Ulkoria (80% Watchful Order)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Air Genasi Glitch Feat Icon](images/featicons/glitch.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Air Genasi Glitch</span>
+                        <span style="margin-left:15px">Valentine (Counts as Genasi & Change Alignment to Chaotic Evil)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Heart of Battle Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Heart of Battle</span>
+                        <span style="margin-left:15px">Ravengard (40% of Critical Teamwork Stacks Persist When Reset)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4">![Woken the Hive Feat Icon](images/featicons/upgradefa.png)</span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Woken the Hive</span>
+                        <span style="margin-left:15px">Umberto (80% Beehive Barrage)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Tabaxi Glitch Shandie Skin Icon](images/exclusivities/skin_24203.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Tabaxi Glitch Shandie</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Secret Agent Maan Skin Icon](images/exclusivities/skin_24207.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Secret Agent Maan</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Golden Epic Icon for Ulkoria Slot 2](images/exclusivities/ge_8327.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">All Champion Damage</span>
+                        <span style="margin-left:15px">Ulkoria (Slot 2)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        ![Golden Epic Icon for Aeon Slot 3](images/exclusivities/ge_23720.png)
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Uncover Weakness (Prestack)</span>
+                        <span style="margin-left:15px">Aeon (Slot 3)</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>24 July 2024</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>Unknown</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>Unknown</span>
             </span>
         </span>
     </span>
