@@ -4603,6 +4603,39 @@ A list of all champions and the patrons they are available for.
         <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-07-03
     </span>
     <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        155
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        Wren
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight">
+        3
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft">
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-07-31
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
 </span><br>
 {:/nomarkdown}
 <br />
@@ -5529,10 +5562,10 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
                 <span>24 July 2024</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>Unknown</span>
+                <span>01 November 2024</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>Unknown</span>
+                <span>01 February 2025 (Guess)</span>
             </span>
         </span>
     </span>
