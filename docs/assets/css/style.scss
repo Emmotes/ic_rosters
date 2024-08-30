@@ -308,6 +308,26 @@ input[type="checkbox"]:checked::before {
 .patronRosterBorderRight {
 	border-right: 1px solid black;
 }
+.featTooltipContents,.itemTooltipContents {
+	visibility: hidden;
+	padding: 15px;
+	border: 1px solid black;
+	background-color: #101010;
+	width: max-content;
+	max-width: 350px;
+	
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	flex-direction: column;
+	z-index: 1;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	transform: translate(100px, 10px);
+	color: #f0e7d5;
+	pointer-events: none;
+}
 .tooltipHolder {
 	position: relative;
 	cursor: pointer;
@@ -315,6 +335,12 @@ input[type="checkbox"]:checked::before {
 	width: 100%;
 	height: 100%;
 	color: #FFCC00;
+}
+.itemTooltipContents code,.featTooltipContents code {
+	margin-top: 10px;
+	font-size: 0.9em;
+	color: white;
+	padding: 5px;
 }
 .tooltipHolder:hover .featTooltipContents,.tooltipHolder:hover .itemTooltipContents {
 	visibility: visible;
