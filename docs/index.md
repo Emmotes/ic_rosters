@@ -2851,7 +2851,7 @@ A list of all champions and the patrons they are available for.
     </span>
     <span class="patronRosterItem">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft">
-        <label class="cblabel"><input type="checkbox" disabled checked>Until 2024-08-31
+        <label class="cblabel"><input type="checkbox" disabled>
     </span>
     <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
@@ -2917,7 +2917,7 @@ A list of all champions and the patrons they are available for.
     </span>
     <span class="patronRosterItem">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft">
-        <label class="cblabel"><input type="checkbox" disabled checked>Until 2024-08-31
+        <label class="cblabel"><input type="checkbox" disabled>
     </span>
     <span class="patronRosterItem patronRosterBorderRight">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft">&nbsp;</span>
