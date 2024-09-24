@@ -1,4 +1,4 @@
-const v=1.2
+const v=1.3;
 const patronSort = document.getElementById("patronSort");
 var allExclusivesHidden = true;
 

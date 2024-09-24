@@ -7387,4 +7387,4 @@ This is the list of recurring events that have had their exclusivity period end.
 
 *Last Modified: {{ site.time }}*
 
-<script type="text/javascript" src="scripts/main.js?v=1.2"></script>
+<script type="text/javascript" src="scripts/main.js?v=1.3;"></script>
