@@ -345,3 +345,15 @@ input[type="checkbox"]:checked::before {
 .tooltipHolder:hover .featTooltipContents,.tooltipHolder:hover .itemTooltipContents {
 	visibility: visible;
 }
+.patronSort {
+	position: absolute;
+	top: -40px;
+	right: 100px;
+	font-size: 1.1em;
+}
+.patronSort select {
+	background-color: #141414;
+	color: #F0E7D5;
+	border: 1px solid #000000;
+	padding: 0 15px;
+}
