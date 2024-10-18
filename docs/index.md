@@ -4959,6 +4959,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="kent" style="background-image:url(images/portraits/kent.png)">Kent (4)</span>
 <span class="eventRosterChampion" id="astarion" style="background-image:url(images/portraits/astarion.png)">Astarion (10)</span>
 <span class="eventRosterChampion" id="thellora" style="background-image:url(images/portraits/thellora.png)">Thellora (1)</span>
+<span class="eventRosterChampion" id="kas" style="background-image:url(images/portraits/kas.png)">Kas (6)</span>
 </span>
 
 {:/nomarkdown}
@@ -4974,7 +4975,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="orkira" style="background-image:url(images/portraits/orkira.png)">Orkira (1)</span>
 <span class="eventRosterChampion" id="antrius" style="background-image:url(images/portraits/antrius.png)">Antrius (4)</span>
 <span class="eventRosterChampion" id="gale" style="background-image:url(images/portraits/gale.png)">Gale (1)</span>
-<span class="eventRosterChampion" id="kas" style="background-image:url(images/portraits/kas.png)">Kas (6)</span>
 </span>
 
 {:/nomarkdown}
