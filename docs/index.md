@@ -7187,7 +7187,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 <span>28 February 2024</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>28 August 2024 (Guess)</span>
+                <span>28 August 2024</span>
             </span>
         </span>
     </span>
@@ -7301,7 +7301,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 <span>31 May 2024</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>31 August 2024 (Guess)</span>
+                <span>28 August 2024</span>
             </span>
         </span>
     </span>
