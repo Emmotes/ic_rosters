@@ -4789,7 +4789,7 @@ A list of all champions and the patrons they are available for.
     </span>
     <span class="patronRosterItem" data-sort="142,51,25,289,289,0,289,286">&nbsp;</span>
     <span class="patronRosterItem patronRosterLeft" data-sort="142,51,25,289,289,0,289,286">
-        <label class="cblabel"><input type="checkbox" disabled checked>Until 2032-12-31
+        <label class="cblabel"><input type="checkbox" disabled checked>Until 2027-12-04
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="142,51,25,289,289,0,289,286">&nbsp;</span>
 </span><br>
@@ -4809,25 +4809,6 @@ A list of all champions and the patrons they are available for.
 A list of events and what champions are in them - to the best of our knowledge.
 
 <span style="font-size:1.2em;">ⓘ</span>  *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
-
-# Simril - December
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-<span class="eventRosterChampion" id="dhadius" style="background-image:url(images/portraits/dhadius.png)">Dhadius (5)</span>
-<span class="eventRosterChampion" id="regis" style="background-image:url(images/portraits/regis.png)">Regis (2)</span>
-<span class="eventRosterChampion" id="warden" style="background-image:url(images/portraits/warden.png)">Warden (11)</span>
-<span class="eventRosterChampion" id="krull" style="background-image:url(images/portraits/krull.png)">Krull (6)</span>
-<span class="eventRosterChampion" id="lucius" style="background-image:url(images/portraits/lucius.png)">Lucius (7)</span>
-<span class="eventRosterChampion" id="talin" style="background-image:url(images/portraits/talin.png)">Talin (2)</span>
-<span class="eventRosterChampion" id="yorven" style="background-image:url(images/portraits/yorven.png)">Yorven (10)</span>
-<span class="eventRosterChampion" id="warduke" style="background-image:url(images/portraits/warduke.png)">Warduke (8)</span>
-<span class="eventRosterChampion" id="shadowheart" style="background-image:url(images/portraits/shadowheart.png)">Shadowheart (6)</span>
-<span class="eventRosterChampion" id="halsin" style="background-image:url(images/portraits/halsin.png)">Halsin (3)</span>
-</span>
-
-{:/nomarkdown}
 
 # Wintershield - January
 
@@ -5031,6 +5012,24 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 {:/nomarkdown}
 
+# Simril - December
+
+{::nomarkdown}
+
+<span class="eventRosterHolder">
+<span class="eventRosterChampion" id="dhadius" style="background-image:url(images/portraits/dhadius.png)">Dhadius (5)</span>
+<span class="eventRosterChampion" id="regis" style="background-image:url(images/portraits/regis.png)">Regis (2)</span>
+<span class="eventRosterChampion" id="warden" style="background-image:url(images/portraits/warden.png)">Warden (11)</span>
+<span class="eventRosterChampion" id="krull" style="background-image:url(images/portraits/krull.png)">Krull (6)</span>
+<span class="eventRosterChampion" id="lucius" style="background-image:url(images/portraits/lucius.png)">Lucius (7)</span>
+<span class="eventRosterChampion" id="talin" style="background-image:url(images/portraits/talin.png)">Talin (2)</span>
+<span class="eventRosterChampion" id="yorven" style="background-image:url(images/portraits/yorven.png)">Yorven (10)</span>
+<span class="eventRosterChampion" id="warduke" style="background-image:url(images/portraits/warduke.png)">Warduke (8)</span>
+<span class="eventRosterChampion" id="shadowheart" style="background-image:url(images/portraits/shadowheart.png)">Shadowheart (6)</span>
+</span>
+
+{:/nomarkdown}
+
 # Unknown
 
 {::nomarkdown}
@@ -5043,6 +5042,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="antrius" style="background-image:url(images/portraits/antrius.png)">Antrius (4)</span>
 <span class="eventRosterChampion" id="gale" style="background-image:url(images/portraits/gale.png)">Gale (1)</span>
 <span class="eventRosterChampion" id="minthara" style="background-image:url(images/portraits/minthara.png)">Minthara (3)</span>
+<span class="eventRosterChampion" id="halsin" style="background-image:url(images/portraits/halsin.png)">Halsin (3)</span>
 </span>
 
 {:/nomarkdown}
