@@ -5008,6 +5008,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="widdle" style="background-image:url(images/portraits/widdle.png)">Widdle (2)</span>
 <span class="eventRosterChampion" id="virgil" style="background-image:url(images/portraits/virgil.png)">Virgil (10)</span>
 <span class="eventRosterChampion" id="jangsao" style="background-image:url(images/portraits/jangsao.png)">Jang Sao (8)</span>
+<span class="eventRosterChampion" id="minthara" style="background-image:url(images/portraits/minthara.png)">Minthara (3)</span>
 </span>
 
 {:/nomarkdown}
@@ -5026,6 +5027,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="yorven" style="background-image:url(images/portraits/yorven.png)">Yorven (10)</span>
 <span class="eventRosterChampion" id="warduke" style="background-image:url(images/portraits/warduke.png)">Warduke (8)</span>
 <span class="eventRosterChampion" id="shadowheart" style="background-image:url(images/portraits/shadowheart.png)">Shadowheart (6)</span>
+<span class="eventRosterChampion" id="halsin" style="background-image:url(images/portraits/halsin.png)">Halsin (3)</span>
 </span>
 
 {:/nomarkdown}
@@ -5041,8 +5043,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="orkira" style="background-image:url(images/portraits/orkira.png)">Orkira (1)</span>
 <span class="eventRosterChampion" id="antrius" style="background-image:url(images/portraits/antrius.png)">Antrius (4)</span>
 <span class="eventRosterChampion" id="gale" style="background-image:url(images/portraits/gale.png)">Gale (1)</span>
-<span class="eventRosterChampion" id="minthara" style="background-image:url(images/portraits/minthara.png)">Minthara (3)</span>
-<span class="eventRosterChampion" id="halsin" style="background-image:url(images/portraits/halsin.png)">Halsin (3)</span>
 </span>
 
 {:/nomarkdown}
