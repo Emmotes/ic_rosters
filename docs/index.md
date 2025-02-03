@@ -5093,7 +5093,9 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 # Exclusivity Dates
 
-## Premium Exclusive Feats
+A list of things that are currently or used to be in an exclusivity period.
+
+# Premium Exclusive Feats
 
 These are feats that were previously released in premium packs and are now sitting in an exclusivity period until they will be available again for gems.
 
@@ -5168,7 +5170,7 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
 </span>
 
-## Emergence / Giveaway / Season Based Exclusivities
+# Current Exclusive Special Events
 
 When a season ends - most of the items that were available in the season pass track become exclusive and unavailable for a period of six months - at which point they become available again. Usually this means everything goes into Wild Offers (including the feats) while feats also become available for gems.
 
@@ -5584,7 +5586,7 @@ For platform giveaways we've been told the exclusivity period is 3 months from t
     </span>
 </span>
 
-# Old Exclusives
+# Old Exclusive Special Events
 
 This is the list of recurring events that have had their exclusivity period end. This means their contents are available again. This list does not include platform giveaways.
 
