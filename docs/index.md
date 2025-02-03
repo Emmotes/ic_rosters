@@ -5178,8 +5178,6 @@ Feats will become available for gems while most everything else will end up in W
 
 For Emergences - the items added will remain in the Thayan Enclave until the following Emergence ends. Then it will remain exclusive for another 3 months. Because of this - I have set the End Date for Emergences as the date the items leave the shop (not the date the emergence actually ended).
 
-For platform giveaways we've been told the exclusivity period is 3 months from the moment the giveaway ends.
-
 <span class="postSeasonTableColumn">
 <span class="postSeasonTableRow postSeasonTableRowShowHideAll"><a id="showHideAll" onClick="exclusiveToggleAllContents()" style="cursor:pointer">[show all contents]</a></span>
     <span class="postSeasonTableRow">
