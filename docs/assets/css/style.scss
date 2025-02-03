@@ -357,3 +357,133 @@ input[type="checkbox"]:checked::before {
 	border: 1px solid #000000;
 	padding: 0 15px;
 }
+.featTableColumn {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+	margin: 1px;
+	width: 818px;
+	font-size: 0.9em;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+.featTableRow,.featTableRowHeader {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+	height: 49px;
+	margin: 2px;
+	background-color: #101010;
+	border: 1px solid black;
+	text-wrap: balance;
+}
+.featTableRowHeader {
+	border-bottom: 4px ridge black;
+	font-size: 1.1em;
+}
+.featTableRow:hover {
+	border: 1px solid #FFEB9B;
+	background-color: #000000;
+}
+.featTableIcon0,.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5,.featTableChampion,.featTableSource,.featTableDate {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	width: 220px;
+	height: 100%;
+	margin: 0px;
+}
+.featTableChampion {
+	border-right: 1px soli
+	width: 92px;
+	padding-left: 8px;d black;
+	background-color: #202020;
+}
+.featTableSource {
+	width: 90px;
+	padding-left: 8px;
+}
+.featTableDate {
+	width: 75px;
+	padding-left: 8px;
+	text-align: right;
+}
+.featTableDate {
+	justify-content: flex-end;
+	border-left: 1px solid black;
+	background-color: #202020;
+	padding-right: 8px;
+}
+.featTableEffect {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	width: 294px;
+	height: 100%;
+	margin: 0px;
+	background-color: #202020;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	padding: 0 1px 0 8px;
+}
+.featTableIcon0,.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5 {
+	position: relative;
+	cursor: pointer;
+}
+.featTableIcon0 img,.featTableIcon1 img,.featTableIcon2 img,.featTableIcon3 img,.featTableIcon4 img,.featTableIcon5 img {
+	margin: 5px;
+	width: 40px;
+	height: 40px;
+	object-fit: contain;
+}
+.featTableIcon0 img,.featTableIcon0:hover .featTooltipContents {
+	border: none;
+}
+.featTableIcon1 img,.featTableIcon1:hover .featTooltipContents {
+	border: 1px solid #DEE3DE;
+}
+.featTableIcon2 img,.featTableIcon2:hover .featTooltipContents {
+	border: 1px solid #7BDF00;
+}
+.featTableIcon3 img,.featTableIcon3:hover .featTooltipContents {
+	border: 1px solid #2955FF;
+}
+.featTableIcon4 img,.featTableIcon4:hover .featTooltipContents {
+	border: 1px solid #8408EF;
+}
+.featTableIcon5 img,.featTableIcon5:hover .featTooltipContents {
+	border: 1px solid #FBBA37;
+}
+.featTableIcon0:hover .featTooltipContents,.featTableIcon1:hover .featTooltipContents,.featTableIcon2:hover .featTooltipContents,.featTableIcon3:hover .featTooltipContents,.featTableIcon4:hover .featTooltipContents,.featTableIcon5:hover .featTooltipContents {
+	visibility: visible;
+}
+.featTooltipContents {
+	visibility: hidden;
+	padding: 15px;
+	border: 1px solid black;
+	background-color: #141414;
+	width: max-content;
+	max-width: 800px;
+	
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	flex-direction: column;
+	z-index: 1;
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+	transform: translate(100px, 10px);
+	color: #F0E7D5;
+	pointer-events: none;
+}
+.featTooltipContents code {
+	margin-top: 10px;
+	font-size: 0.9em;
+	color: white;
+	padding: 5px;
+}
