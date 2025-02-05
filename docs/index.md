@@ -4858,6 +4858,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="uriah" style="background-image:url(images/portraits/uriah.png)">Uriah (9)</span>
 <span class="eventRosterChampion" id="karlach" style="background-image:url(images/portraits/karlach.png)">Karlach (4)</span>
 <span class="eventRosterChampion" id="presto" style="background-image:url(images/portraits/presto.png)">Presto (2)</span>
+<span class="eventRosterChampion" id="kalix" style="background-image:url(images/portraits/kalix.png)">Kalix (5)</span>
 </span>
 
 {:/nomarkdown}
@@ -4868,12 +4869,15 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span class="eventRosterHolder">
 <span class="eventRosterChampion" id="zorbu" style="background-image:url(images/portraits/zorbu.png)">Zorbu (12)</span>
+<span class="eventRosterChampion" id="nrakk" style="background-image:url(images/portraits/nrakk.png)">Nrakk (8)</span>
 <span class="eventRosterChampion" id="blackviper" style="background-image:url(images/portraits/blackviper.png)">Black Viper (7)</span>
 <span class="eventRosterChampion" id="sisaspia" style="background-image:url(images/portraits/sisaspia.png)">Sisaspia (1)</span>
 <span class="eventRosterChampion" id="orisha" style="background-image:url(images/portraits/orisha.png)">Orisha (11)</span>
+<span class="eventRosterChampion" id="orkira" style="background-image:url(images/portraits/orkira.png)">Orkira (1)</span>
 <span class="eventRosterChampion" id="desmond" style="background-image:url(images/portraits/desmond.png)">Desmond (4)</span>
 <span class="eventRosterChampion" id="solaak" style="background-image:url(images/portraits/solaak.png)">Solaak (2)</span>
 <span class="eventRosterChampion" id="dynaheir" style="background-image:url(images/portraits/dynaheir.png)">Dynaheir (3)</span>
+<span class="eventRosterChampion" id="gale" style="background-image:url(images/portraits/gale.png)">Gale (1)</span>
 </span>
 
 {:/nomarkdown}
@@ -5071,12 +5075,9 @@ A list of events and what champions are in them - to the best of our knowledge.
 {::nomarkdown}
 
 <span class="eventRosterHolder">
-<span class="eventRosterChampion" id="nrakk" style="background-image:url(images/portraits/nrakk.png)">Nrakk (8)</span>
 <span class="eventRosterChampion" id="aila" style="background-image:url(images/portraits/aila.png)">Aila (9)</span>
 <span class="eventRosterChampion" id="melf" style="background-image:url(images/portraits/melf.png)">Melf (12)</span>
-<span class="eventRosterChampion" id="orkira" style="background-image:url(images/portraits/orkira.png)">Orkira (1)</span>
 <span class="eventRosterChampion" id="antrius" style="background-image:url(images/portraits/antrius.png)">Antrius (4)</span>
-<span class="eventRosterChampion" id="gale" style="background-image:url(images/portraits/gale.png)">Gale (1)</span>
 </span>
 
 {:/nomarkdown}
@@ -5465,6 +5466,61 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             </span>
             <span class="postSeasonTableDate">
                 <span>30 April 2025 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="g4a" onclick="exclusiveToggleContent(`g4`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Elegant Spring Giveaway Spring Celebration 2025 Icon](images/general/elegant spring.png)**Elegant Spring Giveaway** - Spring Celebration 2025
+            </span>
+        </span>
+        <span id="g4" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Taunt Feat Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1971**Taunt (Minthara)**Hear me, creatures! I am your foe this day!<code>global_dps_multiplier_mult,100<br>taunt,50</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Taunt</span>
+                        <span style="margin-left:15px">Minthara (100% All Champion Damage & 50% Taunt)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Myrkul's Chosen Minthara Skin Icon](images/exclusivities/skin_25912.png)<span class="featTooltipContents">ID: 524**Myrkul's Chosen Minthara (Minthara)**<img src="images/exclusivities/skin_25923.gif" alt="Myrkul's Chosen Minthara Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Myrkul's Chosen Minthara</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>05 February 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>12 February 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>12 May 2025 (Guess)</span>
             </span>
         </span>
     </span>
