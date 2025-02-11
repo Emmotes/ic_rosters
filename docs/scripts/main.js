@@ -1,6 +1,7 @@
-const v=1.3;
+const v=1.4;
 const patronSort = document.getElementById("patronSort");
 var allExclusivesHidden = true;
+var allExclusiveFeatsHidden = false;
 
 function init() {
 	nixieBlueIt();
@@ -16,18 +17,16 @@ function init() {
 
 function swapTab() {
 	var hash = window.location.hash.substring(1);
-	if (hash != "" && document.getElementById(hash) != undefined) {
+	if (hash != "" && document.getElementById(hash) != undefined)
 		document.getElementById(hash).click();
-	}
 }
 
 function setHash(hash) {
 	hash = "#" + hash;
-	if(history.replaceState) {
+	if(history.replaceState)
 		history.replaceState(null, null, hash);
-	} else {
+	else
 		window.location.hash = hash;
-	}
 }
 
 function randInt(min, max) {
@@ -35,9 +34,8 @@ function randInt(min, max) {
 }
 
 function nixieBlueIt() {
-    if (randInt(1,4) == 4) {
+    if (randInt(1,4) == 4)
         document.getElementById("nixie").style.backgroundImage = "url(images/portraits/nixieBlue.png)";
-    }
 }
 
 function exclusiveToggleContent(id) {
@@ -59,17 +57,23 @@ function exclusiveToggleContent(id) {
 function exclusiveToggleAllContents() {
 	let eles = document.getElementsByClassName(`postSeasonTableRowShowHide`);
 	allExclusivesHidden = !allExclusivesHidden;
-	for (let ele of eles) {
+	for (let ele of eles)
 		ele.hidden = allExclusivesHidden;
-	}
 	let show=allExclusivesHidden?`show`:`hide`;
 	let hide=allExclusivesHidden?`hide`:`show`;
 	document.getElementById(`showHideAll`).innerHTML=`[${show} all contents]`;
 	eles = document.getElementsByClassName(`postSeasonTableShowContents`);
-	for (let ele of eles) {
+	for (let ele of eles)
 		if (ele.innerHTML==`[${hide} contents]`)
 			ele.innerHTML=`[${show} contents]`;
-	}
+}
+
+function exclusiveToggleAllFeats() {
+	let eles = document.getElementsByClassName(`featTableRow`);
+	allExclusiveFeatsHidden = !allExclusiveFeatsHidden;
+	for (let ele of eles)
+		ele.style.display = allExclusiveFeatsHidden?`none`:``;
+	document.getElementById(`showHideFeats`).innerHTML=`[${allExclusiveFeatsHidden?`show`:`hide`} all feats]`;
 }
 
 function sortPatrons() {

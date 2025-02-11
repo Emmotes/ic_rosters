@@ -5133,6 +5133,11 @@ A list of things that are currently or used to be in an exclusivity period.
 
 These are feats that were previously released in premium packs and are now sitting in an exclusivity period until they will be available again for gems.
 
+<span class="postSeasonTableColumn">
+    <span class="postSeasonTableRow postSeasonTableRowShowHideAll">
+        <a id="showHideFeats" onClick="exclusiveToggleAllFeats()" style="cursor:pointer">[hide all feats]</a>
+    </span>
+</span>
 <span class="featTableColumn">
     <span class="featTableRowHeader">
         <span class="featTableChampion">
@@ -7907,4 +7912,4 @@ This is the list of recurring events that have had their exclusivity period end.
 
 *Last Modified: {{ site.time }}*
 
-<script type="text/javascript" src="scripts/main.js?v=1.3;"></script>
+<script type="text/javascript" src="scripts/main.js?v=1.4;"></script>

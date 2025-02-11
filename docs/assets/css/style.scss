@@ -487,3 +487,22 @@ input[type="checkbox"]:checked::before {
 	color: white;
 	padding: 5px;
 }
+.postSeasonTableColumn {
+	display: flex;
+	flex-direction: column;
+	max-width: 848px;
+	font-size: 0.9em;
+}
+.postSeasonTableRow {
+	display: flex;
+	flex-direction: column;
+	margin: 5px;
+}
+.postSeasonTableShowContents {
+	position:absolute;
+	bottom: 0px;
+	right: 0px;
+	padding: 4px;
+	font-size: 0.8em;
+	cursor: pointer;
+}
