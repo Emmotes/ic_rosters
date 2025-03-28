@@ -2152,39 +2152,39 @@ A list of all champions and the patrons they are available for.
         <label class="cblabel"><input type="checkbox" disabled>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="62,48,75,299,0,0,299,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="63,13,88,299,299,0,299,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="63,13,88,299,299,0,299,0">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="63,13,88,0,0,299,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="63,13,88,0,0,299,0,0">
         64
     </span>
-    <span class="patronRosterItem" data-sort="63,13,88,299,299,0,299,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="63,13,88,299,299,0,299,0">
-        Beadle & Grimm
+    <span class="patronRosterItem" data-sort="63,13,88,0,0,299,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="63,13,88,0,0,299,0,0">
+        Beadle
     </span>
-    <span class="patronRosterItem" data-sort="63,13,88,299,299,0,299,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="63,13,88,299,299,0,299,0">
+    <span class="patronRosterItem" data-sort="63,13,88,0,0,299,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="63,13,88,0,0,299,0,0">
         8
     </span>
-    <span class="patronRosterItem" data-sort="63,13,88,299,299,0,299,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="63,13,88,299,299,0,299,0">
-        <label class="cblabel"><input type="checkbox" disabled checked>
-    </span>
-    <span class="patronRosterItem" data-sort="63,13,88,299,299,0,299,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="63,13,88,299,299,0,299,0">
-        <label class="cblabel"><input type="checkbox" disabled checked>
-    </span>
-    <span class="patronRosterItem" data-sort="63,13,88,299,299,0,299,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="63,13,88,299,299,0,299,0">
+    <span class="patronRosterItem" data-sort="63,13,88,0,0,299,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="63,13,88,0,0,299,0,0">
         <label class="cblabel"><input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="63,13,88,299,299,0,299,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="63,13,88,299,299,0,299,0">
-        <label class="cblabel"><input type="checkbox" disabled checked>
-    </span>
-    <span class="patronRosterItem" data-sort="63,13,88,299,299,0,299,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="63,13,88,299,299,0,299,0">
+    <span class="patronRosterItem" data-sort="63,13,88,0,0,299,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="63,13,88,0,0,299,0,0">
         <label class="cblabel"><input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="63,13,88,299,299,0,299,0">&nbsp;</span>
+    <span class="patronRosterItem" data-sort="63,13,88,0,0,299,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="63,13,88,0,0,299,0,0">
+        <label class="cblabel"><input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem" data-sort="63,13,88,0,0,299,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="63,13,88,0,0,299,0,0">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem" data-sort="63,13,88,0,0,299,0,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="63,13,88,0,0,299,0,0">
+        <label class="cblabel"><input type="checkbox" disabled>
+    </span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="63,13,88,0,0,299,0,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="64,92,25,0,299,0,0,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="64,92,25,0,299,0,0,0">
         65
@@ -5026,7 +5026,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion" id="ishi" style="background-image:url(images/portraits/ishi.png)">Ishi (4)</span>
 <span class="eventRosterChampion" id="shandie" style="background-image:url(images/portraits/shandie.png)">Shandie (6)</span>
 <span class="eventRosterChampion" id="jim" style="background-image:url(images/portraits/jim.png)">Jim (7)</span>
-<span class="eventRosterChampion" id="b&g" style="background-image:url(images/portraits/b&g.png)">B&G (8)</span>
+<span class="eventRosterChampion" id="beadle" style="background-image:url(images/portraits/beadle.png)">Beadle (8)</span>
 <span class="eventRosterChampion" id="omin" style="background-image:url(images/portraits/omin.png)">Omin (3)</span>
 <span class="eventRosterChampion" id="ellywick" style="background-image:url(images/portraits/ellywick.png)">Ellywick (10)</span>
 <span class="eventRosterChampion" id="prudence" style="background-image:url(images/portraits/prudence.png)">Prudence (5)</span>
