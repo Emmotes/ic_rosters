@@ -4924,39 +4924,39 @@ A list of all champions and the patrons they are available for.
         <label class="cblabel"><input type="checkbox" disabled checked>Until 2028-03-11
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="146,113,76,301,0,299,299,293">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="147,51,13,301,301,0,301,295">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="147,51,13,301,301,0,301,295">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="147,51,13,301,301,300,301,295">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="147,51,13,301,301,300,301,295">
         161
     </span>
-    <span class="patronRosterItem" data-sort="147,51,13,301,301,0,301,295">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="147,51,13,301,301,0,301,295">
+    <span class="patronRosterItem" data-sort="147,51,13,301,301,300,301,295">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="147,51,13,301,301,300,301,295">
         Grimm
     </span>
-    <span class="patronRosterItem" data-sort="147,51,13,301,301,0,301,295">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="147,51,13,301,301,0,301,295">
+    <span class="patronRosterItem" data-sort="147,51,13,301,301,300,301,295">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="147,51,13,301,301,300,301,295">
         2
     </span>
-    <span class="patronRosterItem" data-sort="147,51,13,301,301,0,301,295">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="147,51,13,301,301,0,301,295">
+    <span class="patronRosterItem" data-sort="147,51,13,301,301,300,301,295">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="147,51,13,301,301,300,301,295">
         <label class="cblabel"><input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="147,51,13,301,301,0,301,295">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="147,51,13,301,301,0,301,295">
+    <span class="patronRosterItem" data-sort="147,51,13,301,301,300,301,295">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="147,51,13,301,301,300,301,295">
         <label class="cblabel"><input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="147,51,13,301,301,0,301,295">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="147,51,13,301,301,0,301,295">
-        <label class="cblabel"><input type="checkbox" disabled>
+    <span class="patronRosterItem" data-sort="147,51,13,301,301,300,301,295">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="147,51,13,301,301,300,301,295">
+        <label class="cblabel"><input type="checkbox" disabled checked>Ability
     </span>
-    <span class="patronRosterItem" data-sort="147,51,13,301,301,0,301,295">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="147,51,13,301,301,0,301,295">
+    <span class="patronRosterItem" data-sort="147,51,13,301,301,300,301,295">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="147,51,13,301,301,300,301,295">
         <label class="cblabel"><input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="147,51,13,301,301,0,301,295">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="147,51,13,301,301,0,301,295">
+    <span class="patronRosterItem" data-sort="147,51,13,301,301,300,301,295">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="147,51,13,301,301,300,301,295">
         <label class="cblabel"><input type="checkbox" disabled checked>Until 2028-04-01
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="147,51,13,301,301,0,301,295">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="147,51,13,301,301,300,301,295">&nbsp;</span>
 </span><br>
 {:/nomarkdown}
 <br />
@@ -5587,6 +5587,40 @@ These are feats that were previously released in premium packs and are now sitti
         </span>
         <span class="featTableDate">
             <span>26 Jun 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Beadle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Show Off Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2128**Show Off (Beadle)**Sneak attacks are a bit easier when you can teleport! ~Beadle<code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span>Show Off
+        </span>
+        <span class="featTableEffect">
+            <span>100% Ultimate Damage & Blocks Roaming Ultimate Bar Familiars</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>02 Jul 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Grimm</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Gloves Off Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2154**Gloves Off (Grimm)**Let's settle this, one on one. No potions, blades only, neutral ground. ~Grimm<code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span>Gloves Off
+        </span>
+        <span class="featTableEffect">
+            <span>100% Ultimate Damage & Blocks Roaming Ultimate Bar Familiars</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>02 Jul 2025</span>
         </span>
     </span>
 </span>
