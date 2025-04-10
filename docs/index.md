@@ -5623,6 +5623,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span>02 Jul 2025</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Catti-brie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Archer's Perception Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1355**Archer's Perception (Catti-brie)**I'll know them when I see them. Attack on my signal.<code>buff_upgrade,80,11308</code></span>Archer's Perception
+        </span>
+        <span class="featTableEffect">
+            <span>80% Mark for Death</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>09 Jul 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Dark Urge</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Blazing Blood Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2129**Blazing Blood (Dark Urge)**The hells themselves will quake at your passing, milord!<code>buff_upgrade,80,14380</code></span>Blazing Blood
+        </span>
+        <span class="featTableEffect">
+            <span>80% Ceremorphosis (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>09 Jul 2025</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -5635,61 +5669,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
 
 <span class="postSeasonTableColumn">
 <span class="postSeasonTableRow postSeasonTableRowShowHideAll"><a id="showHideAll" onClick="exclusiveToggleAllContents()" style="cursor:pointer">[show all contents]</a></span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
-                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![EGS Giveaway Grymforge Karlach Party Pack Icon](images/general/egs.png)**EGS Giveaway** - Grymforge Karlach Party Pack
-            </span>
-        </span>
-        <span id="g1" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heart Ablaze Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2005**Heart Ablaze (Karlach)**I don't think I've ever felt more powerful.<code>buff_upgrade,80,13724</code></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Feat**</span>
-                        <span style="margin-left:15px">Heart Ablaze</span>
-                        <span style="margin-left:15px">Karlach (80% Infernal Engine (Prestack))</span>
-                    </span>
-                </span>
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Grymforge Karlach Skin Icon](images/exclusivities/skin_25348.png)<span class="featTooltipContents">ID: 501**Grymforge Karlach (Karlach)**<img src="images/exclusivities/skin_25354.gif" alt="Grymforge Karlach Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Skin**</span>
-                        <span style="margin-left:15px">Grymforge Karlach</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>12 December 2024</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>19 December 2024</span>
-            </span>
-            <span class="postSeasonTableDateLate">
-                <span>19 March 2025 (Guess) (Late)</span>
-            </span>
-        </span>
-    </span>
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
@@ -5817,13 +5796,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
+                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![Elegant Spring Giveaway Spring Celebration 2025 Icon](images/general/elegant spring.png)**Elegant Spring Giveaway** - Spring Celebration 2025
             </span>
         </span>
-        <span id="g2" class="postSeasonTableRowShowHide" hidden>
+        <span id="g1" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -5866,6 +5845,115 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             </span>
             <span class="postSeasonTableDate">
                 <span>12 May 2025 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="g3a" onclick="exclusiveToggleContent(`g3`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Feast of the Giants Giveaway Feast of the Giants Icon](images/general/feast of the giants.png)**Feast of the Giants Giveaway** - Feast of the Giants
+            </span>
+        </span>
+        <span id="g3" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Soul Shroud Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2158**Soul Shroud (Kas)**I will take their lives. I shall drink their very souls. Their fate is sealed.<code>buff_upgrade,80,15619,1</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Soul Shroud</span>
+                        <span style="margin-left:15px">Kas (80% Born Into Evil)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Death Giant Kas Skin Icon](images/exclusivities/skin_26345.png)<span class="featTooltipContents">ID: 568**Death Giant Kas (Kas)**<img src="images/exclusivities/skin_26349.gif" alt="Death Giant Kas Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Death Giant Kas</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>07 April 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>14 April 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>14 July 2025 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![EGS Giveaway Astarion's Champions of Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Astarion's Champions of Renown Pack
+            </span>
+        </span>
+        <span id="g2" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Tuxedo Kalix Skin Icon](images/exclusivities/skin_25911.png)<span class="featTooltipContents">ID: 516**Tuxedo Kalix (Kalix)**<img src="images/exclusivities/skin_25922.gif" alt="Tuxedo Kalix Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Tuxedo Kalix</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Rumble the Angry Flumph Familiar Icon](images/exclusivities/fam_237.png)<span class="featTooltipContents">ID: 237**Rumble the Angry Flumph**A flumph glows faintly, reflecting its moods in its color. Crimson means anger. Beware the angry flumph!<br><img src="images/exclusivities/fam_237.gif" alt="Rumble the Angry Flumph Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Familiar**</span>
+                        <span style="margin-left:15px">Rumble the Angry Flumph</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>10 April 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>17 April 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>17 July 2025 (Guess)</span>
             </span>
         </span>
     </span>
