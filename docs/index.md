@@ -10,9 +10,9 @@ Some roster tables that detail various bits of information for champions and eve
 <input onClick="setHash('patronsTab')" type="radio" class="tabsRadio" name="rosterTabs" id="patronsTab" checked><label for="patronsTab" class="tabsLabel">Patrons</label><div class="tabsContent">
 {:/nomarkdown}
 
-# Patrons Roster
+# Patron Roster
 
-A list of all champions and the patrons they are available for.
+A list of all champions and their patron availability.
 
 {::nomarkdown}
 <span class="patronRosterGrid" style="position:relative">
@@ -4969,11 +4969,11 @@ A list of all champions and the patrons they are available for.
 <input onClick="setHash('eventsTab')" type="radio" class="tabsRadio" name="rosterTabs" id="eventsTab"><label for="eventsTab" class="tabsLabel">Events</label><div class="tabsContent">
 {:/nomarkdown}
 
-# Events Roster
+# Event Roster
 
 A list of events and what champions are in them - to the best of our knowledge.
 
-<span style="font-size:1.2em;">ⓘ</span>  *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
+<span style="font-size:1.2em;">ⓘ</span> *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
 # The Great Modron March - May
 
