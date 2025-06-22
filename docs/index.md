@@ -8597,6 +8597,451 @@ This is the list of recurring events that have had their exclusivity period end.
 {:/nomarkdown}
 
 {::nomarkdown}
+<input onClick="setHash('featsTab')" type="radio" class="tabsRadio" name="rosterTabs" id="featsTab"><label for="featsTab" class="tabsLabel">Recent Feats</label><div class="tabsContent">
+{:/nomarkdown}
+
+# Recent Feats
+
+A list of feats that have left their exclusivity period within the last three months and are now available for gems.
+
+For a list of feats still in exclusivity - see the Exclusivities tab.
+
+<span style="font-size:1.2em;">ⓘ</span> *Note: The most recently available are at the top.*
+
+<span class="featTableColumn">
+    <span class="featTableRowHeader">
+        <span class="featTableChampion">
+            <span>**Champion**</span>
+        </span>
+        <span class="featTableIcon1">
+            <span style="margin-left:8px;">**Feat**</span>
+        </span>
+        <span class="featTableEffect">
+            <span>**Effect**</span>
+        </span>
+        <span class="featTableSource">
+            <span>**Source**</span>
+        </span>
+        <span class="featTableDate">
+            <span>**Date**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Sisaspia</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Evolved Contagion Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2092**Evolved Contagion (Sisaspia)**Thisss isn't even itsss final form.<code>buff_upgrade,80,13251</code></span>Evolved Contagion
+        </span>
+        <span class="featTableEffect">
+            <span>80% Symbiotic Infection</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>19 Mar 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Nrakk</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Enlightened Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2093**Enlightened (Nrakk)**Mind, heart, body, and soul in perfect balance, as all things should be.<code>buff_upgrades,80,13005,13006</code></span>Enlightened
+        </span>
+        <span class="featTableEffect">
+            <span>80% All Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>19 Mar 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Orkira</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2091**Immolation (Orkira)**Friends are like marshmallows, flammable and sweet.<code>immolation,1,5</code></span>Immolation
+        </span>
+        <span class="featTableEffect">
+            <span>1s BUD per sec for 5s</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>12 Mar 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Sheila</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Heart of Gold Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2113**Heart of Gold (Sheila)**Well, I lost us a chance to get home, but gained a friend!<code>buff_upgrade,80,16538</code></span>Heart of Gold
+        </span>
+        <span class="featTableEffect">
+            <span>80% Kind Heart</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>12 Mar 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Volo</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">ID: 2159**Illithid Tadpole (Volo)**I've simply the worst headache today. Bah! I'm certain it's nothing serious.<code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span>Illithid Tadpole
+        </span>
+        <span class="featTableEffect">
+            <span>25% All Champion Damage & +1 Ceremorphosis Stack</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>12 Mar 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Gale</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Dark Academia Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2090**Dark Academia (Gale)**If Mystra will not hear my pleas, I shall seek succor elsewhere.<code>buff_upgrade,80,14573</code></span>Dark Academia
+        </span>
+        <span class="featTableEffect">
+            <span>80% An Experienced Sage</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>05 Mar 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Volo</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Volo's Expanded Expertise Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2098**Volo's Expanded Expertise (Volo)**I've had an epiphany! If I raise my voice, more willing ears might hear me!<code>change_upgrade_data,16550,0</code></span>Volo's Expanded Expertise
+        </span>
+        <span class="featTableEffect">
+            <span>+1 Column to Volo's Guide to Combat</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>05 Mar 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Thellora</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Ferocious Charge Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2081**Ferocious Charge (Thellora)**With me! Overwhelm them with our combined might! Make them fear us!<code>buff_upgrade,80,12978</code></span>Ferocious Charge
+        </span>
+        <span class="featTableEffect">
+            <span>80% Strength of the Luma</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>26 Feb 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>BBEG</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Secret Stash Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2082**Secret Stash (BBEG)**I've hoarded an assortment of accursed concoctions just for this occasion.<code>buff_upgrade,80,11540</code></span>Secret Stash
+        </span>
+        <span class="featTableEffect">
+            <span>80% Homebrew</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>26 Feb 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Vi</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2079**Prodigal Leader (Vi)**When you look this good, people will do just about anything for you.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>19 Feb 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Birdsong</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Weapon Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2080**Weapon Master (Birdsong)**Take away my blades and I'll show you what these claws can do.<code>hero_dps_multiplier_mult,120</code></span>Weapon Master
+        </span>
+        <span class="featTableEffect">
+            <span>120% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>19 Feb 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1971**Taunt (Minthara)**Hear me, creatures! I am your foe this day!<code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
+        </span>
+        <span class="featTableEffect">
+            <span>100% All Champion Damage & 50% Taunt</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>14 May 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Presto</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Presto's Aplomb Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2078**Presto's Aplomb (Presto)**Growing up sure is scary, but I'll be brave.<code>buff_upgrades,80,13765,13766,13767</code></span>Presto's Aplomb
+        </span>
+        <span class="featTableEffect">
+            <span>80% All Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>12 Feb 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Ishi</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2089**Multiversal Allies (Ishi)**Ishi has friends in MANY places. Want to meet them?<code>effect_def,2193</code></span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span>20% All Champion Damage per Unique Species in Formation (Additive)</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>12 Feb 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Kalix</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Psionic Talent Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2065**Psionic Talent (Kalix)**I see into your mind. I sense your weakness. I know your strength.<code>buff_upgrade,80,16516,0</code></span>Psionic Talent
+        </span>
+        <span class="featTableEffect">
+            <span>80% Thri-kreen Telepathy</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>05 Feb 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Hew Maan</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Misdirection Icon](images/featicons/misdirection.png)<span class="featTooltipContents">ID: 2077**Misdirection (Hew Maan)**Zrang? Nope. Never heard of 'em. ~Zrang<code>global_dps_multiplier_mult,100<br>reverse_taunt</code></span>Misdirection
+        </span>
+        <span class="featTableEffect">
+            <span>100% All Champion Damage & Enemies Will Attack Other Champions If Possible</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>05 Feb 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Voronika</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1723**Prodigal Leader (Voronika)**Do as I say - you'll live longer.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span>50% All Champion Damage</span>
+        </span>
+        <span class="featTableSource">
+            <span>Emergence 9</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Apr 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Ellywick</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Gem Icon](images/featicons/ellywickstacksdeck.png)<span class="featTooltipContents">ID: 1880**Gem (Ellywick)**Spread the wealth.<code>ellywick_gem_prioritized</code></span>Gem
+        </span>
+        <span class="featTableEffect">
+            <span>Always Draws at Least 1 Gems Card</span>
+        </span>
+        <span class="featTableSource">
+            <span>Emergence 9</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Apr 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Nahara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1893**Make Undead (Nahara)**I feel stronger...<code>add_hero_tags,0,undead<br>hero_dps_multiplier_mult,400<br>appear_dead</code></span>Make Undead
+        </span>
+        <span class="featTableEffect">
+            <span>Counts as Undead & 400% Self DPS</span>
+        </span>
+        <span class="featTableSource">
+            <span>Emergence 9</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Apr 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Widdle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1894**Make Undead (Widdle)**HUNGRY!<code>add_hero_tags,0,undead<br>buff_upgrade,160,6905<br>appear_dead</code></span>Make Undead
+        </span>
+        <span class="featTableEffect">
+            <span>Counts as Undead & 160% Vampiric Gaze</span>
+        </span>
+        <span class="featTableSource">
+            <span>Emergence 9</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Apr 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Briv</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Strategic Stride Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2004**Strategic Stride (Briv)**Mine mighty legs could go farther, but there is wisdom in restraint.<code>cap_upgrade,25600,3452</code></span>Strategic Stride
+        </span>
+        <span class="featTableEffect">
+            <span>Cap Unnatural Haste at 9j</span>
+        </span>
+        <span class="featTableSource">
+            <span>Emergence 9</span>
+        </span>
+        <span class="featTableDate">
+            <span>30 Apr 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Kent</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2050**Multiversal Allies (Kent)**We are stronger together.<code>effect_def,2193</code></span>Multiversal Allies
+        </span>
+        <span class="featTableEffect">
+            <span>20% All Champion Damage per Unique Species in Formation (Additive)</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>29 Jan 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Stoki</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Maintain Focus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1240**Maintain Focus (Stoki)**We can't afford to waste time on distractions.<code>change_upgrade_data,16052,5</code></span>Maintain Focus
+        </span>
+        <span class="featTableEffect">
+            <span>Focus Points Are Only Reduced by 33% On Changing Areas</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>22 Jan 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span>Diana</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Unwavering Inspiration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2048**Unwavering Inspiration (Diana)**I believe in myself! I believe in all of us!<code>buff_upgrades,80,14791,14792,14793</code></span>Unwavering Inspiration
+        </span>
+        <span class="featTableEffect">
+            <span>80% All First Specialisations</span>
+        </span>
+        <span class="featTableSource">
+            <span>50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span>22 Jan 2025</span>
+        </span>
+    </span>
+</span>
+<br />
+
+{::nomarkdown}
+</div>
+{:/nomarkdown}
+
+{::nomarkdown}
 </div>
 {:/nomarkdown}
 
