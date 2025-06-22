@@ -1,4 +1,4 @@
-const v=1.4;
+const v=1.500;
 const patronSort = document.getElementById("patronSort");
 var allExclusivesHidden = true;
 var allExclusiveFeatsHidden = false;
@@ -69,7 +69,7 @@ function exclusiveToggleAllContents() {
 }
 
 function exclusiveToggleAllFeats() {
-	let eles = document.getElementsByClassName(`featTableRow`);
+	let eles = document.querySelectorAll(`span[id="exclusiveFeats"] > .featTableRow`);
 	allExclusiveFeatsHidden = !allExclusiveFeatsHidden;
 	for (let ele of eles)
 		ele.style.display = allExclusiveFeatsHidden?`none`:``;

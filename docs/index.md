@@ -5334,7 +5334,7 @@ These are feats that were previously released in premium packs and are now sitti
         <a id="showHideFeats" onClick="exclusiveToggleAllFeats()" style="cursor:pointer">[hide all feats]</a>
     </span>
 </span>
-<span class="featTableColumn">
+<span class="featTableColumn" id="exclusiveFeats">
     <span class="featTableRowHeader">
         <span class="featTableChampion">
             <span>**Champion**</span>
@@ -8608,7 +8608,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: The most recently available are at the top.*
 
-<span class="featTableColumn">
+<span class="featTableColumn" id="recentFeats">
     <span class="featTableRowHeader">
         <span class="featTableChampion">
             <span>**Champion**</span>
@@ -9051,4 +9051,4 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
 
 *Last Modified: {{ site.time }}*
 
-<script type="text/javascript" src="scripts/main.js?v=1.4;"></script>
+<script type="text/javascript" src="scripts/main.js?v=1.500;"></script>
