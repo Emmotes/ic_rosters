@@ -8640,7 +8640,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>19 Mar 2025</span>
+            <span>19 Jun 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8657,7 +8657,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>19 Mar 2025</span>
+            <span>19 Jun 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8674,7 +8674,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>12 Mar 2025</span>
+            <span>12 Jun 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8691,7 +8691,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>12 Mar 2025</span>
+            <span>12 Jun 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8708,7 +8708,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>12 Mar 2025</span>
+            <span>12 Jun 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8725,7 +8725,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>05 Mar 2025</span>
+            <span>05 Jun 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8742,7 +8742,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>05 Mar 2025</span>
+            <span>05 Jun 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8759,7 +8759,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>26 Feb 2025</span>
+            <span>26 May 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8776,7 +8776,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>26 Feb 2025</span>
+            <span>26 May 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8793,7 +8793,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>19 Feb 2025</span>
+            <span>19 May 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8810,7 +8810,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>19 Feb 2025</span>
+            <span>19 May 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8844,7 +8844,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>12 Feb 2025</span>
+            <span>12 May 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8861,7 +8861,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>12 Feb 2025</span>
+            <span>12 May 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8878,7 +8878,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>05 Feb 2025</span>
+            <span>05 May 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8895,7 +8895,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>05 Feb 2025</span>
+            <span>05 May 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8909,7 +8909,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50% All Champion Damage</span>
         </span>
         <span class="featTableSource">
-            <span>Emergence 9</span>
+            <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span>30 Apr 2025</span>
@@ -8926,7 +8926,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>Always Draws at Least 1 Gems Card</span>
         </span>
         <span class="featTableSource">
-            <span>Emergence 9</span>
+            <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span>30 Apr 2025</span>
@@ -8943,7 +8943,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>Counts as Undead & 400% Self DPS</span>
         </span>
         <span class="featTableSource">
-            <span>Emergence 9</span>
+            <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span>30 Apr 2025</span>
@@ -8960,7 +8960,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>Counts as Undead & 160% Vampiric Gaze</span>
         </span>
         <span class="featTableSource">
-            <span>Emergence 9</span>
+            <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span>30 Apr 2025</span>
@@ -8977,7 +8977,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>Cap Unnatural Haste at 9j</span>
         </span>
         <span class="featTableSource">
-            <span>Emergence 9</span>
+            <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
             <span>30 Apr 2025</span>
@@ -8997,7 +8997,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>29 Jan 2025</span>
+            <span>29 Apr 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -9014,7 +9014,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>22 Jan 2025</span>
+            <span>22 Apr 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -9031,7 +9031,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span>50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span>22 Jan 2025</span>
+            <span>22 Apr 2025</span>
         </span>
     </span>
 </span>
