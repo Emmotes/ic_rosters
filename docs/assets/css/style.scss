@@ -361,25 +361,16 @@ input[type="checkbox"]:checked::before {
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
-    justify-content: flex-start;
     align-items: flex-start;
-	margin: 1px;
-	width: 818px;
 	font-size: 0.9em;
-	margin-top: 1px;
-	margin-bottom: 1px;
 }
 .featTableRow,.featTableRowHeader {
     display: flex;
-    flex-direction: row;
     flex-wrap: nowrap;
-    justify-content: center;
-    align-items: center;
-	height: 49px;
 	margin: 2px;
-	background-color: #101010;
+	background-color: var(--Onyx);
 	border: 1px solid black;
-	text-wrap: balance;
+	text-wrap: pretty;
 }
 .featTableRowHeader {
 	border-bottom: 4px ridge black;
@@ -391,16 +382,13 @@ input[type="checkbox"]:checked::before {
 }
 .featTableIcon0,.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5,.featTableChampion,.featTableSource,.featTableDate {
 	display: flex;
-	justify-content: flex-start;
 	align-items: center;
-	width: 220px;
-	height: 100%;
-	margin: 0px;
+	width: 200px;
 }
 .featTableChampion {
-	border-right: 1px solid black;
 	width: 92px;
 	padding-left: 8px;
+	border-right: 1px solid black;
 	background-color: #202020;
 }
 .featTableSource {
@@ -409,30 +397,26 @@ input[type="checkbox"]:checked::before {
 }
 .featTableDate {
 	width: 75px;
-	padding-left: 8px;
-	text-align: right;
-}
-.featTableDate {
+	padding-right: 8px;
 	justify-content: flex-end;
 	border-left: 1px solid black;
 	background-color: #202020;
-	padding-right: 8px;
 }
 .featTableEffect {
 	display: flex;
-	justify-content: flex-start;
 	align-items: center;
-	width: 294px;
-	height: 100%;
-	margin: 0px;
+	width: 314px;
 	background-color: #202020;
 	border-left: 1px solid black;
 	border-right: 1px solid black;
-	padding: 0 1px 0 8px;
+	padding: 0 8px;
 }
 .featTableIcon0,.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5 {
 	position: relative;
 	cursor: pointer;
+}
+.featTableInner {
+	padding: 8px 0;
 }
 .featTableIcon0 img,.featTableIcon1 img,.featTableIcon2 img,.featTableIcon3 img,.featTableIcon4 img,.featTableIcon5 img {
 	margin: 5px;
