@@ -5391,7 +5391,7 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">Briv</span>
         </span>
         <span class="featTableIcon4">
-            ![Thunder Step Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2131**Thunder Step (Briv)**Mine mighty footfalls shalt resoundeth throughout all the land!<br><br>When Steelbones stacks convert to Sprint stacks upon reset, you gain 20% more Sprint stacks, rounded down.<code>steelbones_sprint_conversion_inc,20</code></span>Thunder Step
+            ![Thunder Step Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2131**Thunder Step (Briv)**Mine mighty footfalls shalt resoundeth throughout all the land!<br><br><span style="color:var(--Flavescent)">When Steelbones stacks convert to Sprint stacks upon reset, you gain 20% more Sprint stacks, rounded down.</span><code>steelbones_sprint_conversion_inc,20</code></span>Thunder Step
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">When Steelbones stacks convert to Sprint stacks upon reset, you gain 20% more Sprint stacks, rounded down.</span>
@@ -5408,7 +5408,7 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">Strix</span>
         </span>
         <span class="featTableIcon4">
-            ![Giant Stench Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2132**Giant Stench (Strix)**Do you smell burning trash? Yeah? Okay, good.<br><br>Increases the effect of Strix's Aura of Unclean ability by 80%.<code>buff_upgrade,80,12285</code></span>Giant Stench
+            ![Giant Stench Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2132**Giant Stench (Strix)**Do you smell burning trash? Yeah? Okay, good.<br><br><span style="color:var(--Flavescent)">Increases the effect of Strix's Aura of Unclean ability by 80%.</span><code>buff_upgrade,80,12285</code></span>Giant Stench
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Strix's Aura of Unclean ability by 80%.</span>
@@ -5425,7 +5425,7 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">Reya</span>
         </span>
         <span class="featTableIcon4">
-            ![Zariel's Chosen Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2133**Zariel's Chosen (Reya)**I am her mercy. I am her wrath. I am all that she was, is, and will be.<br><br>Increases the pre-stack bonus of Echoes of Zariel by 80%.<code>buff_upgrade,80,5457,0</code></span>Zariel's Chosen
+            ![Zariel's Chosen Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2133**Zariel's Chosen (Reya)**I am her mercy. I am her wrath. I am all that she was, is, and will be.<br><br><span style="color:var(--Flavescent)">Increases the pre-stack bonus of Echoes of Zariel by 80%.</span><code>buff_upgrade,80,5457,0</code></span>Zariel's Chosen
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the pre-stack bonus of Echoes of Zariel by 80%.</span>
@@ -5439,27 +5439,10 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Halsin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Verdant Vow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2135**Verdant Vow (Halsin)**I give my all to serve the Oak Father. No sacrifice is too great.<br><br>Increases the pre-stack effect of Halsin's Archdruid of Emerald Grove ability by 80%. (Prestack)<code>buff_upgrade,80,15962,0</code></span>Verdant Vow
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the pre-stack effect of Halsin's Archdruid of Emerald Grove ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">30 Jul 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Minthara</span>
         </span>
         <span class="featTableIcon4">
-            ![Unrelenting Strife Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1967**Unrelenting Strife (Minthara)**If somebody causes me sorrow, I remove their ability to do so again.<br><br>Increases the maximum number of Soul Branding stacks by 2.<code>minthara_increase_max_stacks,2</code></span>Unrelenting Strife
+            ![Unrelenting Strife Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1967**Unrelenting Strife (Minthara)**If somebody causes me sorrow, I remove their ability to do so again.<br><br><span style="color:var(--Flavescent)">Increases the maximum number of Soul Branding stacks by 2.</span><code>minthara_increase_max_stacks,2</code></span>Unrelenting Strife
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the maximum number of Soul Branding stacks by 2.</span>
@@ -5473,53 +5456,19 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Evandra</span>
+            <span class="featTableInner">Halsin</span>
         </span>
         <span class="featTableIcon4">
-            ![Regimented Fury Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2137**Regimented Fury (Evandra)**Classy, sassy, and about to kick your --<br><br>Increases the effect of Evandra's Powerful Allies, Fighting Force and Carnival Crew by 80%.<code>buff_upgrades,80,11299,11300,11301</code></span>Regimented Fury
+            ![Verdant Vow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2135**Verdant Vow (Halsin)**I give my all to serve the Oak Father. No sacrifice is too great.<br><br><span style="color:var(--Flavescent)">Increases the pre-stack effect of Halsin's Archdruid of Emerald Grove ability by 80%. (Prestack)</span><code>buff_upgrade,80,15962,0</code></span>Verdant Vow
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Evandra's Powerful Allies, Fighting Force and Carnival Crew by 80%.</span>
+            <span class="featTableInner">Increases the pre-stack effect of Halsin's Archdruid of Emerald Grove ability by 80%. (Prestack)</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">07 Aug 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Jaheira</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Sylvan Calling Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2136**Sylvan Calling (Jaheira)**I'm getting in touch with my roots.<br><br>Increase the effect of Jaheira's Class Act ability by 80%.<code>buff_upgrades,80,9714,9715,9716,9717</code></span>Sylvan Calling
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increase the effect of Jaheira's Class Act ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">07 Aug 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Nixie</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Burning Beauty Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2139**Burning Beauty (Nixie)**Can't spell charm without harm!<br><br>Increases the effect of Nixie's Infernal Impact, Flawed Force and Anarchy Amplified by 80%.<code>buff_upgrades,80,10890,10891,10892</code></span>Burning Beauty
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Nixie's Infernal Impact, Flawed Force and Anarchy Amplified by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">07 Aug 2025</span>
+            <span class="featTableInner">30 Jul 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -5527,7 +5476,7 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">Vlithryn</span>
         </span>
         <span class="featTableIcon4">
-            ![Making Waves Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2167**Making Waves (Vlithryn)**A tidal wave? It's a bit much.<br><br>Increases the effect of Vlithryn's Pantheon of Blessings ability by 80%. (Prestack)<code>buff_upgrade,80,16897,0</code></span>Making Waves
+            ![Making Waves Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2167**Making Waves (Vlithryn)**A tidal wave? It's a bit much.<br><br><span style="color:var(--Flavescent)">Increases the effect of Vlithryn's Pantheon of Blessings ability by 80%. (Prestack)</span><code>buff_upgrade,80,16897,0</code></span>Making Waves
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Vlithryn's Pantheon of Blessings ability by 80%. (Prestack)</span>
@@ -5541,36 +5490,53 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Evelyn</span>
+            <span class="featTableInner">Nixie</span>
         </span>
         <span class="featTableIcon4">
-            ![Under Pressure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1472**Under Pressure (Evelyn)**Uh oh -- more enemies! Everyone get behind me!<br><br>Increases the effect of Evelyn's Steadfast Might ability by 80%.<code>buff_upgrade,80,12207</code></span>Under Pressure
+            ![Burning Beauty Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2139**Burning Beauty (Nixie)**Can't spell charm without harm!<br><br><span style="color:var(--Flavescent)">Increases the effect of Nixie's Infernal Impact, Flawed Force and Anarchy Amplified by 80%.</span><code>buff_upgrades,80,10890,10891,10892</code></span>Burning Beauty
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Evelyn's Steadfast Might ability by 80%.</span>
+            <span class="featTableInner">Increases the effect of Nixie's Infernal Impact, Flawed Force and Anarchy Amplified by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">14 Aug 2025</span>
+            <span class="featTableInner">07 Aug 2025</span>
         </span>
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Melf</span>
+            <span class="featTableInner">Jaheira</span>
         </span>
         <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2138**Prodigal Leader (Melf)**Rally to me, friends. We will survive this, and glory shall be ours.<br><br>All Champions damage +50%.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+            ![Sylvan Calling Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2136**Sylvan Calling (Jaheira)**I'm getting in touch with my roots.<br><br><span style="color:var(--Flavescent)">Increase the effect of Jaheira's Class Act ability by 80%.</span><code>buff_upgrades,80,9714,9715,9716,9717</code></span>Sylvan Calling
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +50%.</span>
+            <span class="featTableInner">Increase the effect of Jaheira's Class Act ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">14 Aug 2025</span>
+            <span class="featTableInner">07 Aug 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Evandra</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Regimented Fury Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2137**Regimented Fury (Evandra)**Classy, sassy, and about to kick your --<br><br><span style="color:var(--Flavescent)">Increases the effect of Evandra's Powerful Allies, Fighting Force and Carnival Crew by 80%.</span><code>buff_upgrades,80,11299,11300,11301</code></span>Regimented Fury
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Evandra's Powerful Allies, Fighting Force and Carnival Crew by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">07 Aug 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -5578,7 +5544,7 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">Yorven</span>
         </span>
         <span class="featTableIcon4">
-            ![Motley Crew Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2019**Motley Crew (Yorven)**With friends like these, I'll never be lost again.<br><br>Increases the effect of Yorven's Rag Tag Team ability by 80%. (Prestack)<code>buff_upgrade,80,17063</code></span>Motley Crew
+            ![Motley Crew Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2019**Motley Crew (Yorven)**With friends like these, I'll never be lost again.<br><br><span style="color:var(--Flavescent)">Increases the effect of Yorven's Rag Tag Team ability by 80%. (Prestack)</span><code>buff_upgrade,80,17063</code></span>Motley Crew
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Yorven's Rag Tag Team ability by 80%. (Prestack)</span>
@@ -5592,10 +5558,44 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Melf</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2138**Prodigal Leader (Melf)**Rally to me, friends. We will survive this, and glory shall be ours.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +50%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">14 Aug 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Evelyn</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Under Pressure Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1472**Under Pressure (Evelyn)**Uh oh -- more enemies! Everyone get behind me!<br><br><span style="color:var(--Flavescent)">Increases the effect of Evelyn's Steadfast Might ability by 80%.</span><code>buff_upgrade,80,12207</code></span>Under Pressure
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Evelyn's Steadfast Might ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">14 Aug 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Wyll</span>
         </span>
         <span class="featTableIcon4">
-            ![Duke's Pride Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2141**Duke's Pride (Wyll)**He is our shield, as I am his blade. Together, we protect the people of Baldur's Gate.<br><br>Increases the effect of Wyll's Folk Hero ability by 80%. (Prestack)<code>buff_upgrade,80,13429</code></span>Duke's Pride
+            ![Duke's Pride Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2141**Duke's Pride (Wyll)**He is our shield, as I am his blade. Together, we protect the people of Baldur's Gate.<br><br><span style="color:var(--Flavescent)">Increases the effect of Wyll's Folk Hero ability by 80%. (Prestack)</span><code>buff_upgrade,80,13429</code></span>Duke's Pride
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Wyll's Folk Hero ability by 80%. (Prestack)</span>
@@ -5609,27 +5609,10 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Hank</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Foe Slayer Icon](images/featicons/favoredfoe.png)<span class="featTooltipContents">ID: 2202**Foe Slayer (Hank)**This bow isn't just for show, you know. Go ahead. Make my day.<br><br>Hank's Dragon Slayer Specialization now stacks on any favored foe killed.<code>change_upgrade_data,17087,1</code></span>Foe Slayer
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Hank's Dragon Slayer Specialization now stacks on any favored foe killed.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">04 Sept 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Ravengard</span>
         </span>
         <span class="featTableIcon4">
-            ![Morale Boost Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1823**Morale Boost (Ravengard)**This is what our soldiers needed - hope.<br><br>Increases the max stacks of Ravengard's Critical Teamwork by 20.<code>buff_upgrade_effect_stacks_max_add,20,15030</code></span>Morale Boost
+            ![Morale Boost Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1823**Morale Boost (Ravengard)**This is what our soldiers needed - hope.<br><br><span style="color:var(--Flavescent)">Increases the max stacks of Ravengard's Critical Teamwork by 20.</span><code>buff_upgrade_effect_stacks_max_add,20,15030</code></span>Morale Boost
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the max stacks of Ravengard's Critical Teamwork by 20.</span>
@@ -5643,19 +5626,19 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">BBEG</span>
+            <span class="featTableInner">Hank</span>
         </span>
         <span class="featTableIcon4">
-            ![Undead Army Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2140**Undead Army (BBEG)**Death is not the end. Life begins after death. Live your afterlife to the fullest.<br><br>Increases the effect of BBEG's Sources of Corpses ability by 80%. (Prestack)<code>buff_upgrade,80,11542</code></span>Undead Army
+            ![Foe Slayer Icon](images/featicons/favoredfoe.png)<span class="featTooltipContents">ID: 2202**Foe Slayer (Hank)**This bow isn't just for show, you know. Go ahead. Make my day.<br><br><span style="color:var(--Flavescent)">Hank's Dragon Slayer Specialization now stacks on any favored foe killed.</span><code>change_upgrade_data,17087,1</code></span>Foe Slayer
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of BBEG's Sources of Corpses ability by 80%. (Prestack)</span>
+            <span class="featTableInner">Hank's Dragon Slayer Specialization now stacks on any favored foe killed.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">11 Sept 2025</span>
+            <span class="featTableInner">04 Sept 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -5663,7 +5646,7 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">Krond</span>
         </span>
         <span class="featTableIcon4">
-            ![Cantrip: Ascendant Thunderclap Icon](images/featicons/krondthunderclap.png)<span class="featTooltipContents">ID: 2217**Cantrip: Ascendant Thunderclap (Krond)**I survived the thunderous bellow of the legendary tarrasque. Now I wield that ruin for my own.<br><br>Krond's base attack deals 400% of its damage as area damage to all nearby enemies.<code>krond_thunderclap,400<br>change_base_attack,863</code></span>Cantrip: Ascendant Thunderclap
+            ![Cantrip: Ascendant Thunderclap Icon](images/featicons/krondthunderclap.png)<span class="featTooltipContents">ID: 2217**Cantrip: Ascendant Thunderclap (Krond)**I survived the thunderous bellow of the legendary tarrasque. Now I wield that ruin for my own.<br><br><span style="color:var(--Flavescent)">Krond's base attack deals 400% of its damage as area damage to all nearby enemies.</span><code>krond_thunderclap,400<br>change_base_attack,863</code></span>Cantrip: Ascendant Thunderclap
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Krond's base attack deals 400% of its damage as area damage to all nearby enemies.</span>
@@ -5677,10 +5660,27 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">BBEG</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Undead Army Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2140**Undead Army (BBEG)**Death is not the end. Life begins after death. Live your afterlife to the fullest.<br><br><span style="color:var(--Flavescent)">Increases the effect of BBEG's Sources of Corpses ability by 80%. (Prestack)</span><code>buff_upgrade,80,11542</code></span>Undead Army
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of BBEG's Sources of Corpses ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">11 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Antrius</span>
         </span>
         <span class="featTableIcon4">
-            ![Sky Shanty Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2130**Sky Shanty (Antrius)**Come on, sing! It will LIFT your spirits! Get it? Gods, I'm good.<br><br>Increases the Damage Bonus of Antrius' Inspiring Song ability by 80%.<code>buff_upgrade,80,10794,0</code></span>Sky Shanty
+            ![Sky Shanty Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2130**Sky Shanty (Antrius)**Come on, sing! It will LIFT your spirits! Get it? Gods, I'm good.<br><br><span style="color:var(--Flavescent)">Increases the Damage Bonus of Antrius' Inspiring Song ability by 80%.</span><code>buff_upgrade,80,10794,0</code></span>Sky Shanty
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the Damage Bonus of Antrius' Inspiring Song ability by 80%.</span>
@@ -5697,7 +5697,7 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">DM</span>
         </span>
         <span class="featTableIcon4">
-            ![Young at Heart Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2134**Young at Heart (DM)**You are only as old as you feel, adventurers!<br><br>Increases the age limit of Dungeon Master's Patience Young Ones by 10 years.<code>change_upgrade_data,7844,0</code></span>Young at Heart
+            ![Young at Heart Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2134**Young at Heart (DM)**You are only as old as you feel, adventurers!<br><br><span style="color:var(--Flavescent)">Increases the age limit of Dungeon Master's Patience Young Ones by 10 years.</span><code>change_upgrade_data,7844,0</code></span>Young at Heart
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the age limit of Dungeon Master's Patience Young Ones by 10 years.</span>
@@ -5714,7 +5714,7 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">Kas</span>
         </span>
         <span class="featTableIcon4">
-            ![Cataclysmic Power Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1982**Cataclysmic Power (Kas)**I would burn this world to ash for the sake of my revenge.<br><br>Increases the effect of Kas' Kas the Bloody Handed, Kas the Betrayer, and Kas the Destroyer specializations by 80%.<code>buff_upgrade,80,15623,0<br>buff_upgrade,80,15624,0<br>buff_upgrade,80,15625,0</code></span>Cataclysmic Power
+            ![Cataclysmic Power Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1982**Cataclysmic Power (Kas)**I would burn this world to ash for the sake of my revenge.<br><br><span style="color:var(--Flavescent)">Increases the effect of Kas' Kas the Bloody Handed, Kas the Betrayer, and Kas the Destroyer specializations by 80%.</span><code>buff_upgrade,80,15623,0<br>buff_upgrade,80,15624,0<br>buff_upgrade,80,15625,0</code></span>Cataclysmic Power
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Kas' Kas the Bloody Handed, Kas the Betrayer, and Kas the Destroyer specializations by 80%.</span>
@@ -5731,7 +5731,7 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">Nahara</span>
         </span>
         <span class="featTableIcon4">
-            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2221**Immolation (Nahara)**You will burn for this, and it will be by my hand.<br><br>Nahara's attacks deal an additional 1 second of BUD damage every second for 5 seconds.<code>immolation,1,5</code></span>Immolation
+            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2221**Immolation (Nahara)**You will burn for this, and it will be by my hand.<br><br><span style="color:var(--Flavescent)">Nahara's attacks deal an additional 1 second of BUD damage every second for 5 seconds.</span><code>immolation,1,5</code></span>Immolation
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Nahara's attacks deal an additional 1 second of BUD damage every second for 5 seconds.</span>
@@ -5745,27 +5745,10 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Strongheart</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2220**Master's Precision (Strongheart)**Steel, strike true!<br><br>Additively increases the Crit Chance of Strongheart by 20%.<code>buff_base_crit_chance_add,20</code></span>Master's Precision
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Additively increases the Crit Chance of Strongheart by 20%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">02 Oct 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Tess</span>
         </span>
         <span class="featTableIcon4">
-            ![Sleeping Toxin Icon](images/featicons/tesssleeppoison.png)<span class="featTooltipContents">ID: 2246**Sleeping Toxin (Tess)**Careful. One poke from that and it's lights out.<br><br>Tess gains the Control role and 25% of her attacks stun her targets for 5 seconds.<code>add_hero_tags,0,control<br>global_dps_multiplier_mult,100<br>change_base_attack,874</code></span>Sleeping Toxin
+            ![Sleeping Toxin Icon](images/featicons/tesssleeppoison.png)<span class="featTooltipContents">ID: 2246**Sleeping Toxin (Tess)**Careful. One poke from that and it's lights out.<br><br><span style="color:var(--Flavescent)">Tess gains the Control role and 25% of her attacks stun her targets for 5 seconds.</span><code>add_hero_tags,0,control<br>global_dps_multiplier_mult,100<br>change_base_attack,874</code></span>Sleeping Toxin
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Tess gains the Control role and 25% of her attacks stun her targets for 5 seconds.</span>
@@ -5779,19 +5762,19 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Aeon</span>
+            <span class="featTableInner">Strongheart</span>
         </span>
         <span class="featTableIcon4">
-            ![Clandestine Operation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2223**Clandestine Operation (Aeon)**They must never know what we do in the shadows.<br><br>Increases the effect of Aeon's Inner Circle ability by 80%.<code>buff_upgrade,80,15196,1</code></span>Clandestine Operation
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2220**Master's Precision (Strongheart)**Steel, strike true!<br><br><span style="color:var(--Flavescent)">Additively increases the Crit Chance of Strongheart by 20%.</span><code>buff_base_crit_chance_add,20</code></span>Master's Precision
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Aeon's Inner Circle ability by 80%.</span>
+            <span class="featTableInner">Additively increases the Crit Chance of Strongheart by 20%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">09 Oct 2025</span>
+            <span class="featTableInner">02 Oct 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -5799,7 +5782,7 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">Deekin</span>
         </span>
         <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 159**Prodigal Leader (Deekin)**Deekin lead you all to DOOM.<br><br>All Champions damage +50%.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 159**Prodigal Leader (Deekin)**Deekin lead you all to DOOM.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">All Champions damage +50%.</span>
@@ -5813,10 +5796,27 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Aeon</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Clandestine Operation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2223**Clandestine Operation (Aeon)**They must never know what we do in the shadows.<br><br><span style="color:var(--Flavescent)">Increases the effect of Aeon's Inner Circle ability by 80%.</span><code>buff_upgrade,80,15196,1</code></span>Clandestine Operation
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Aeon's Inner Circle ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">09 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">K'thriss</span>
         </span>
         <span class="featTableIcon4">
-            ![Reincarnation Icon](images/featicons/kthrissreincarnated.png)<span class="featTooltipContents">ID: 2259**Reincarnation (K'thriss)**What was once the me within is now the me without.<br><br>Increases the damage of all Champions by 100%, sets K'thriss' gender to Nonbinary, and sets K'thriss' age to 80.<code>global_dps_multiplier_mult,100<br>set_age,80<br>add_hero_tags,0,non_binary</code></span>Reincarnation
+            ![Reincarnation Icon](images/featicons/kthrissreincarnated.png)<span class="featTooltipContents">ID: 2259**Reincarnation (K'thriss)**What was once the me within is now the me without.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 100%, sets K'thriss' gender to Nonbinary, and sets K'thriss' age to 80.</span><code>global_dps_multiplier_mult,100<br>set_age,80<br>add_hero_tags,0,non_binary</code></span>Reincarnation
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the damage of all Champions by 100%, sets K'thriss' gender to Nonbinary, and sets K'thriss' age to 80.</span>
@@ -5898,7 +5898,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Shar's Veil Feat Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2007**Shar's Veil (Shadowheart)**Lady Shar demands my heart, and I give it to her freely.<br><br>Changes Hero Alignment to Lawful Evil for Shadowheart.<code>change_hero_alignment_tag,lawful,evil</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Shar's Veil Feat Icon](images/featicons/alignmentchange.png)<span class="featTooltipContents">ID: 2007**Shar's Veil (Shadowheart)**Lady Shar demands my heart, and I give it to her freely.<br><br><span style="color:var(--Flavescent)">Changes Hero Alignment to Lawful Evil for Shadowheart.</span><code>change_hero_alignment_tag,lawful,evil</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -5908,7 +5908,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Tenacious Feat Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2012**Tenacious (Bobby)**Heroes never say die!<br><br>Increases the Constitution score of Bobby by 2.<code>increase_ability_score,con,2</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Tenacious Feat Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 2012**Tenacious (Bobby)**Heroes never say die!<br><br><span style="color:var(--Flavescent)">Increases the Constitution score of Bobby by 2.</span><code>increase_ability_score,con,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -5918,7 +5918,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Weapon Master Feat Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2011**Weapon Master (Kas)**I've practiced the blade for centuries. You are nothing before me.<br><br>Increases the damage of Kas by 120%.<code>hero_dps_multiplier_mult,120</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Weapon Master Feat Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2011**Weapon Master (Kas)**I've practiced the blade for centuries. You are nothing before me.<br><br><span style="color:var(--Flavescent)">Increases the damage of Kas by 120%.</span><code>hero_dps_multiplier_mult,120</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -5928,7 +5928,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prolonged Push Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2034**Prolonged Push (Eric)**You guys handle the fighting. I'll stay back here and hold them off!<br><br>Increases the duration of Eric's Keep Away ability by 80%.<code>buff_upgrade,80,16132,0</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prolonged Push Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2034**Prolonged Push (Eric)**You guys handle the fighting. I'll stay back here and hold them off!<br><br><span style="color:var(--Flavescent)">Increases the duration of Eric's Keep Away ability by 80%.</span><code>buff_upgrade,80,16132,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6057,7 +6057,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2232**Prodigal Leader (Hitch)**You guys do your thing. I'll be supervising from over here.<br><br>All Champions damage +50%.<code>global_dps_multiplier_mult,50</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2232**Prodigal Leader (Hitch)**You guys do your thing. I'll be supervising from over here.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6166,7 +6166,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Venom Harvester Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2155**Venom Harvester (Spurt)**Spurt make discovery! Wyvern tail VERY stingy!<br><br>Increases the effect of Spurt's Wa-spiration: Stingy ability by 80%.<code>buff_spurt_waspiration_effect,80,0</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Venom Harvester Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2155**Venom Harvester (Spurt)**Spurt make discovery! Wyvern tail VERY stingy!<br><br><span style="color:var(--Flavescent)">Increases the effect of Spurt's Wa-spiration: Stingy ability by 80%.</span><code>buff_spurt_waspiration_effect,80,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6176,7 +6176,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Reaching Shadow Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2125**Reaching Shadow (Beadle)**As the sun dips low, shadows loom large. That's when we strike. ~Beadle<br><br>Increases effect of In The Shadows to within three slots.<code>change_upgrade_targets,16722<br>change_upgrade_targets,16722</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Reaching Shadow Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2125**Reaching Shadow (Beadle)**As the sun dips low, shadows loom large. That's when we strike. ~Beadle<br><br><span style="color:var(--Flavescent)">Increases effect of In The Shadows to within three slots.</span><code>change_upgrade_targets,16722<br>change_upgrade_targets,16722</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6186,7 +6186,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heavily Armored Feat Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 2156**Heavily Armored (Miria)**You have no idea how much suffering a body can take.<br><br>Increases the health of Miria by 60%.<code>health_mult,60</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heavily Armored Feat Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 2156**Heavily Armored (Miria)**You have no idea how much suffering a body can take.<br><br><span style="color:var(--Flavescent)">Increases the health of Miria by 60%.</span><code>health_mult,60</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6196,7 +6196,7 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Weapon Master Feat Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2157**Weapon Master (Grimm)**Whether giants or dragons, all I need is one good swing.  ~Grimm<br><br>Increases the damage of Grimm by 120%.<code>hero_dps_multiplier_mult,120</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Weapon Master Feat Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2157**Weapon Master (Grimm)**Whether giants or dragons, all I need is one good swing.  ~Grimm<br><br><span style="color:var(--Flavescent)">Increases the damage of Grimm by 120%.</span><code>hero_dps_multiplier_mult,120</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6352,7 +6352,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Everything's a Nail Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 879**Everything's a Nail (Aila)**I'm a delight.<br><br>Increases the effect of Aila's Aerois Synergy ability by 80%.<code>buff_upgrade,80,8783</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Everything's a Nail Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 879**Everything's a Nail (Aila)**I'm a delight.<br><br><span style="color:var(--Flavescent)">Increases the effect of Aila's Aerois Synergy ability by 80%.</span><code>buff_upgrade,80,8783</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6362,7 +6362,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Eye of the Storm Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 913**Eye of the Storm (Qillek)**I see what was and is and will be.<br><br>Increases the effect of Qillek's Aerois Synergy ability by 80%.<code>buff_upgrade,80,8770</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Eye of the Storm Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 913**Eye of the Storm (Qillek)**I see what was and is and will be.<br><br><span style="color:var(--Flavescent)">Increases the effect of Qillek's Aerois Synergy ability by 80%.</span><code>buff_upgrade,80,8770</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6372,7 +6372,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Sentinel Prime Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 937**Sentinel Prime (Sentry)**My new home will be protected.<br><br>Increases the effect of Sentry's Aerois Synergy ability by 80%.<code>buff_upgrade,80,8762</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Sentinel Prime Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 937**Sentinel Prime (Sentry)**My new home will be protected.<br><br><span style="color:var(--Flavescent)">Increases the effect of Sentry's Aerois Synergy ability by 80%.</span><code>buff_upgrade,80,8762</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6382,7 +6382,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Merry Crew Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 896**Merry Crew (Nova)**If we all work together, what could go wrong?<br><br>Increases the effect of Nova's Aerois Synergy ability by 80%.<code>buff_upgrade,80,8752</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Merry Crew Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 896**Merry Crew (Nova)**If we all work together, what could go wrong?<br><br><span style="color:var(--Flavescent)">Increases the effect of Nova's Aerois Synergy ability by 80%.</span><code>buff_upgrade,80,8752</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6392,7 +6392,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Privileged Background Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 939**Privileged Background (Lucius)**Can we just solve this with coin?<br><br>Increases the effect of Lucius's Aerois Synergy ability by 80%.<code>buff_upgrade,80,8730</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Privileged Background Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 939**Privileged Background (Lucius)**Can we just solve this with coin?<br><br><span style="color:var(--Flavescent)">Increases the effect of Lucius's Aerois Synergy ability by 80%.</span><code>buff_upgrade,80,8730</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6501,7 +6501,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Judge of the Dead Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1036**Judge of the Dead (Nerys)**Your existence is anathema, foul undead!<br><br>Increases the effect of Nerys's Sanctify ability by 80%.<code>buff_upgrade,80,9736</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Judge of the Dead Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1036**Judge of the Dead (Nerys)**Your existence is anathema, foul undead!<br><br><span style="color:var(--Flavescent)">Increases the effect of Nerys's Sanctify ability by 80%.</span><code>buff_upgrade,80,9736</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6511,7 +6511,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Second Wind Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1035**Second Wind (Shandie)**I could do this all day!<br><br>Decreases the time it takes Shandie's Dash ability to trigger from 30 seconds to 10 seconds.<code>change_upgrade_data,9728</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Second Wind Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1035**Second Wind (Shandie)**I could do this all day!<br><br><span style="color:var(--Flavescent)">Decreases the time it takes Shandie's Dash ability to trigger from 30 seconds to 10 seconds.</span><code>change_upgrade_data,9728</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6521,7 +6521,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1032**Prodigal Leader (Krydle)**You can trust me!<br><br>All Champions damage +50%.<code>global_dps_multiplier_mult,50</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1032**Prodigal Leader (Krydle)**You can trust me!<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6531,7 +6531,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Thrill of the Hunt Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1027**Thrill of the Hunt (Jaheira)**You won't escape me!<br><br>Increases the effect of Jaheira's Fierce Hunter ability by 80%.<code>buff_upgrade,80,9710</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Thrill of the Hunt Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1027**Thrill of the Hunt (Jaheira)**You won't escape me!<br><br><span style="color:var(--Flavescent)">Increases the effect of Jaheira's Fierce Hunter ability by 80%.</span><code>buff_upgrade,80,9710</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6541,7 +6541,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![The Grave Rejects You Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1024**The Grave Rejects You (Viconia)**Hordes of undead? I don't see a problem.<br><br>Increases the effect of Viconia's Yesterday's Undead ability by 150%.<code>buff_upgrade,150,9752</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![The Grave Rejects You Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1024**The Grave Rejects You (Viconia)**Hordes of undead? I don't see a problem.<br><br><span style="color:var(--Flavescent)">Increases the effect of Viconia's Yesterday's Undead ability by 150%.</span><code>buff_upgrade,150,9752</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6651,7 +6651,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Five Questions Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1193**Five Questions (Hitch)**You hold 'em, I'll drop 'em!<br><br>Increases the effect of Hitch's Ricochet ability by 80%.<code>buff_upgrade,80,3672</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Five Questions Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1193**Five Questions (Hitch)**You hold 'em, I'll drop 'em!<br><br><span style="color:var(--Flavescent)">Increases the effect of Hitch's Ricochet ability by 80%.</span><code>buff_upgrade,80,3672</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6661,7 +6661,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Neverwinter Diversity Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1086**Neverwinter Diversity (Hew Maan)**Greetings, fellow humans!<br><br>Increases the number of other champions counted by Hello, Fellow Humans by 3.<code>additional_fellow_humans,3</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Neverwinter Diversity Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1086**Neverwinter Diversity (Hew Maan)**Greetings, fellow humans!<br><br><span style="color:var(--Flavescent)">Increases the number of other champions counted by Hello, Fellow Humans by 3.</span><code>additional_fellow_humans,3</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6671,7 +6671,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Wisened Friends Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1194**Wisened Friends (Fen)**If we put our heads together, we can overcome!<br><br>Increases the effect of Fen's I've Got You, Friends ability by 80%.<code>buff_upgrade,80,9759</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Wisened Friends Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1194**Wisened Friends (Fen)**If we put our heads together, we can overcome!<br><br><span style="color:var(--Flavescent)">Increases the effect of Fen's I've Got You, Friends ability by 80%.</span><code>buff_upgrade,80,9759</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6745,7 +6745,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Calm Under Pressure Feat Icon](images/featicons/overhelm.png)<span class="featTooltipContents">ID: 1164**Calm Under Pressure (Barrowin)**Clan Undurr does not back down!<br><br>Barrowin takes 10 more Enemies attacking to get overwhelmed.<code>overwhelm_start_increase,10</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Calm Under Pressure Feat Icon](images/featicons/overhelm.png)<span class="featTooltipContents">ID: 1164**Calm Under Pressure (Barrowin)**Clan Undurr does not back down!<br><br><span style="color:var(--Flavescent)">Barrowin takes 10 more Enemies attacking to get overwhelmed.</span><code>overwhelm_start_increase,10</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6755,7 +6755,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Athlete Feat Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">ID: 1171**Athlete (Birdsong)**I've been sharpening my claws for days!<br><br>Increases the Strength score of Birdsong by 1.<code>increase_ability_score,str,1</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Athlete Feat Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">ID: 1171**Athlete (Birdsong)**I've been sharpening my claws for days!<br><br><span style="color:var(--Flavescent)">Increases the Strength score of Birdsong by 1.</span><code>increase_ability_score,str,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6765,7 +6765,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Extra Wasps Feat Icon](images/featicons/spurtult.png)<span class="featTooltipContents">ID: 1173**Extra Wasps (Spurt)**I call this bag the angries.<br><br>Increases the cooldown on Spurt's Ultimate Attack by 30 seconds.<code>increase_ultimate_cooldown,30</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Extra Wasps Feat Icon](images/featicons/spurtult.png)<span class="featTooltipContents">ID: 1173**Extra Wasps (Spurt)**I call this bag the angries.<br><br><span style="color:var(--Flavescent)">Increases the cooldown on Spurt's Ultimate Attack by 30 seconds.</span><code>increase_ultimate_cooldown,30</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6775,7 +6775,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Athlete Feat Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">ID: 1182**Athlete (Turiel)**Strength of Bahamut, flow through me!<br><br>Increases the Strength score of Turiel by 1.<code>increase_ability_score,str,1</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Athlete Feat Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">ID: 1182**Athlete (Turiel)**Strength of Bahamut, flow through me!<br><br><span style="color:var(--Flavescent)">Increases the Strength score of Turiel by 1.</span><code>increase_ability_score,str,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6785,7 +6785,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![The Path Is Clear Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1184**The Path Is Clear (Hew Maan)**Surprises around every corner! But not this one. I don't think. ~ Kleeb<br><br>Increases game speed by 10% when the formation is not under attack.<code>time_scale_when_not_attacked,10,2</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![The Path Is Clear Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1184**The Path Is Clear (Hew Maan)**Surprises around every corner! But not this one. I don't think. ~ Kleeb<br><br><span style="color:var(--Flavescent)">Increases game speed by 10% when the formation is not under attack.</span><code>time_scale_when_not_attacked,10,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6795,7 +6795,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Dwarven Tradition Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1163**Dwarven Tradition (Barrowin)**Undurr Ground. Get it?<br><br>Increases the effect of Barrowin's Blessed Hammer ability by 80%.<code>buff_upgrade,80,10684</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Dwarven Tradition Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1163**Dwarven Tradition (Barrowin)**Undurr Ground. Get it?<br><br><span style="color:var(--Flavescent)">Increases the effect of Barrowin's Blessed Hammer ability by 80%.</span><code>buff_upgrade,80,10684</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6805,7 +6805,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Harmony Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1169**Harmony (Birdsong)**Just keep it going!<br><br>Increases the effect of Birdsong's Crescendo ability by 80%. (Prestack)<code>buff_upgrade,80,10776</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Harmony Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1169**Harmony (Birdsong)**Just keep it going!<br><br><span style="color:var(--Flavescent)">Increases the effect of Birdsong's Crescendo ability by 80%. (Prestack)</span><code>buff_upgrade,80,10776</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6815,7 +6815,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Kobold Brethren Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1172**Kobold Brethren (Spurt)**For Glory!<br><br>Increases the effect of Spurt's Pack Tactics ability by 80%.<code>buff_upgrade,80,10680</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Kobold Brethren Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1172**Kobold Brethren (Spurt)**For Glory!<br><br><span style="color:var(--Flavescent)">Increases the effect of Spurt's Pack Tactics ability by 80%.</span><code>buff_upgrade,80,10680</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6825,7 +6825,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Shout Above The Din Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1179**Shout Above The Din (Turiel)**The time for debate is over!<br><br>Increases the effect of all of Turiel's specialization choices by 80%.<code>buff_upgrades,80,10663,10664</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Shout Above The Din Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1179**Shout Above The Din (Turiel)**The time for debate is over!<br><br><span style="color:var(--Flavescent)">Increases the effect of all of Turiel's specialization choices by 80%.</span><code>buff_upgrades,80,10663,10664</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6835,7 +6835,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Immolation Feat Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 1183**Immolation (Hew Maan)**Kleeb prefers fire going in opposite direction! ~Kleeb<br><br>Hew Maan's attacks deal an additional 1 second of BUD damage every second for 5 seconds.<code>immolation,1,5</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Immolation Feat Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 1183**Immolation (Hew Maan)**Kleeb prefers fire going in opposite direction! ~Kleeb<br><br><span style="color:var(--Flavescent)">Hew Maan's attacks deal an additional 1 second of BUD damage every second for 5 seconds.</span><code>immolation,1,5</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -6944,7 +6944,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Entertainer Feat Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1291**Entertainer (Nrakk)**Some have called my battle meditations... calming to watch.<br><br>Increases the Charisma score of Nrakk by 2.<code>increase_ability_score,cha,2</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Entertainer Feat Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1291**Entertainer (Nrakk)**Some have called my battle meditations... calming to watch.<br><br><span style="color:var(--Flavescent)">Increases the Charisma score of Nrakk by 2.</span><code>increase_ability_score,cha,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7028,7 +7028,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Rest Awhile Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1315**Rest Awhile (Regis)**Relax -- there can't be a battle every day.<br><br>Additively increases Regis' Mithral Hall Stacks contribution by 1.<code>add_mithral_hall_stacks,1</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Rest Awhile Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1315**Rest Awhile (Regis)**Relax -- there can't be a battle every day.<br><br><span style="color:var(--Flavescent)">Additively increases Regis' Mithral Hall Stacks contribution by 1.</span><code>add_mithral_hall_stacks,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7038,7 +7038,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Weapon Swap Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1313**Weapon Swap (Catti-brie)**Aye, I know how to use a warhammer.<br><br>Additively increases Catti-brie's Mithral Hall Stacks contribution by 1.<code>add_mithral_hall_stacks,1</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Weapon Swap Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1313**Weapon Swap (Catti-brie)**Aye, I know how to use a warhammer.<br><br><span style="color:var(--Flavescent)">Additively increases Catti-brie's Mithral Hall Stacks contribution by 1.</span><code>add_mithral_hall_stacks,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7048,7 +7048,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Imposing Build Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1317**Imposing Build (Wulfgar)**They will think twice with me at your side.<br><br>Additively increases Wulfgar's Mithral Hall Stacks contribution by 1.<code>add_mithral_hall_stacks,1</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Imposing Build Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1317**Imposing Build (Wulfgar)**They will think twice with me at your side.<br><br><span style="color:var(--Flavescent)">Additively increases Wulfgar's Mithral Hall Stacks contribution by 1.</span><code>add_mithral_hall_stacks,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7058,7 +7058,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Aggressive Stance Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1319**Aggressive Stance (Pwent)**Think they got the point?<br><br>Additively increases Pwent's Mithral Hall Stacks contribution by 1.<code>add_mithral_hall_stacks,1</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Aggressive Stance Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1319**Aggressive Stance (Pwent)**Think they got the point?<br><br><span style="color:var(--Flavescent)">Additively increases Pwent's Mithral Hall Stacks contribution by 1.</span><code>add_mithral_hall_stacks,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7068,7 +7068,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Battle Expertise Feat Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1297**Battle Expertise (Artemis)**Their last thoughts will dismiss me as just a shadow.<br><br>Additively increases the Crit Chance of Artemis by 10%.<code>buff_base_crit_chance_add,10</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Battle Expertise Feat Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1297**Battle Expertise (Artemis)**Their last thoughts will dismiss me as just a shadow.<br><br><span style="color:var(--Flavescent)">Additively increases the Crit Chance of Artemis by 10%.</span><code>buff_base_crit_chance_add,10</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7078,7 +7078,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Advisor of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1316**Advisor of the Hall (Regis)**We stick with Bruenor's plan!<br><br>Additively increases Regis' Mithral Hall Stacks contribution by 2.<code>add_mithral_hall_stacks,2</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Advisor of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1316**Advisor of the Hall (Regis)**We stick with Bruenor's plan!<br><br><span style="color:var(--Flavescent)">Additively increases Regis' Mithral Hall Stacks contribution by 2.</span><code>add_mithral_hall_stacks,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7088,7 +7088,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Speaker of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1314**Speaker of the Hall (Catti-brie)**Behind you! I've got them!<br><br>Additively increases Catti-brie's Mithral Hall Stacks contribution by 2.<code>add_mithral_hall_stacks,2</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Speaker of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1314**Speaker of the Hall (Catti-brie)**Behind you! I've got them!<br><br><span style="color:var(--Flavescent)">Additively increases Catti-brie's Mithral Hall Stacks contribution by 2.</span><code>add_mithral_hall_stacks,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7098,7 +7098,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Aegis of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1318**Aegis of the Hall (Wulfgar)**To me! Make haste!<br><br>Additively increases Wulfgar's Mithral Hall Stacks contribution by 2.<code>add_mithral_hall_stacks,2</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Aegis of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1318**Aegis of the Hall (Wulfgar)**To me! Make haste!<br><br><span style="color:var(--Flavescent)">Additively increases Wulfgar's Mithral Hall Stacks contribution by 2.</span><code>add_mithral_hall_stacks,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7108,7 +7108,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Vanguard of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1320**Vanguard of the Hall (Pwent)**Gutbusters! Are you ready?!<br><br>Additively increases Pwent's Mithral Hall Stacks contribution by 2.<code>add_mithral_hall_stacks,2</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Vanguard of the Hall Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1320**Vanguard of the Hall (Pwent)**Gutbusters! Are you ready?!<br><br><span style="color:var(--Flavescent)">Additively increases Pwent's Mithral Hall Stacks contribution by 2.</span><code>add_mithral_hall_stacks,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7118,7 +7118,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">ID: 1298**Vicious Damage (Artemis)**Your life essence belongs to me now.<br><br>Increases the damage of Artemis by 400%. Artemis's attacks prevent the target from healing for 10 seconds.<code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">ID: 1298**Vicious Damage (Artemis)**Your life essence belongs to me now.<br><br><span style="color:var(--Flavescent)">Increases the damage of Artemis by 400%. Artemis's attacks prevent the target from healing for 10 seconds.</span><code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7237,7 +7237,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">ID: 1504**Illithid Tadpole (Nrakk)**They said it would be fine...<br><br>All Champions damage +25%. Additively increases Ceremorphosis Stacks by 1.<code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">ID: 1504**Illithid Tadpole (Nrakk)**They said it would be fine...<br><br><span style="color:var(--Flavescent)">All Champions damage +25%. Additively increases Ceremorphosis Stacks by 1.</span><code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7247,7 +7247,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Very Important Person Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1424**Very Important Person (Valentine)**I had to put in an appearance.<br><br>Increases the effect of Valentine's Socialite ability by 80%.<code>buff_upgrade,80,8147</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Very Important Person Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1424**Very Important Person (Valentine)**I had to put in an appearance.<br><br><span style="color:var(--Flavescent)">Increases the effect of Valentine's Socialite ability by 80%.</span><code>buff_upgrade,80,8147</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7331,7 +7331,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Dead Friends Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1444**Dead Friends (Strix)**Oh, you're alive again? That's good. I guess.<br><br>Increases the effect of Strix's Haunted ability by 40%.<code>buff_upgrade,40,12287</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Dead Friends Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1444**Dead Friends (Strix)**Oh, you're alive again? That's good. I guess.<br><br><span style="color:var(--Flavescent)">Increases the effect of Strix's Haunted ability by 40%.</span><code>buff_upgrade,40,12287</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7341,7 +7341,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Yay Lathander! Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1443**Yay Lathander! (Evelyn)**Give me an L! Give me an A! Give me a --<br><br>Increases the effect of Evelyn's Channel Divinity ability by 40%.<code>buff_upgrade,40,12206</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Yay Lathander! Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1443**Yay Lathander! (Evelyn)**Give me an L! Give me an A! Give me a --<br><br><span style="color:var(--Flavescent)">Increases the effect of Evelyn's Channel Divinity ability by 40%.</span><code>buff_upgrade,40,12206</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7351,7 +7351,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Magic Tour Bus Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1228**Magic Tour Bus (Jim)**Get in, nerds -- we're doing magic.<br><br>Increases the effect of Jim's Magical Mystery Tour ability by 40%.<code>buff_upgrade,40,12130</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Magic Tour Bus Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1228**Magic Tour Bus (Jim)**Get in, nerds -- we're doing magic.<br><br><span style="color:var(--Flavescent)">Increases the effect of Jim's Magical Mystery Tour ability by 40%.</span><code>buff_upgrade,40,12130</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7361,7 +7361,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Waterdeep Investors Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1442**Waterdeep Investors (Omin)**Q3 adventures are looking good!<br><br>Increases the effect of Omin's Well Funded ability by 40%.<code>buff_upgrade,40,12303</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Waterdeep Investors Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1442**Waterdeep Investors (Omin)**Q3 adventures are looking good!<br><br><span style="color:var(--Flavescent)">Increases the effect of Omin's Well Funded ability by 40%.</span><code>buff_upgrade,40,12303</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7371,7 +7371,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Sass for Days Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1445**Sass for Days (Vi)**Honey, I can do this all day.<br><br>Increases the effect of Vi's I Can't Get No Sass-isfaction ability by 40%.<code>buff_upgrade,40,12315</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Sass for Days Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1445**Sass for Days (Vi)**Honey, I can do this all day.<br><br><span style="color:var(--Flavescent)">Increases the effect of Vi's I Can't Get No Sass-isfaction ability by 40%.</span><code>buff_upgrade,40,12315</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7381,7 +7381,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Friends? Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1449**Friends? (Strix)**You want to be my friend? That sounds like a lot of work...<br><br>Increases the effect of Strix's The Power of Friendship (and Nose Plugs) ability by 80%.<code>buff_upgrade,80,12289,1</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Friends? Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1449**Friends? (Strix)**You want to be my friend? That sounds like a lot of work...<br><br><span style="color:var(--Flavescent)">Increases the effect of Strix's The Power of Friendship (and Nose Plugs) ability by 80%.</span><code>buff_upgrade,80,12289,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7391,7 +7391,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Training Montage Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1448**Training Montage (Evelyn)**That was great! Now let's do that 400 more times, and it will be perfect!<br><br>Increases the effect of Evelyn's Lathander's Grace ability by 80%. (Prestack)<code>buff_upgrade,80,12209</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Training Montage Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1448**Training Montage (Evelyn)**That was great! Now let's do that 400 more times, and it will be perfect!<br><br><span style="color:var(--Flavescent)">Increases the effect of Evelyn's Lathander's Grace ability by 80%. (Prestack)</span><code>buff_upgrade,80,12209</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7401,7 +7401,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Official Fan Club Card Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1229**Official Fan Club Card (Jim)**I'm Jim Darkmagic and YOUR NAME HERE is my #1 fan!<br><br>Increases the pre-stack effect of Jim's Fan Club ability by 80%. (Prestack)<code>buff_upgrade,80,12128,0</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Official Fan Club Card Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1229**Official Fan Club Card (Jim)**I'm Jim Darkmagic and YOUR NAME HERE is my #1 fan!<br><br><span style="color:var(--Flavescent)">Increases the pre-stack effect of Jim's Fan Club ability by 80%. (Prestack)</span><code>buff_upgrade,80,12128,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7411,7 +7411,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Motivational Keynote Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1447**Motivational Keynote (Omin)**It's been proven that listening to me can make me richer.<br><br>Increases the effect of all Omin's Specializations by 80%.<code>buff_upgrades,80,12304,12305,12306</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Motivational Keynote Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1447**Motivational Keynote (Omin)**It's been proven that listening to me can make me richer.<br><br><span style="color:var(--Flavescent)">Increases the effect of all Omin's Specializations by 80%.</span><code>buff_upgrades,80,12304,12305,12306</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7421,7 +7421,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Stand Off Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1450**Stand Off (Vi)**Honey, you've got to ask yourself one question...<br><br>Increases the chance that Vi activates her Catch and Release ability by 100%.<code>buff_upgrade,100,12313,0</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Stand Off Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1450**Stand Off (Vi)**Honey, you've got to ask yourself one question...<br><br><span style="color:var(--Flavescent)">Increases the chance that Vi activates her Catch and Release ability by 100%.</span><code>buff_upgrade,100,12313,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7540,7 +7540,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Centaur Glitch Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1594**Centaur Glitch (Hitch)**I am going to go SO FAST!<br><br>Hitch also counts as a Centaur.<code>add_hero_tags,0,centaur<br>buff_upgrade_per_unique_race,20,390</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Centaur Glitch Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1594**Centaur Glitch (Hitch)**I am going to go SO FAST!<br><br><span style="color:var(--Flavescent)">Hitch also counts as a Centaur.</span><code>add_hero_tags,0,centaur<br>buff_upgrade_per_unique_race,20,390</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7550,7 +7550,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Gibbous Script Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1524**Gibbous Script (Warden)**The words I utter have existed since time itself.<br><br>Increases the number of Hex stacks applied by Master of Hexes by 2 (additively).<code>buff_upgrade_add,2,13244</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Gibbous Script Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1524**Gibbous Script (Warden)**The words I utter have existed since time itself.<br><br><span style="color:var(--Flavescent)">Increases the number of Hex stacks applied by Master of Hexes by 2 (additively).</span><code>buff_upgrade_add,2,13244</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7560,7 +7560,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Specter of Aeons Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1560**Specter of Aeons (Warden)**These are spirits of time itself.<br><br>Increases the max number of Accursed Specters by 2.<code>increase_warden_specter_max,2</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Specter of Aeons Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1560**Specter of Aeons (Warden)**These are spirits of time itself.<br><br><span style="color:var(--Flavescent)">Increases the max number of Accursed Specters by 2.</span><code>increase_warden_specter_max,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7570,7 +7570,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Half-Elf Glitch Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1597**Half-Elf Glitch (Sentry)**I... I can still feel a connection to The Prime Matrix.<br><br>Sentry also counts as a Half-Elf.<code>add_hero_tags,0,half-elf<br>buff_upgrade_per_any_tagged_crusader,20,8761,half-elf</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Half-Elf Glitch Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1597**Half-Elf Glitch (Sentry)**I... I can still feel a connection to The Prime Matrix.<br><br><span style="color:var(--Flavescent)">Sentry also counts as a Half-Elf.</span><code>add_hero_tags,0,half-elf<br>buff_upgrade_per_any_tagged_crusader,20,8761,half-elf</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7654,7 +7654,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Research Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1245**Research (Zorbu)**Not everything is learned in battle.<br><br>Increases the effect of Zorbu's Know Your Enemy ability by 40%.<code>buff_upgrade,40,12989</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Research Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1245**Research (Zorbu)**Not everything is learned in battle.<br><br><span style="color:var(--Flavescent)">Increases the effect of Zorbu's Know Your Enemy ability by 40%.</span><code>buff_upgrade,40,12989</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7664,7 +7664,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Chosen of Gith Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1253**Chosen of Gith (Nrakk)**In Gith's name, you will meet your end.<br><br>Increases the effect of Nrakk's Githzerai Focus and Githzerai Agility by 40%.<code>buff_upgrades,40,13005,13006</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Chosen of Gith Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1253**Chosen of Gith (Nrakk)**In Gith's name, you will meet your end.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nrakk's Githzerai Focus and Githzerai Agility by 40%.</span><code>buff_upgrades,40,13005,13006</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7674,7 +7674,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Hunter's Hex Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1561**Hunter's Hex (Warden)**My hex will follow you across the planes.<br><br>Increases monsters' max number of Hex Stacks by 2.<code>increase_max_hex_stacks,2</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Hunter's Hex Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1561**Hunter's Hex (Warden)**My hex will follow you across the planes.<br><br><span style="color:var(--Flavescent)">Increases monsters' max number of Hex Stacks by 2.</span><code>increase_max_hex_stacks,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7684,7 +7684,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Actor Feat Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">ID: 1549**Actor (Korth)**You want me to pretend to have emotions?<br><br>Increases the Charisma score of Korth by 1.<code>increase_ability_score,cha,1</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Actor Feat Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">ID: 1549**Actor (Korth)**You want me to pretend to have emotions?<br><br><span style="color:var(--Flavescent)">Increases the Charisma score of Korth by 1.</span><code>increase_ability_score,cha,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7694,7 +7694,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Nimble Feat Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">ID: 1222**Nimble (Sisaspia)**Sspeed is your ally.<br><br>Increases the Dexterity score of Sisaspia by 1.<code>increase_ability_score,dex,1</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Nimble Feat Icon](images/featicons/attributeboost.png)<span class="featTooltipContents">ID: 1222**Nimble (Sisaspia)**Sspeed is your ally.<br><br><span style="color:var(--Flavescent)">Increases the Dexterity score of Sisaspia by 1.</span><code>increase_ability_score,dex,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7704,7 +7704,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Wolf Pack Feat Icon](images/featicons/otherabilityincrease.png)<span class="featTooltipContents">ID: 1526**Wolf Pack (Zorbu)**A lone wolf is dangerous. A pack is lethal.<br><br>Increases the effect of Hunter's Pack by 400% and the DEX score of adjacent Champions by 1.<code>effect_def,1750</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Wolf Pack Feat Icon](images/featicons/otherabilityincrease.png)<span class="featTooltipContents">ID: 1526**Wolf Pack (Zorbu)**A lone wolf is dangerous. A pack is lethal.<br><br><span style="color:var(--Flavescent)">Increases the effect of Hunter's Pack by 400% and the DEX score of adjacent Champions by 1.</span><code>effect_def,1750</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7714,7 +7714,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Centered Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1259**Centered (Nrakk)**There is no solution through rage.<br><br>Increases the effect of Nrakk's Ki Master ability by 80%. (Prestack)<code>buff_upgrade,80,13001</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Centered Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1259**Centered (Nrakk)**There is no solution through rage.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nrakk's Ki Master ability by 80%. (Prestack)</span><code>buff_upgrade,80,13001</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7724,7 +7724,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Beguiling Hex Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1562**Beguiling Hex (Warden)**There is no escape from this.<br><br>Increases monsters' max number of Hex Stacks by 4.<code>increase_max_hex_stacks,4</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Beguiling Hex Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1562**Beguiling Hex (Warden)**There is no escape from this.<br><br><span style="color:var(--Flavescent)">Increases monsters' max number of Hex Stacks by 4.</span><code>increase_max_hex_stacks,4</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7734,7 +7734,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Iaido Feat Icon](images/featicons/otherabilityincrease.png)<span class="featTooltipContents">ID: 1550**Iaido (Korth)**The battle will end before you even see me draw my blade.<br><br>Increases the base Dexterity score buff provided by Samurai Training by 1.<code>effect_def,1753</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Iaido Feat Icon](images/featicons/otherabilityincrease.png)<span class="featTooltipContents">ID: 1550**Iaido (Korth)**The battle will end before you even see me draw my blade.<br><br><span style="color:var(--Flavescent)">Increases the base Dexterity score buff provided by Samurai Training by 1.</span><code>effect_def,1753</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7744,7 +7744,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Fungal Colony Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1223**Fungal Colony (Sisaspia)**Growth is our only method of ssurvival.<br><br>Increases Sisaspia's maximum spore reserve by 10.<code>increase_sisaspia_reserve_spore_max,10</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Fungal Colony Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1223**Fungal Colony (Sisaspia)**Growth is our only method of ssurvival.<br><br><span style="color:var(--Flavescent)">Increases Sisaspia's maximum spore reserve by 10.</span><code>increase_sisaspia_reserve_spore_max,10</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7863,7 +7863,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Fields of Green Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1616**Fields of Green (D'hani)**I think we need a bit more mossy colors.<br><br>Increase the chance of applying a Stroke of Green by 80%.<code>buff_upgrade,80,13714,0</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Fields of Green Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1616**Fields of Green (D'hani)**I think we need a bit more mossy colors.<br><br><span style="color:var(--Flavescent)">Increase the chance of applying a Stroke of Green by 80%.</span><code>buff_upgrade,80,13714,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7873,7 +7873,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1665**Prodigal Leader (Gazrick)**Well, isn't that a kind thing to say!<br><br>All Champions damage +50%.<code>global_dps_multiplier_mult,50</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1665**Prodigal Leader (Gazrick)**Well, isn't that a kind thing to say!<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7883,7 +7883,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Caged Dreams Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1109**Caged Dreams (Miria)**Their power flows through me.<br><br>Increases the effect of Miria's Soul Cage ability by 80%.<code>buff_upgrade,80,10666</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Caged Dreams Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1109**Caged Dreams (Miria)**Their power flows through me.<br><br><span style="color:var(--Flavescent)">Increases the effect of Miria's Soul Cage ability by 80%.</span><code>buff_upgrade,80,10666</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7893,7 +7893,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Fiery Tempest Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1666**Fiery Tempest (Karlach)**Oh... You're going to regret that!<br><br>Increases the effect of Karlach's The Fury of Avernus ability by 80%.<code>buff_upgrade,80,13721</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Fiery Tempest Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1666**Fiery Tempest (Karlach)**Oh... You're going to regret that!<br><br><span style="color:var(--Flavescent)">Increases the effect of Karlach's The Fury of Avernus ability by 80%.</span><code>buff_upgrade,80,13721</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7977,7 +7977,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Puzzling Answers Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1433**Puzzling Answers (Shaka)**The answer you get may not be the answer you need.<br><br>Increases the effect of Shaka's Riddling Rivals ability by 40%. (Prestack)<code>buff_upgrade,40,13419</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Puzzling Answers Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1433**Puzzling Answers (Shaka)**The answer you get may not be the answer you need.<br><br><span style="color:var(--Flavescent)">Increases the effect of Shaka's Riddling Rivals ability by 40%. (Prestack)</span><code>buff_upgrade,40,13419</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7987,7 +7987,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Fresh Palette Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1653**Fresh Palette (D'hani)**A refreshed fighter is a strong fighter.<br><br>Increase the effect of all D'hani's Specializations by 40%.<code>buff_upgrades,40,13717,13718,13719</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Fresh Palette Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1653**Fresh Palette (D'hani)**A refreshed fighter is a strong fighter.<br><br><span style="color:var(--Flavescent)">Increase the effect of all D'hani's Specializations by 40%.</span><code>buff_upgrades,40,13717,13718,13719</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -7997,7 +7997,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Darting Weapon Feat Icon](images/featicons/cooldown.png)<span class="featTooltipContents">ID: 1649**Darting Weapon (Kent)**Have at thee!<br><br>Reduces the cooldown on Kent's Base Attack by 0.5 seconds.<code>reduce_attack_cooldown,0.5</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Darting Weapon Feat Icon](images/featicons/cooldown.png)<span class="featTooltipContents">ID: 1649**Darting Weapon (Kent)**Have at thee!<br><br><span style="color:var(--Flavescent)">Reduces the cooldown on Kent's Base Attack by 0.5 seconds.</span><code>reduce_attack_cooldown,0.5</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8007,7 +8007,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Form Up! Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1650**Form Up! (Virgil)**Kent, please don't say 'Roll Out' - no one knows what that means.<br><br>Increases the damage of all Champions by 20% for each Rivals of Waterdeep Champion in the formation.<code>global_dps_multiplier_mult,20</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Form Up! Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1650**Form Up! (Virgil)**Kent, please don't say 'Roll Out' - no one knows what that means.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Rivals of Waterdeep Champion in the formation.</span><code>global_dps_multiplier_mult,20</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8017,7 +8017,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Riddles Within Riddles Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1635**Riddles Within Riddles (Shaka)**There is far more to this than you might think.<br><br>Increases the effect of Shaka's Riddling Rivals ability by 80%. (Prestack)<code>buff_upgrade,80,13419</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Riddles Within Riddles Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1635**Riddles Within Riddles (Shaka)**There is far more to this than you might think.<br><br><span style="color:var(--Flavescent)">Increases the effect of Shaka's Riddling Rivals ability by 80%. (Prestack)</span><code>buff_upgrade,80,13419</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8027,7 +8027,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Champion of Tyr Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1434**Champion of Tyr (Selise)**Tyr, give me strength!<br><br>Increases the damage of Thunderous Smite by 100% and prevents roaming familiars from automatically activating Selise's ultimate attack.<code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Champion of Tyr Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1434**Champion of Tyr (Selise)**Tyr, give me strength!<br><br><span style="color:var(--Flavescent)">Increases the damage of Thunderous Smite by 100% and prevents roaming familiars from automatically activating Selise's ultimate attack.</span><code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8037,7 +8037,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Taunt Feat Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1648**Taunt (Selise)**I've killed Death. You're nothing compared to that.<br><br>All Champions damage +100%. Selise's attacks have a 50% chance to taunt enemies.<code>global_dps_multiplier_mult,100<br>taunt,50</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Taunt Feat Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1648**Taunt (Selise)**I've killed Death. You're nothing compared to that.<br><br><span style="color:var(--Flavescent)">All Champions damage +100%. Selise's attacks have a 50% chance to taunt enemies.</span><code>global_dps_multiplier_mult,100<br>taunt,50</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8047,7 +8047,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Color Theory Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1654**Color Theory (D'hani)**Fighting is like mixing paint. You need to know what works for a situation.<br><br>Increase the effect of all D'hani's Specializations by 80%.<code>buff_upgrades,80,13717,13718,13719</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Color Theory Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1654**Color Theory (D'hani)**Fighting is like mixing paint. You need to know what works for a situation.<br><br><span style="color:var(--Flavescent)">Increase the effect of all D'hani's Specializations by 80%.</span><code>buff_upgrades,80,13717,13718,13719</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8057,7 +8057,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">ID: 1651**Vicious Damage (Kent)**Now you're in for it!<br><br>Increases the damage of Kent by 400%. Kent's attacks prevent the target from healing for 10 seconds.<code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Vicious Damage Feat Icon](images/featicons/viciousdamage.png)<span class="featTooltipContents">ID: 1651**Vicious Damage (Kent)**Now you're in for it!<br><br><span style="color:var(--Flavescent)">Increases the damage of Kent by 400%. Kent's attacks prevent the target from healing for 10 seconds.</span><code>hero_dps_multiplier_mult,400<br>vicious_damage,10</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8067,7 +8067,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![It's time! Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1652**It's time! (Virgil)**Why would I say 'morphing' in the middle of that, Kent? That doesn't make sense.<br><br>Increases the damage of all Champions by 40% for each Rivals of Waterdeep Champion in the formation.<code>global_dps_multiplier_mult,40</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![It's time! Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1652**It's time! (Virgil)**Why would I say 'morphing' in the middle of that, Kent? That doesn't make sense.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 40% for each Rivals of Waterdeep Champion in the formation.</span><code>global_dps_multiplier_mult,40</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8186,7 +8186,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">ID: 1714**Illithid Tadpole (Minsc)**This smells of EVIL! But I trust you. I just put it in my eye?<br><br>All Champions damage +25%. Additively increases Ceremorphosis Stacks by 1.<code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">ID: 1714**Illithid Tadpole (Minsc)**This smells of EVIL! But I trust you. I just put it in my eye?<br><br><span style="color:var(--Flavescent)">All Champions damage +25%. Additively increases Ceremorphosis Stacks by 1.</span><code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8196,7 +8196,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1713**Prodigal Leader (Solaak)**Trust me, we've got this.<br><br>All Champions damage +50%.<code>global_dps_multiplier_mult,50</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1713**Prodigal Leader (Solaak)**Trust me, we've got this.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8206,7 +8206,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Tenacious Feat Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1689**Tenacious (Presto)**I won't give up! No matter what Venger throws at us!<br><br>Increases the Constitution score of Presto by 2.<code>increase_ability_score,con,2</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Tenacious Feat Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1689**Tenacious (Presto)**I won't give up! No matter what Venger throws at us!<br><br><span style="color:var(--Flavescent)">Increases the Constitution score of Presto by 2.</span><code>increase_ability_score,con,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8216,7 +8216,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">ID: 1712**Illithid Tadpole (Dynaheir)**You want me to put what in my brain?<br><br>All Champions damage +25%. Additively increases Ceremorphosis Stacks by 1.<code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Illithid Tadpole Feat Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">ID: 1712**Illithid Tadpole (Dynaheir)**You want me to put what in my brain?<br><br><span style="color:var(--Flavescent)">All Champions damage +25%. Additively increases Ceremorphosis Stacks by 1.</span><code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8300,7 +8300,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Courage in Battle Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1304**Courage in Battle (Drizzt)**Hope is the ally of all courageous people.<br><br>Additively increases Drizzt's Mithral Hall Stacks contribution by 1.<code>add_mithral_hall_stacks,1</code></span></span>
+                        <span class="emergenceShopFeatIcon3 tooltipHolder">![Courage in Battle Feat Icon](images/featicons/mithralhallstackbonus.png)<span class="featTooltipContents">ID: 1304**Courage in Battle (Drizzt)**Hope is the ally of all courageous people.<br><br><span style="color:var(--Flavescent)">Additively increases Drizzt's Mithral Hall Stacks contribution by 1.</span><code>add_mithral_hall_stacks,1</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8310,7 +8310,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Quick Friends Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1471**Quick Friends (Evelyn)**Did you heal me? OH! Yay! We're best friends now!<br><br>Increases the effect of Evelyn's Conduit of the Light ability by 80%.<code>buff_upgrade,80,12208</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Quick Friends Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1471**Quick Friends (Evelyn)**Did you heal me? OH! Yay! We're best friends now!<br><br><span style="color:var(--Flavescent)">Increases the effect of Evelyn's Conduit of the Light ability by 80%.</span><code>buff_upgrade,80,12208</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8320,7 +8320,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heavily Armored Feat Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 1797**Heavily Armored (Krydle)**You want me to hide in this?! Do you have a barn?<br><br>Increases the health of Krydle by 60%.<code>health_mult,60</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heavily Armored Feat Icon](images/featicons/health.png)<span class="featTooltipContents">ID: 1797**Heavily Armored (Krydle)**You want me to hide in this?! Do you have a barn?<br><br><span style="color:var(--Flavescent)">Increases the health of Krydle by 60%.</span><code>health_mult,60</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8330,7 +8330,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Scholar Feat Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1775**Scholar (Diana)**I've got a 4.0 GPA.<br><br>Increases the Intelligence score of Diana by 2.<code>increase_ability_score,int,2</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Scholar Feat Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1775**Scholar (Diana)**I've got a 4.0 GPA.<br><br><span style="color:var(--Flavescent)">Increases the Intelligence score of Diana by 2.</span><code>increase_ability_score,int,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8414,7 +8414,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Better Every Day Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1873**Better Every Day (Ulkoria)**You should do something every day to get you closer to your next goal!<br><br>Increases the positional formation buff of Watchful Order by 80%.<code>buff_upgrade,80,4347,2</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Better Every Day Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1873**Better Every Day (Ulkoria)**You should do something every day to get you closer to your next goal!<br><br><span style="color:var(--Flavescent)">Increases the positional formation buff of Watchful Order by 80%.</span><code>buff_upgrade,80,4347,2</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8424,7 +8424,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Air Genasi Glitch Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1867**Air Genasi Glitch (Valentine)**Huh. Well, at least I still look good in black.<br><br>Valentine also counts as Air Genasi.<code>add_hero_tags,0,genasi<br>change_hero_alignment_tag,chaotic,evil</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Air Genasi Glitch Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1867**Air Genasi Glitch (Valentine)**Huh. Well, at least I still look good in black.<br><br><span style="color:var(--Flavescent)">Valentine also counts as Air Genasi.</span><code>add_hero_tags,0,genasi<br>change_hero_alignment_tag,chaotic,evil</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8434,7 +8434,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heart of Battle Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1814**Heart of Battle (Ravengard)**Let hope strengthen your blades and deliver us victory!<br><br>Ravengard's Critical Teamwork keeps 40% of its stacks when they would be reset.<code>persist_effect_stacks,40,15030</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Heart of Battle Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1814**Heart of Battle (Ravengard)**Let hope strengthen your blades and deliver us victory!<br><br><span style="color:var(--Flavescent)">Ravengard's Critical Teamwork keeps 40% of its stacks when they would be reset.</span><code>persist_effect_stacks,40,15030</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8444,7 +8444,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Woken the Hive Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1848**Woken the Hive (Umberto)**You've done it now!<br><br>Increases the damage of Umberto's bees by 80%.<code>buff_upgrade,80,15049,0</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Woken the Hive Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1848**Woken the Hive (Umberto)**You've done it now!<br><br><span style="color:var(--Flavescent)">Increases the damage of Umberto's bees by 80%.</span><code>buff_upgrade,80,15049,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8528,7 +8528,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Strategic Stride Feat Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2004**Strategic Stride (Briv)**Mine mighty legs could go farther, but there is wisdom in restraint.<br><br>Caps Briv's Unnatural Haste ability at 100% chance to skip 9 areas.<code>cap_upgrade,25600,3452</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Strategic Stride Feat Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2004**Strategic Stride (Briv)**Mine mighty legs could go farther, but there is wisdom in restraint.<br><br><span style="color:var(--Flavescent)">Caps Briv's Unnatural Haste ability at 100% chance to skip 9 areas.</span><code>cap_upgrade,25600,3452</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8538,7 +8538,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Gem Feat Icon](images/featicons/ellywickstacksdeck.png)<span class="featTooltipContents">ID: 1880**Gem (Ellywick)**Spread the wealth.<br><br>Ellywick stacks the deck to always draw a Gem card, unless she already has one in her hand.<code>ellywick_gem_prioritized</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Gem Feat Icon](images/featicons/ellywickstacksdeck.png)<span class="featTooltipContents">ID: 1880**Gem (Ellywick)**Spread the wealth.<br><br><span style="color:var(--Flavescent)">Ellywick stacks the deck to always draw a Gem card, unless she already has one in her hand.</span><code>ellywick_gem_prioritized</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8548,7 +8548,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Make Undead Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1894**Make Undead (Widdle)**HUNGRY!<br><br>Widdle also counts as Undead.<code>add_hero_tags,0,undead<br>buff_upgrade,160,6905<br>appear_dead</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Make Undead Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1894**Make Undead (Widdle)**HUNGRY!<br><br><span style="color:var(--Flavescent)">Widdle also counts as Undead.</span><code>add_hero_tags,0,undead<br>buff_upgrade,160,6905<br>appear_dead</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8558,7 +8558,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Make Undead Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1893**Make Undead (Nahara)**I feel stronger...<br><br>Nahara also counts as Undead.<code>add_hero_tags,0,undead<br>hero_dps_multiplier_mult,400<br>appear_dead</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Make Undead Feat Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1893**Make Undead (Nahara)**I feel stronger...<br><br><span style="color:var(--Flavescent)">Nahara also counts as Undead.</span><code>add_hero_tags,0,undead<br>hero_dps_multiplier_mult,400<br>appear_dead</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8568,7 +8568,7 @@ This is the list of recurring events that have had their exclusivity period end.
                 </span>
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1723**Prodigal Leader (Voronika)**Do as I say - you'll live longer.<br><br>All Champions damage +50%.<code>global_dps_multiplier_mult,50</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1723**Prodigal Leader (Voronika)**Do as I say - you'll live longer.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
@@ -8681,7 +8681,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">Catti-brie</span>
         </span>
         <span class="featTableIcon4">
-            ![Archer's Perception Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1355**Archer's Perception (Catti-brie)**I'll know them when I see them. Attack on my signal.<br><br>Increases the effect of Catti-brie's Mark for Death ability by 80%.<code>buff_upgrade,80,11308</code></span>Archer's Perception
+            ![Archer's Perception Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1355**Archer's Perception (Catti-brie)**I'll know them when I see them. Attack on my signal.<br><br><span style="color:var(--Flavescent)">Increases the effect of Catti-brie's Mark for Death ability by 80%.</span><code>buff_upgrade,80,11308</code></span>Archer's Perception
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Catti-brie's Mark for Death ability by 80%.</span>
@@ -8698,7 +8698,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">Dark Urge</span>
         </span>
         <span class="featTableIcon4">
-            ![Blazing Blood Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2129**Blazing Blood (Dark Urge)**The hells themselves will quake at your passing, milord!<br><br>Increases the effect of Dark Urge's Ceremorphosis ability by 80%. (Prestack)<code>buff_upgrade,80,14380</code></span>Blazing Blood
+            ![Blazing Blood Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2129**Blazing Blood (Dark Urge)**The hells themselves will quake at your passing, milord!<br><br><span style="color:var(--Flavescent)">Increases the effect of Dark Urge's Ceremorphosis ability by 80%. (Prestack)</span><code>buff_upgrade,80,14380</code></span>Blazing Blood
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Dark Urge's Ceremorphosis ability by 80%. (Prestack)</span>
@@ -8712,27 +8712,10 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Beadle</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Show Off Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2128**Show Off (Beadle)**Sneak attacks are a bit easier when you can teleport! ~Beadle<br><br>Increases the damage of Beadle's ultimate attack by 100% and prevents roaming familiars from automatically activating Beadle's ultimate attack.<code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span>Show Off
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of Beadle's ultimate attack by 100% and prevents roaming familiars from automatically activating Beadle's ultimate attack.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">02 Jul 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Grimm</span>
         </span>
         <span class="featTableIcon4">
-            ![Gloves Off Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2154**Gloves Off (Grimm)**Let's settle this, one on one. No potions, blades only, neutral ground. ~Grimm<br><br>Increases the damage of Grimm's ultimate attack by 100% and prevents roaming familiars from automatically activating Grimm's ultimate attack.<code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span>Gloves Off
+            ![Gloves Off Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2154**Gloves Off (Grimm)**Let's settle this, one on one. No potions, blades only, neutral ground. ~Grimm<br><br><span style="color:var(--Flavescent)">Increases the damage of Grimm's ultimate attack by 100% and prevents roaming familiars from automatically activating Grimm's ultimate attack.</span><code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span>Gloves Off
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the damage of Grimm's ultimate attack by 100% and prevents roaming familiars from automatically activating Grimm's ultimate attack.</span>
@@ -8746,19 +8729,19 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Blooshi</span>
+            <span class="featTableInner">Beadle</span>
         </span>
         <span class="featTableIcon4">
-            ![Nine Lives Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2107**Nine Lives (Blooshi)**It's actually way more, I think. I just stopped counting.<br><br>Increases the effect of Blooshi's A Life Well Lived ability by 80%.<code>buff_upgrade,80,7520</code></span>Nine Lives
+            ![Show Off Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2128**Show Off (Beadle)**Sneak attacks are a bit easier when you can teleport! ~Beadle<br><br><span style="color:var(--Flavescent)">Increases the damage of Beadle's ultimate attack by 100% and prevents roaming familiars from automatically activating Beadle's ultimate attack.</span><code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span>Show Off
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Blooshi's A Life Well Lived ability by 80%.</span>
+            <span class="featTableInner">Increases the damage of Beadle's ultimate attack by 100% and prevents roaming familiars from automatically activating Beadle's ultimate attack.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">26 Jun 2025</span>
+            <span class="featTableInner">02 Jul 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8766,7 +8749,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">Makos</span>
         </span>
         <span class="featTableIcon4">
-            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2108**Immolation (Makos)**I call upon the Flames of Phlegethos!<br><br>Makos's attacks deal an additional 1 second of BUD damage every second for 5 seconds.<code>immolation,1,5</code></span>Immolation
+            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2108**Immolation (Makos)**I call upon the Flames of Phlegethos!<br><br><span style="color:var(--Flavescent)">Makos's attacks deal an additional 1 second of BUD damage every second for 5 seconds.</span><code>immolation,1,5</code></span>Immolation
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Makos's attacks deal an additional 1 second of BUD damage every second for 5 seconds.</span>
@@ -8780,10 +8763,27 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Blooshi</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Nine Lives Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2107**Nine Lives (Blooshi)**It's actually way more, I think. I just stopped counting.<br><br><span style="color:var(--Flavescent)">Increases the effect of Blooshi's A Life Well Lived ability by 80%.</span><code>buff_upgrade,80,7520</code></span>Nine Lives
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Blooshi's A Life Well Lived ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">26 Jun 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Sisaspia</span>
         </span>
         <span class="featTableIcon4">
-            ![Evolved Contagion Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2092**Evolved Contagion (Sisaspia)**Thisss isn't even itsss final form.<br><br>Increases the effect of Sisaspia's Symbiotic Infection ability by 80%.<code>buff_upgrade,80,13251</code></span>Evolved Contagion
+            ![Evolved Contagion Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2092**Evolved Contagion (Sisaspia)**Thisss isn't even itsss final form.<br><br><span style="color:var(--Flavescent)">Increases the effect of Sisaspia's Symbiotic Infection ability by 80%.</span><code>buff_upgrade,80,13251</code></span>Evolved Contagion
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Sisaspia's Symbiotic Infection ability by 80%.</span>
@@ -8800,7 +8800,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">Nrakk</span>
         </span>
         <span class="featTableIcon4">
-            ![Enlightened Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2093**Enlightened (Nrakk)**Mind, heart, body, and soul in perfect balance, as all things should be.<br><br>Increases the effect of Nrakk's Githzerai Focus and Githzerai Agility by 80%.<code>buff_upgrades,80,13005,13006</code></span>Enlightened
+            ![Enlightened Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2093**Enlightened (Nrakk)**Mind, heart, body, and soul in perfect balance, as all things should be.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nrakk's Githzerai Focus and Githzerai Agility by 80%.</span><code>buff_upgrades,80,13005,13006</code></span>Enlightened
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Nrakk's Githzerai Focus and Githzerai Agility by 80%.</span>
@@ -8814,27 +8814,10 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Orkira</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2091**Immolation (Orkira)**Friends are like marshmallows, flammable and sweet.<br><br>Orkira's attacks deal an additional 1 second of BUD damage every second for 5 seconds.<code>immolation,1,5</code></span>Immolation
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Orkira's attacks deal an additional 1 second of BUD damage every second for 5 seconds.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">12 Jun 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Sheila</span>
         </span>
         <span class="featTableIcon4">
-            ![Heart of Gold Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2113**Heart of Gold (Sheila)**Well, I lost us a chance to get home, but gained a friend!<br><br>Increases the effect of Sheila's Kind Heart ability by 80%.<code>buff_upgrade,80,16538</code></span>Heart of Gold
+            ![Heart of Gold Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2113**Heart of Gold (Sheila)**Well, I lost us a chance to get home, but gained a friend!<br><br><span style="color:var(--Flavescent)">Increases the effect of Sheila's Kind Heart ability by 80%.</span><code>buff_upgrade,80,16538</code></span>Heart of Gold
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Sheila's Kind Heart ability by 80%.</span>
@@ -8848,10 +8831,27 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Orkira</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2091**Immolation (Orkira)**Friends are like marshmallows, flammable and sweet.<br><br><span style="color:var(--Flavescent)">Orkira's attacks deal an additional 1 second of BUD damage every second for 5 seconds.</span><code>immolation,1,5</code></span>Immolation
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Orkira's attacks deal an additional 1 second of BUD damage every second for 5 seconds.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">12 Jun 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Volo</span>
         </span>
         <span class="featTableIcon4">
-            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">ID: 2159**Illithid Tadpole (Volo)**I've simply the worst headache today. Bah! I'm certain it's nothing serious.<br><br>All Champions damage +25%. Additively increases Ceremorphosis Stacks by 1.<code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span>Illithid Tadpole
+            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">ID: 2159**Illithid Tadpole (Volo)**I've simply the worst headache today. Bah! I'm certain it's nothing serious.<br><br><span style="color:var(--Flavescent)">All Champions damage +25%. Additively increases Ceremorphosis Stacks by 1.</span><code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span>Illithid Tadpole
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">All Champions damage +25%. Additively increases Ceremorphosis Stacks by 1.</span>
@@ -8865,27 +8865,10 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Gale</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Dark Academia Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2090**Dark Academia (Gale)**If Mystra will not hear my pleas, I shall seek succor elsewhere.<br><br>Increases the effect of Gale's An Experienced Sage ability by 80%.<code>buff_upgrade,80,14573</code></span>Dark Academia
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Gale's An Experienced Sage ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">05 Jun 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Volo</span>
         </span>
         <span class="featTableIcon4">
-            ![Volo's Expanded Expertise Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2098**Volo's Expanded Expertise (Volo)**I've had an epiphany! If I raise my voice, more willing ears might hear me!<br><br>Increases the number of columns buffed by Volo's Guide to Combat by +1.<code>change_upgrade_data,16550,0</code></span>Volo's Expanded Expertise
+            ![Volo's Expanded Expertise Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2098**Volo's Expanded Expertise (Volo)**I've had an epiphany! If I raise my voice, more willing ears might hear me!<br><br><span style="color:var(--Flavescent)">Increases the number of columns buffed by Volo's Guide to Combat by +1.</span><code>change_upgrade_data,16550,0</code></span>Volo's Expanded Expertise
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the number of columns buffed by Volo's Guide to Combat by +1.</span>
@@ -8899,19 +8882,19 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Thellora</span>
+            <span class="featTableInner">Gale</span>
         </span>
         <span class="featTableIcon4">
-            ![Ferocious Charge Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2081**Ferocious Charge (Thellora)**With me! Overwhelm them with our combined might! Make them fear us!<br><br>Increases the effect of Thellora's Strength of the Luma ability by 80%.<code>buff_upgrade,80,12978</code></span>Ferocious Charge
+            ![Dark Academia Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2090**Dark Academia (Gale)**If Mystra will not hear my pleas, I shall seek succor elsewhere.<br><br><span style="color:var(--Flavescent)">Increases the effect of Gale's An Experienced Sage ability by 80%.</span><code>buff_upgrade,80,14573</code></span>Dark Academia
         </span>
         <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Thellora's Strength of the Luma ability by 80%.</span>
+            <span class="featTableInner">Increases the effect of Gale's An Experienced Sage ability by 80%.</span>
         </span>
         <span class="featTableSource">
             <span class="featTableInner">50,000 Gems</span>
         </span>
         <span class="featTableDate">
-            <span class="featTableInner">26 May 2025</span>
+            <span class="featTableInner">05 Jun 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8919,7 +8902,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">BBEG</span>
         </span>
         <span class="featTableIcon4">
-            ![Secret Stash Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2082**Secret Stash (BBEG)**I've hoarded an assortment of accursed concoctions just for this occasion.<br><br>Increases the effect of BBEG's Homebrew ability by 80%.<code>buff_upgrade,80,11540</code></span>Secret Stash
+            ![Secret Stash Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2082**Secret Stash (BBEG)**I've hoarded an assortment of accursed concoctions just for this occasion.<br><br><span style="color:var(--Flavescent)">Increases the effect of BBEG's Homebrew ability by 80%.</span><code>buff_upgrade,80,11540</code></span>Secret Stash
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of BBEG's Homebrew ability by 80%.</span>
@@ -8933,10 +8916,27 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Thellora</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Ferocious Charge Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2081**Ferocious Charge (Thellora)**With me! Overwhelm them with our combined might! Make them fear us!<br><br><span style="color:var(--Flavescent)">Increases the effect of Thellora's Strength of the Luma ability by 80%.</span><code>buff_upgrade,80,12978</code></span>Ferocious Charge
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Thellora's Strength of the Luma ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">26 May 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Vi</span>
         </span>
         <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2079**Prodigal Leader (Vi)**When you look this good, people will do just about anything for you.<br><br>All Champions damage +50%.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2079**Prodigal Leader (Vi)**When you look this good, people will do just about anything for you.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">All Champions damage +50%.</span>
@@ -8953,7 +8953,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">Birdsong</span>
         </span>
         <span class="featTableIcon4">
-            ![Weapon Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2080**Weapon Master (Birdsong)**Take away my blades and I'll show you what these claws can do.<br><br>Increases the damage of Birdsong by 120%.<code>hero_dps_multiplier_mult,120</code></span>Weapon Master
+            ![Weapon Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2080**Weapon Master (Birdsong)**Take away my blades and I'll show you what these claws can do.<br><br><span style="color:var(--Flavescent)">Increases the damage of Birdsong by 120%.</span><code>hero_dps_multiplier_mult,120</code></span>Weapon Master
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the damage of Birdsong by 120%.</span>
@@ -8970,7 +8970,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">Minthara</span>
         </span>
         <span class="featTableIcon4">
-            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1971**Taunt (Minthara)**Hear me, creatures! I am your foe this day!<br><br>All Champions damage +100%. Minthara's attacks have a 50% chance to taunt enemies.<code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
+            ![Taunt Icon](images/featicons/taunt.png)<span class="featTooltipContents">ID: 1971**Taunt (Minthara)**Hear me, creatures! I am your foe this day!<br><br><span style="color:var(--Flavescent)">All Champions damage +100%. Minthara's attacks have a 50% chance to taunt enemies.</span><code>global_dps_multiplier_mult,100<br>taunt,50</code></span>Taunt
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">All Champions damage +100%. Minthara's attacks have a 50% chance to taunt enemies.</span>
@@ -8984,27 +8984,10 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Presto</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Presto's Aplomb Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2078**Presto's Aplomb (Presto)**Growing up sure is scary, but I'll be brave.<br><br>Increases the effect of Presto's specializations by 80%.<code>buff_upgrades,80,13765,13766,13767</code></span>Presto's Aplomb
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Presto's specializations by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">12 May 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Ishi</span>
         </span>
         <span class="featTableIcon4">
-            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2089**Multiversal Allies (Ishi)**Ishi has friends in MANY places. Want to meet them?<br><br>Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.<code>effect_def,2193</code></span>Multiversal Allies
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2089**Multiversal Allies (Ishi)**Ishi has friends in MANY places. Want to meet them?<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
@@ -9018,10 +9001,27 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Presto</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Presto's Aplomb Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2078**Presto's Aplomb (Presto)**Growing up sure is scary, but I'll be brave.<br><br><span style="color:var(--Flavescent)">Increases the effect of Presto's specializations by 80%.</span><code>buff_upgrades,80,13765,13766,13767</code></span>Presto's Aplomb
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Presto's specializations by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">12 May 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Kalix</span>
         </span>
         <span class="featTableIcon4">
-            ![Psionic Talent Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2065**Psionic Talent (Kalix)**I see into your mind. I sense your weakness. I know your strength.<br><br>Increases the effect of Kalix's Thri-kreen Telepathy ability by 80%.<code>buff_upgrade,80,16516,0</code></span>Psionic Talent
+            ![Psionic Talent Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2065**Psionic Talent (Kalix)**I see into your mind. I sense your weakness. I know your strength.<br><br><span style="color:var(--Flavescent)">Increases the effect of Kalix's Thri-kreen Telepathy ability by 80%.</span><code>buff_upgrade,80,16516,0</code></span>Psionic Talent
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Kalix's Thri-kreen Telepathy ability by 80%.</span>
@@ -9038,7 +9038,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">Hew Maan</span>
         </span>
         <span class="featTableIcon4">
-            ![Misdirection Icon](images/featicons/misdirection.png)<span class="featTooltipContents">ID: 2077**Misdirection (Hew Maan)**Zrang? Nope. Never heard of 'em. ~Zrang<br><br>Enemies that attempt to attack this Champion will instead attack a different Champion, if possible.<code>global_dps_multiplier_mult,100<br>reverse_taunt</code></span>Misdirection
+            ![Misdirection Icon](images/featicons/misdirection.png)<span class="featTooltipContents">ID: 2077**Misdirection (Hew Maan)**Zrang? Nope. Never heard of 'em. ~Zrang<br><br><span style="color:var(--Flavescent)">Enemies that attempt to attack this Champion will instead attack a different Champion, if possible.</span><code>global_dps_multiplier_mult,100<br>reverse_taunt</code></span>Misdirection
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Enemies that attempt to attack this Champion will instead attack a different Champion, if possible.</span>
@@ -9052,44 +9052,10 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Voronika</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1723**Prodigal Leader (Voronika)**Do as I say - you'll live longer.<br><br>All Champions damage +50%.<code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +50%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">30 Apr 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Ellywick</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Gem Icon](images/featicons/ellywickstacksdeck.png)<span class="featTooltipContents">ID: 1880**Gem (Ellywick)**Spread the wealth.<br><br>Ellywick stacks the deck to always draw a Gem card, unless she already has one in her hand.<code>ellywick_gem_prioritized</code></span>Gem
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Ellywick stacks the deck to always draw a Gem card, unless she already has one in her hand.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">30 Apr 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Nahara</span>
         </span>
         <span class="featTableIcon4">
-            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1893**Make Undead (Nahara)**I feel stronger...<br><br>Nahara also counts as Undead.<code>add_hero_tags,0,undead<br>hero_dps_multiplier_mult,400<br>appear_dead</code></span>Make Undead
+            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1893**Make Undead (Nahara)**I feel stronger...<br><br><span style="color:var(--Flavescent)">Nahara also counts as Undead.</span><code>add_hero_tags,0,undead<br>hero_dps_multiplier_mult,400<br>appear_dead</code></span>Make Undead
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Nahara also counts as Undead.</span>
@@ -9106,7 +9072,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">Widdle</span>
         </span>
         <span class="featTableIcon4">
-            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1894**Make Undead (Widdle)**HUNGRY!<br><br>Widdle also counts as Undead.<code>add_hero_tags,0,undead<br>buff_upgrade,160,6905<br>appear_dead</code></span>Make Undead
+            ![Make Undead Icon](images/featicons/glitch.png)<span class="featTooltipContents">ID: 1894**Make Undead (Widdle)**HUNGRY!<br><br><span style="color:var(--Flavescent)">Widdle also counts as Undead.</span><code>add_hero_tags,0,undead<br>buff_upgrade,160,6905<br>appear_dead</code></span>Make Undead
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Widdle also counts as Undead.</span>
@@ -9123,7 +9089,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">Briv</span>
         </span>
         <span class="featTableIcon4">
-            ![Strategic Stride Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2004**Strategic Stride (Briv)**Mine mighty legs could go farther, but there is wisdom in restraint.<br><br>Caps Briv's Unnatural Haste ability at 100% chance to skip 9 areas.<code>cap_upgrade,25600,3452</code></span>Strategic Stride
+            ![Strategic Stride Icon](images/featicons/mount3.png)<span class="featTooltipContents">ID: 2004**Strategic Stride (Briv)**Mine mighty legs could go farther, but there is wisdom in restraint.<br><br><span style="color:var(--Flavescent)">Caps Briv's Unnatural Haste ability at 100% chance to skip 9 areas.</span><code>cap_upgrade,25600,3452</code></span>Strategic Stride
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Caps Briv's Unnatural Haste ability at 100% chance to skip 9 areas.</span>
@@ -9137,10 +9103,44 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Voronika</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 1723**Prodigal Leader (Voronika)**Do as I say - you'll live longer.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">All Champions damage +50%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Apr 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Ellywick</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Gem Icon](images/featicons/ellywickstacksdeck.png)<span class="featTooltipContents">ID: 1880**Gem (Ellywick)**Spread the wealth.<br><br><span style="color:var(--Flavescent)">Ellywick stacks the deck to always draw a Gem card, unless she already has one in her hand.</span><code>ellywick_gem_prioritized</code></span>Gem
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Ellywick stacks the deck to always draw a Gem card, unless she already has one in her hand.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Apr 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Kent</span>
         </span>
         <span class="featTableIcon4">
-            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2050**Multiversal Allies (Kent)**We are stronger together.<br><br>Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.<code>effect_def,2193</code></span>Multiversal Allies
+            ![Multiversal Allies Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2050**Multiversal Allies (Kent)**We are stronger together.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2193</code></span>Multiversal Allies
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
@@ -9157,7 +9157,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">Stoki</span>
         </span>
         <span class="featTableIcon4">
-            ![Maintain Focus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1240**Maintain Focus (Stoki)**We can't afford to waste time on distractions.<br><br>Stoki's Focus Points are only reduced by 20% when changing areas.<code>change_upgrade_data,16052,5</code></span>Maintain Focus
+            ![Maintain Focus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1240**Maintain Focus (Stoki)**We can't afford to waste time on distractions.<br><br><span style="color:var(--Flavescent)">Stoki's Focus Points are only reduced by 20% when changing areas.</span><code>change_upgrade_data,16052,5</code></span>Maintain Focus
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Stoki's Focus Points are only reduced by 20% when changing areas.</span>
@@ -9174,7 +9174,7 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">Diana</span>
         </span>
         <span class="featTableIcon4">
-            ![Unwavering Inspiration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2048**Unwavering Inspiration (Diana)**I believe in myself! I believe in all of us!<br><br>Increases the effect of Diana's Inspire specializations by 80%.<code>buff_upgrades,80,14791,14792,14793</code></span>Unwavering Inspiration
+            ![Unwavering Inspiration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2048**Unwavering Inspiration (Diana)**I believe in myself! I believe in all of us!<br><br><span style="color:var(--Flavescent)">Increases the effect of Diana's Inspire specializations by 80%.</span><code>buff_upgrades,80,14791,14792,14793</code></span>Unwavering Inspiration
         </span>
         <span class="featTableEffect">
             <span class="featTableInner">Increases the effect of Diana's Inspire specializations by 80%.</span>
