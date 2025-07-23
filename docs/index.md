@@ -5107,26 +5107,6 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 <span style="font-size:1.2em;">ⓘ</span> *Note: This does **not** include reworked champions as they can be moved wherever CNE want for their rework.*
 
-# Founders' Day - July
-
-{::nomarkdown}
-
-<span class="eventRosterHolder">
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="deekin" style="background-image:url(images/portraits/deekin.png)">Deekin (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Deekin's Confidence in the Boss ability by 200%.</li><li>Increases the effect of Deekin's Story of Doom ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Deekin's Troubadour Troupe ability by 6300%.</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="xander" style="background-image:url(images/portraits/xander.png)">Xander (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Xander's Lucky Shot ability by 200%.</li><li>All Champions damage +400%.</li><li>Increases the effect of Xander's Streetwise ability by 2400%.</li><li>All Champions damage +6300%.</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="walnut" style="background-image:url(images/portraits/walnut.png)">Walnut (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Walnut's Wolfnut ability by 200%.</li><li>Increases the effect of Walnut's Job's Done ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Walnut's Documancer ability by 6300%.</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="freely" style="background-image:url(images/portraits/freely.png)">Freely (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases Luck of Yondalla Requisition lucky break 200% for each application.</li><li>Increases the effect of Freely's Unlucky For Them ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Freely's Adventurous Tale ability by 6300%.</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="sgtknox" style="background-image:url(images/portraits/sgtknox.png)">Sgt. Knox (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Sgt. Knox's Master Defender ability by 200%.</li><li>Increases the effect of Sgt. Knox's Squad Leader ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Sgt. Knox's Rallying Cry ability by 100%. (Prestack)</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="nahara" style="background-image:url(images/portraits/nahara.png)">Nahara (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the damage of Nahara by 200%.</li><li>Increases the effect of Nahara's Who Am I? ability by 400%.</li><li>Increases the damage of Nahara's To Amuse or Avenge ability by 2400%.</li><li>Increases the damage of Nahara by 6300%.</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="strongheart" style="background-image:url(images/portraits/strongheart.png)">Strongheart (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the Crit Chance of Strongheart by 100%.</li><li>Increases the effect of Strongheart's Courage to Stand ability by 400%.</li><li>Increases the effect of Strongheart's Justice Needs Champions ability by 2400%.</li><li>Increases the effect of Strongheart's Righteous Might ability by 6300%. (Prestack)</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="vinursa" style="background-image:url(images/portraits/vinursa.png)">Vin Ursa (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Vin Ursa's Bounty Hunter ability by 200%.</li><li>Increases the effect of Vin Ursa's Vicious Vantage ability by 400%. (Prestack)</li><li>Increases the effect of Vin Ursa's Front Deck and Rear Deck by 2400%.</li><li>Increases the effect of Vin Ursa's Friends in Low Places, Friends in Meh Places and Friends in High Places by 6300%.</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="aeon" style="background-image:url(images/portraits/aeon.png)">Aeon (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Aeon's Uncover Weakness ability by 200%. (Prestack)</li><li>Increases the effect of Aeon's Inner Circle ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Aeon's Challenge Accepted ability by 150%.</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="umberto" style="background-image:url(images/portraits/umberto.png)">Umberto (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Umberto's Detective's Entourage ability by 400%.</li><li>Increases the effect of Umberto's Ongoing Investigation ability by 2400%.</li><li>Increases the effect of Umberto's Law's Alliance, Family of Orphans and Call of the Wardens by 100%. (Prestack)</li></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="tess" style="background-image:url(images/portraits/tess.png)">Tess (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Tess's A Plan For Everything ability by 400%.</li><li>Increases the effect of Tess's Unleash Uggie ability by 2400%.</li><li>Increases the effect of Tess's Lead The Way ability by 6300%.</li></ol></span></span>
-</span>
-
-{:/nomarkdown}
-
 # Ahghairon's Day - August
 
 {::nomarkdown}
@@ -5343,6 +5323,26 @@ A list of events and what champions are in them - to the best of our knowledge.
 
 {:/nomarkdown}
 
+# Founders' Day - July
+
+{::nomarkdown}
+
+<span class="eventRosterHolder">
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="deekin" style="background-image:url(images/portraits/deekin.png)">Deekin (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Deekin's Confidence in the Boss ability by 200%.</li><li>Increases the effect of Deekin's Story of Doom ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Deekin's Troubadour Troupe ability by 6300%.</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="xander" style="background-image:url(images/portraits/xander.png)">Xander (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Xander's Lucky Shot ability by 200%.</li><li>All Champions damage +400%.</li><li>Increases the effect of Xander's Streetwise ability by 2400%.</li><li>All Champions damage +6300%.</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="walnut" style="background-image:url(images/portraits/walnut.png)">Walnut (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Walnut's Wolfnut ability by 200%.</li><li>Increases the effect of Walnut's Job's Done ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Walnut's Documancer ability by 6300%.</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="freely" style="background-image:url(images/portraits/freely.png)">Freely (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases Luck of Yondalla Requisition lucky break 200% for each application.</li><li>Increases the effect of Freely's Unlucky For Them ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Freely's Adventurous Tale ability by 6300%.</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="sgtknox" style="background-image:url(images/portraits/sgtknox.png)">Sgt. Knox (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Sgt. Knox's Master Defender ability by 200%.</li><li>Increases the effect of Sgt. Knox's Squad Leader ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Sgt. Knox's Rallying Cry ability by 100%. (Prestack)</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="nahara" style="background-image:url(images/portraits/nahara.png)">Nahara (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the damage of Nahara by 200%.</li><li>Increases the effect of Nahara's Who Am I? ability by 400%.</li><li>Increases the damage of Nahara's To Amuse or Avenge ability by 2400%.</li><li>Increases the damage of Nahara by 6300%.</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="strongheart" style="background-image:url(images/portraits/strongheart.png)">Strongheart (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the Crit Chance of Strongheart by 100%.</li><li>Increases the effect of Strongheart's Courage to Stand ability by 400%.</li><li>Increases the effect of Strongheart's Justice Needs Champions ability by 2400%.</li><li>Increases the effect of Strongheart's Righteous Might ability by 6300%. (Prestack)</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="vinursa" style="background-image:url(images/portraits/vinursa.png)">Vin Ursa (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Vin Ursa's Bounty Hunter ability by 200%.</li><li>Increases the effect of Vin Ursa's Vicious Vantage ability by 400%. (Prestack)</li><li>Increases the effect of Vin Ursa's Front Deck and Rear Deck by 2400%.</li><li>Increases the effect of Vin Ursa's Friends in Low Places, Friends in Meh Places and Friends in High Places by 6300%.</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="aeon" style="background-image:url(images/portraits/aeon.png)">Aeon (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Aeon's Uncover Weakness ability by 200%. (Prestack)</li><li>Increases the effect of Aeon's Inner Circle ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Aeon's Challenge Accepted ability by 150%.</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="umberto" style="background-image:url(images/portraits/umberto.png)">Umberto (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Umberto's Detective's Entourage ability by 400%.</li><li>Increases the effect of Umberto's Ongoing Investigation ability by 2400%.</li><li>Increases the effect of Umberto's Law's Alliance, Family of Orphans and Call of the Wardens by 100%. (Prestack)</li></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="tess" style="background-image:url(images/portraits/tess.png)">Tess (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Tess's A Plan For Everything ability by 400%.</li><li>Increases the effect of Tess's Unleash Uggie ability by 2400%.</li><li>Increases the effect of Tess's Lead The Way ability by 6300%.</li></ol></span></span>
+</span>
+
+{:/nomarkdown}
+
 <br />
 
 {::nomarkdown}
@@ -5384,23 +5384,6 @@ These are feats that were previously released in premium packs and are now sitti
         </span>
         <span class="featTableDate">
             <span class="featTableInner">**Date**</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Reya</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Zariel's Chosen Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2133**Zariel's Chosen (Reya)**I am her mercy. I am her wrath. I am all that she was, is, and will be.<br><br><span style="color:var(--Flavescent)">Increases the pre-stack bonus of Echoes of Zariel by 80%.</span><code>buff_upgrade,80,5457,0</code></span>Zariel's Chosen
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the pre-stack bonus of Echoes of Zariel by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">23 Jul 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -5792,6 +5775,23 @@ These are feats that were previously released in premium packs and are now sitti
         </span>
         <span class="featTableDate">
             <span class="featTableInner">09 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Warduke</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Right Hand of Evil Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2225**Right Hand of Evil (Warduke)**I go where I'm told, and whatever I find there I destroy.<br><br><span style="color:var(--Flavescent)">Increases the effect of Warduke's Drawn to Power ability by 80%.</span><code>buff_upgrade,80,9618</code></span>Right Hand of Evil
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Warduke's Drawn to Power ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">23 Oct 2025</span>
         </span>
     </span>
 </span>
@@ -8640,6 +8640,23 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
         </span>
         <span class="featTableDate">
             <span class="featTableInner">**Date**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Reya</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Zariel's Chosen Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2133**Zariel's Chosen (Reya)**I am her mercy. I am her wrath. I am all that she was, is, and will be.<br><br><span style="color:var(--Flavescent)">Increases the pre-stack bonus of Echoes of Zariel by 80%.</span><code>buff_upgrade,80,5457,0</code></span>Zariel's Chosen
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the pre-stack bonus of Echoes of Zariel by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">23 Jul 2025</span>
         </span>
     </span>
     <span class="featTableRow">
