@@ -9152,40 +9152,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">29 Apr 2025</span>
         </span>
     </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Stoki</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Maintain Focus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1240**Maintain Focus (Stoki)**We can't afford to waste time on distractions.<br><br><span style="color:var(--Flavescent)">Stoki's Focus Points are only reduced by 20% when changing areas.</span><code>change_upgrade_data,16052,5</code></span>Maintain Focus
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Stoki's Focus Points are only reduced by 20% when changing areas.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">22 Apr 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Diana</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Unwavering Inspiration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2048**Unwavering Inspiration (Diana)**I believe in myself! I believe in all of us!<br><br><span style="color:var(--Flavescent)">Increases the effect of Diana's Inspire specializations by 80%.</span><code>buff_upgrades,80,14791,14792,14793</code></span>Unwavering Inspiration
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Diana's Inspire specializations by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">22 Apr 2025</span>
-        </span>
-    </span>
 </span>
 <br />
 
