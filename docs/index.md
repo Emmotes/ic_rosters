@@ -4627,39 +4627,39 @@ A list of all champions and their patron availability.
         <input type="checkbox" disabled checked><label class="cblabel">Until 2027-07-03</label>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="137,129,78,309,309,307,309,262">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="138,18,140,309,0,0,0,270">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="138,18,140,309,0,0,0,270">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="138,18,140,309,307,0,0,270">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="138,18,140,309,307,0,0,270">
         152
     </span>
-    <span class="patronRosterItem" data-sort="138,18,140,309,0,0,0,270">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="138,18,140,309,0,0,0,270">
+    <span class="patronRosterItem" data-sort="138,18,140,309,307,0,0,270">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="138,18,140,309,307,0,0,270">
         Bobby
     </span>
-    <span class="patronRosterItem" data-sort="138,18,140,309,0,0,0,270">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="138,18,140,309,0,0,0,270">
+    <span class="patronRosterItem" data-sort="138,18,140,309,307,0,0,270">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="138,18,140,309,307,0,0,270">
         12
     </span>
-    <span class="patronRosterItem" data-sort="138,18,140,309,0,0,0,270">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="138,18,140,309,0,0,0,270">
+    <span class="patronRosterItem" data-sort="138,18,140,309,307,0,0,270">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="138,18,140,309,307,0,0,270">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="138,18,140,309,0,0,0,270">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="138,18,140,309,0,0,0,270">
+    <span class="patronRosterItem" data-sort="138,18,140,309,307,0,0,270">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="138,18,140,309,307,0,0,270">
+        <input type="checkbox" disabled checked><label class="cblabel">w/ Feats</label>
+    </span>
+    <span class="patronRosterItem" data-sort="138,18,140,309,307,0,0,270">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="138,18,140,309,307,0,0,270">
         <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="138,18,140,309,0,0,0,270">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="138,18,140,309,0,0,0,270">
+    <span class="patronRosterItem" data-sort="138,18,140,309,307,0,0,270">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="138,18,140,309,307,0,0,270">
         <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="138,18,140,309,0,0,0,270">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="138,18,140,309,0,0,0,270">
-        <input type="checkbox" disabled>
-    </span>
-    <span class="patronRosterItem" data-sort="138,18,140,309,0,0,0,270">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="138,18,140,309,0,0,0,270">
+    <span class="patronRosterItem" data-sort="138,18,140,309,307,0,0,270">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="138,18,140,309,307,0,0,270">
         <input type="checkbox" disabled checked><label class="cblabel">Until 2027-09-04</label>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="138,18,140,309,0,0,0,270">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="138,18,140,309,307,0,0,270">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="139,68,66,309,309,309,309,273">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="139,68,66,309,309,309,309,273">
         153
@@ -5388,40 +5388,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Minthara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Unrelenting Strife Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1967**Unrelenting Strife (Minthara)**If somebody causes me sorrow, I remove their ability to do so again.<br><br><span style="color:var(--Flavescent)">Increases the maximum number of Soul Branding stacks by 2.</span><code>minthara_increase_max_stacks,2</code></span>Unrelenting Strife
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the maximum number of Soul Branding stacks by 2.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">30 Jul 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Halsin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Verdant Vow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2135**Verdant Vow (Halsin)**I give my all to serve the Oak Father. No sacrifice is too great.<br><br><span style="color:var(--Flavescent)">Increases the pre-stack effect of Halsin's Archdruid of Emerald Grove ability by 80%. (Prestack)</span><code>buff_upgrade,80,15962,0</code></span>Verdant Vow
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the pre-stack effect of Halsin's Archdruid of Emerald Grove ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">30 Jul 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Vlithryn</span>
         </span>
         <span class="featTableIcon4">
@@ -5792,6 +5758,23 @@ These are feats that were previously released in premium packs and are now sitti
         </span>
         <span class="featTableDate">
             <span class="featTableInner">23 Oct 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Eric</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Powerful Shove Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2035**Powerful Shove (Eric)**Let's keep a safe distance. Way over there sounds perfect.<br><br><span style="color:var(--Flavescent)">Increases the knockback effect of Eric's Keep Away ability by 80%.</span><code>buff_upgrade,80,16132,1</code></span>Powerful Shove
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the knockback effect of Eric's Keep Away ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Oct 2025</span>
         </span>
     </span>
 </span>
@@ -8719,6 +8702,40 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
         </span>
         <span class="featTableDate">
             <span class="featTableInner">**Date**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Minthara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Unrelenting Strife Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1967**Unrelenting Strife (Minthara)**If somebody causes me sorrow, I remove their ability to do so again.<br><br><span style="color:var(--Flavescent)">Increases the maximum number of Soul Branding stacks by 2.</span><code>minthara_increase_max_stacks,2</code></span>Unrelenting Strife
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the maximum number of Soul Branding stacks by 2.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Jul 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Halsin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Verdant Vow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2135**Verdant Vow (Halsin)**I give my all to serve the Oak Father. No sacrifice is too great.<br><br><span style="color:var(--Flavescent)">Increases the pre-stack effect of Halsin's Archdruid of Emerald Grove ability by 80%. (Prestack)</span><code>buff_upgrade,80,15962,0</code></span>Verdant Vow
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the pre-stack effect of Halsin's Archdruid of Emerald Grove ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">30 Jul 2025</span>
         </span>
     </span>
     <span class="featTableRow">
