@@ -49,8 +49,8 @@ section #title .credits.right {
 .tabsLabel {
 	padding: 8px 10px;
 	cursor: pointer;
-	border: 1px solid black;
-	border-bottom: 3px ridge black;
+	border: 1px solid var(--Black);
+	border-bottom: 3px ridge var(--Black);
 	border-radius: 10px 10px 0 0;
 	background-color: var(--Sooty);
 	margin-right: -1px;
@@ -60,22 +60,22 @@ section #title .credits.right {
 	order: 1;
 	width: 100%;
 	display: none;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--CodGrey);
 	padding: 12px 15px 0 15px;
 	border-radius: 0 10px 10px 10px;
 }
 .tabsRadio:checked+.tabsLabel {
-	color: #efefef;
+	color: var(--CrystalBell);
 	background-color: var(--CodGrey);
-	border-bottom: 3px ridge #bbbbaa;
+	border-bottom: 3px ridge var(--Eagle);
 }
 .tabsRadio:checked+.tabsLabel+.tabsContent {
 	display: initial;
 }
 .tabsRadio:focus+.tabsLabel {
-	color: #fafafa;
-	background-color: #2a2a2a;
+	color: var(--DrWhite);
+	background-color: var(--TheEnd);
 }
 .tabs code {
 	font-size: 1.1em;
@@ -124,7 +124,7 @@ input[type="checkbox"]:checked::before {
 	width: 75px;
 	height: 88px;
 	margin: 1px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	align-items: flex-end;
 	justify-content: center;
 	font-size: 0.7em;
@@ -150,7 +150,7 @@ input[type="checkbox"]:checked::before {
 	width: 260px;
 	padding: 5px;
 	margin: 5px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--CodGrey);
 }
 .emergenceShopTableTextColumn {
@@ -207,7 +207,7 @@ input[type="checkbox"]:checked::before {
 	font-size: 0.9em;
 	padding: 4px;
 	margin: 4px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--Onyx);
 }
 .postSeasonTableRowContentsItem {
@@ -216,7 +216,7 @@ input[type="checkbox"]:checked::before {
 	width: 244px;
 	padding: 5px;
 	margin: 5px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--CodGrey);
 }
 .postSeasonTableRowContentsItem img {
@@ -234,14 +234,14 @@ input[type="checkbox"]:checked::before {
 	width: 100px;
 	flex-grow: 1;
 	background-color: var(--Onyx);
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	margin-left: 2px;
 	margin-right: 2px;
 }
 .postSeasonTableTitle {
 	justify-content: flex-start;
 	font-size: 1.4em;
-	border-bottom: 4px ridge black;
+	border-bottom: 4px ridge var(--Black);
 	position: relative;
 }
 .postSeasonTableShowContents {
@@ -290,8 +290,8 @@ input[type="checkbox"]:checked::before {
 	align-items: center;
 	border-width: 1px 0;
 	border-style: solid;
-	border-color: black;
-	background-color: #222222;
+	border-color: var(--Black);
+	background-color: var(--Blackout);
 }
 .patronRosterItem input[type="checkbox"] {
 	transform: translateY(-0.15em);
@@ -303,15 +303,15 @@ input[type="checkbox"]:checked::before {
 	justify-content: flex-end;
 }
 .patronRosterBorderLeft {
-	border-left: 1px solid black;
+	border-left: 1px solid var(--Black);
 }
 .patronRosterBorderRight {
-	border-right: 1px solid black;
+	border-right: 1px solid var(--Black);
 }
 .featTooltipContents,.itemTooltipContents {
 	visibility: hidden;
 	padding: 15px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--Onyx);
 	width: max-content;
 	max-width: 350px;
@@ -339,7 +339,7 @@ input[type="checkbox"]:checked::before {
 .itemTooltipContents code,.featTooltipContents code {
 	margin-top: 10px;
 	font-size: 0.9em;
-	color: white;
+	color: var(--White);
 	padding: 5px;
 }
 .tooltipHolder:hover .featTooltipContents,.tooltipHolder:hover .itemTooltipContents {
@@ -354,7 +354,7 @@ input[type="checkbox"]:checked::before {
 .patronSort select {
 	background-color: var(--Sooty);
 	color: var(--Eggshell);
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	padding: 0 15px;
 }
 .featTableColumn {
@@ -369,16 +369,16 @@ input[type="checkbox"]:checked::before {
     flex-wrap: nowrap;
 	margin: 2px;
 	background-color: var(--Onyx);
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	text-wrap: pretty;
 }
 .featTableRowHeader {
-	border-bottom: 4px ridge black;
+	border-bottom: 4px ridge var(--Black);
 	font-size: 1.1em;
 }
 .featTableRow:hover {
 	border: 1px solid var(--Flavescent);
-	background-color: black;
+	background-color: var(--Black);
 }
 .featTableIcon0,.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5,.featTableChampion,.featTableSource,.featTableDate {
 	display: flex;
@@ -388,7 +388,7 @@ input[type="checkbox"]:checked::before {
 .featTableChampion {
 	width: 92px;
 	padding-left: 8px;
-	border-right: 1px solid black;
+	border-right: 1px solid var(--Black);
 	background-color: var(--Lead);
 }
 .featTableSource {
@@ -399,7 +399,7 @@ input[type="checkbox"]:checked::before {
 	width: 75px;
 	padding-right: 8px;
 	justify-content: flex-end;
-	border-left: 1px solid black;
+	border-left: 1px solid var(--Black);
 	background-color: var(--Lead);
 }
 .featTableEffect {
@@ -407,8 +407,8 @@ input[type="checkbox"]:checked::before {
 	align-items: center;
 	width: 314px;
 	background-color: var(--Lead);
-	border-left: 1px solid black;
-	border-right: 1px solid black;
+	border-left: 1px solid var(--Black);
+	border-right: 1px solid var(--Black);
 	padding: 0 8px;
 }
 .featTableIcon0,.featTableIcon1,.featTableIcon2,.featTableIcon3,.featTableIcon4,.featTableIcon5 {
@@ -448,7 +448,7 @@ input[type="checkbox"]:checked::before {
 .featTooltipContents {
 	visibility: hidden;
 	padding: 15px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--Sooty);
 	width: max-content;
 	max-width: 800px;
@@ -468,7 +468,7 @@ input[type="checkbox"]:checked::before {
 .featTooltipContents code {
 	margin-top: 10px;
 	font-size: 0.9em;
-	color: white;
+	color: var(--White);
 	padding: 5px;
 }
 .postSeasonTableColumn {
@@ -500,7 +500,7 @@ input[type="checkbox"]:checked::before {
 .eventBuffsTooltipContents {
 	visibility: hidden;
 	padding: 15px;
-	border: 1px solid black;
+	border: 1px solid var(--Black);
 	background-color: var(--Onyx);
 	width: max-content;
 	max-width: 350px;
