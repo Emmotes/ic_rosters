@@ -9129,40 +9129,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">12 May 2025</span>
         </span>
     </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Kalix</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Psionic Talent Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2065**Psionic Talent (Kalix)**I see into your mind. I sense your weakness. I know your strength.<br><br><span style="color:var(--Flavescent)">Increases the effect of Kalix's Thri-kreen Telepathy ability by 80%.</span><code>buff_upgrade,80,16516,0</code></span>Psionic Talent
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Kalix's Thri-kreen Telepathy ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">05 May 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Hew Maan</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Misdirection Icon](images/featicons/misdirection.png)<span class="featTooltipContents">ID: 2077**Misdirection (Hew Maan)**Zrang? Nope. Never heard of 'em. ~Zrang<br><br><span style="color:var(--Flavescent)">Enemies that attempt to attack this Champion will instead attack a different Champion, if possible.</span><code>global_dps_multiplier_mult,100<br>reverse_taunt</code></span>Misdirection
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Enemies that attempt to attack this Champion will instead attack a different Champion, if possible.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">05 May 2025</span>
-        </span>
-    </span>
 </span>
 <br />
 
