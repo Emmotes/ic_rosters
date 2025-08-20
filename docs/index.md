@@ -9163,40 +9163,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">26 May 2025</span>
         </span>
     </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Vi</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2079**Prodigal Leader (Vi)**When you look this good, people will do just about anything for you.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +50%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">19 May 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Birdsong</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Weapon Master Icon](images/featicons/selfdps.png)<span class="featTooltipContents">ID: 2080**Weapon Master (Birdsong)**Take away my blades and I'll show you what these claws can do.<br><br><span style="color:var(--Flavescent)">Increases the damage of Birdsong by 120%.</span><code>hero_dps_multiplier_mult,120</code></span>Weapon Master
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of Birdsong by 120%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">19 May 2025</span>
-        </span>
-    </span>
 </span>
 <br />
 
