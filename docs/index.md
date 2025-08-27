@@ -9129,40 +9129,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">05 Jun 2025</span>
         </span>
     </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">BBEG</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Secret Stash Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2082**Secret Stash (BBEG)**I've hoarded an assortment of accursed concoctions just for this occasion.<br><br><span style="color:var(--Flavescent)">Increases the effect of BBEG's Homebrew ability by 80%.</span><code>buff_upgrade,80,11540</code></span>Secret Stash
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of BBEG's Homebrew ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">26 May 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Thellora</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Ferocious Charge Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2081**Ferocious Charge (Thellora)**With me! Overwhelm them with our combined might! Make them fear us!<br><br><span style="color:var(--Flavescent)">Increases the effect of Thellora's Strength of the Luma ability by 80%.</span><code>buff_upgrade,80,12978</code></span>Ferocious Charge
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Thellora's Strength of the Luma ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">26 May 2025</span>
-        </span>
-    </span>
 </span>
 <br />
 
