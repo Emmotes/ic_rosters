@@ -5422,23 +5422,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Wyll</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Duke's Pride Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2141**Duke's Pride (Wyll)**He is our shield, as I am his blade. Together, we protect the people of Baldur's Gate.<br><br><span style="color:var(--Flavescent)">Increases the effect of Wyll's Folk Hero ability by 80%. (Prestack)</span><code>buff_upgrade,80,13429</code></span>Duke's Pride
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Wyll's Folk Hero ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">28 Aug 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Ravengard</span>
         </span>
         <span class="featTableIcon4">
@@ -8736,6 +8719,23 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
         </span>
         <span class="featTableDate">
             <span class="featTableInner">**Date**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Wyll</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Duke's Pride Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2141**Duke's Pride (Wyll)**He is our shield, as I am his blade. Together, we protect the people of Baldur's Gate.<br><br><span style="color:var(--Flavescent)">Increases the effect of Wyll's Folk Hero ability by 80%. (Prestack)</span><code>buff_upgrade,80,13429</code></span>Duke's Pride
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Wyll's Folk Hero ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">28 Aug 2025</span>
         </span>
     </span>
     <span class="featTableRow">
