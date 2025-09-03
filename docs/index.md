@@ -5178,17 +5178,17 @@ A list of events and what champions are in them - to the best of our knowledge.
 {::nomarkdown}
 
 <span class="eventRosterHolder">
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="stoki" style="background-image:url(images/portraits/stoki.png)">Stoki (4)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Stoki's Golden Palm ability by 400%.</li><li>Increases the effect of Stoki's Focused Strike ability by 2400%.</li><li>All Champions damage +6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="wulfgar" style="background-image:url(images/portraits/wulfgar.png)">Wulfgar (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the health of Wulfgar by 200%.</li><li>Increases the effect of Wulfgar's Clangeddin's Will ability by 400%.</li><li>Increases the effect of Wulfgar's Smash 'n Grab ability by 2400%.</li><li>All Champions damage +6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="stoki" style="background-image:url(images/portraits/stoki.png)">Stoki (4)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Stoki's Golden Palm ability by 400%.</li><li>Increases the effect of Stoki's Focused Strike ability by 2400%.</li><li>All Champions damage +6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br><ol><li value="3">Lightning Palm Feat<ul style="margin:0"><li>Increases the attack cooldown reduction of Stoki's Building Focus - Encouragement ability to 1 second.</li></ul><li value="4">Entertainer Feat<ul style="margin:0"><li>Increases the Charisma score of Stoki by 2.</li></ul></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="wulfgar" style="background-image:url(images/portraits/wulfgar.png)">Wulfgar (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the health of Wulfgar by 200%.</li><li>Increases the effect of Wulfgar's Clangeddin's Will ability by 400%.</li><li>Increases the effect of Wulfgar's Smash 'n Grab ability by 2400%.</li><li>All Champions damage +6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="farideh" style="background-image:url(images/portraits/farideh.png)">Farideh (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the damage of Farideh by 200%.</li><li>Increases the effect of Farideh's Hellish Rebuke ability by 400%.</li><li>Increases the effect of Farideh's Pact Family ability by 2400%.</li><li>Increases the damage of Farideh by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="pwent" style="background-image:url(images/portraits/pwent.png)">Pwent (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Pwent's Can You SMELL That? ability by 400%.</li><li>Increases the effect of Pwent's Gutbuster Recruits ability by 2400%.</li><li>All Champions damage +6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="torogar" style="background-image:url(images/portraits/torogar.png)">Torogar (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Torogar's Preach ability by 400%.</li><li>Increases the effect of Torogar's Dark Order Synergy ability by 2400%.</li><li>Increases the effect of Torogar's Markings of a Zealot ability by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="corazon" style="background-image:url(images/portraits/corazon.png)">Corazón (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Corazón's G.O.A.T. Pirate ability by 400%.</li><li>Increases the effect of Corazón's Pirate's Code ability by 2400%.</li><li>All Champions damage +6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="dhani" style="background-image:url(images/portraits/dhani.png)">D'hani (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the damage of D'hani by 200%.</li><li>Increases the effect of D'hani's Stroke of Green ability by 400%.</li><li>Increases the effect of D'hani's Paint Them Red ability by 2400%.</li><li>Increases the effect of D'hani's Way of the Brush ability by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="egbert" style="background-image:url(images/portraits/egbert.png)">Egbert (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the health of Egbert by 200%.</li><li>Increases the effect of Egbert's Atone for the Past ability by 400%.</li><li>Increases the effect of Egbert's Smoky Bombs, Health Kick and Oxventure Capitalism by 2400%.</li><li>All Champions damage +6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="certainty" style="background-image:url(images/portraits/certainty.png)">Certainty (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Certainty's Secretarian's Advice ability by 200%.</li><li>Increases the effect of Certainty's Reboot Expert ability by 400%.</li><li>Increases the effect of Certainty's Financing Rounds ability by 2400%.</li><li>Increases the effect of Certainty's Employee Evaluations and Employee Evaluations by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="bobby" style="background-image:url(images/portraits/bobby.png)">Bobby (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Bobby's Charge Into Battle ability by 100%. (Prestack)</li><li>Increases the effect of Bobby's Uni, the Unicorn ability by 2400%.</li><li>Increases the effect of Bobby's Now We're Talking ability by 6300%. (Prestack)</li></ol><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="cazrin" style="background-image:url(images/portraits/cazrin.png)">Cazrin (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.<br><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="pwent" style="background-image:url(images/portraits/pwent.png)">Pwent (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Pwent's Can You SMELL That? ability by 400%.</li><li>Increases the effect of Pwent's Gutbuster Recruits ability by 2400%.</li><li>All Champions damage +6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="torogar" style="background-image:url(images/portraits/torogar.png)">Torogar (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Torogar's Preach ability by 400%.</li><li>Increases the effect of Torogar's Dark Order Synergy ability by 2400%.</li><li>Increases the effect of Torogar's Markings of a Zealot ability by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="corazon" style="background-image:url(images/portraits/corazon.png)">Corazón (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Corazón's G.O.A.T. Pirate ability by 400%.</li><li>Increases the effect of Corazón's Pirate's Code ability by 2400%.</li><li>All Champions damage +6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="dhani" style="background-image:url(images/portraits/dhani.png)">D'hani (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the damage of D'hani by 200%.</li><li>Increase the AOE damage dealt by Stroke of Green by 400%.</li><li>Increases the effect of D'hani's Paint Them Red ability by 2400%.</li><li>Increases the effect of D'hani's Way of the Brush ability by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="egbert" style="background-image:url(images/portraits/egbert.png)">Egbert (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the health of Egbert by 200%.</li><li>Increases the effect of Egbert's Atone for the Past ability by 400%.</li><li>Increases the effect of Egbert's Smoky Bombs, Health Kick and Oxventure Capitalism by 2400%.</li><li>All Champions damage +6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="certainty" style="background-image:url(images/portraits/certainty.png)">Certainty (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Certainty's Secretarian's Advice ability by 200%.</li><li>Increases the effect of Certainty's Reboot Expert ability by 400%.</li><li>Increases the effect of Certainty's Financing Rounds ability by 2400%.</li><li>Increases the effect of Certainty's Employee Evaluations and Employee Evaluations by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="bobby" style="background-image:url(images/portraits/bobby.png)">Bobby (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Bobby's Charge Into Battle ability by 100%. (Prestack)</li><li>Increases the effect of Bobby's Uni, the Unicorn ability by 2400%.</li><li>Increases the effect of Bobby's Now We're Talking ability by 6300%. (Prestack)</li></ol><br><strong>Event Reward Tiers:</strong><br><ol><li value="3">Barbarian Strength Feat<ul style="margin:0"><li>Increases the max stacks of Now We're Talking by 100%.</li></ul><li value="4">Marvelous DPS Pigment x2</ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="cazrin" style="background-image:url(images/portraits/cazrin.png)">Cazrin (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Cazrin's Unctuous Uggie ability by 200%.</li><li>Increases the effect of Cazrin's Library of Lore ability by 400%. (Prestack)</li><li>All Champions damage +2400%.</li><li>Increases the effect of Cazrin's Sunny Disposition ability by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br><ol><li value="3">Rapid Analysis Feat<ul style="margin:0"><li>Increases the effect of Cazrin's Library of Lore order of magnitude buff by 100%.</li></ul><li value="4">Heavy Lifter Feat<ul style="margin:0"><li>Increases the Strength score of Cazrin by 2.</li></ul></ol></span></span>
 </span>
 
 {:/nomarkdown}
@@ -5322,7 +5322,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="aila" style="background-image:url(images/portraits/aila.png)">Aila (9)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Aila's Storm Soul ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Aila's Aerois Synergy ability by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="spurt" style="background-image:url(images/portraits/spurt.png)">Spurt (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the cooldown on Spurt's Ultimate Attack by 60 seconds.</li><li>Increases the effect of Spurt's Centipede Net ability by 2400%.</li><li>Increases the effect of Spurt's Pack Tactics ability by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="briv" style="background-image:url(images/portraits/briv.png)">Briv (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Buffs Briv's Ultimate Attack Damage by 200%.</li><li>Unnatural Haste uses 20% less Sprint stacks whenever it procs (3.2% of stacks instead of 4% of stacks).</li><li>All Champions damage +2400%.</li><li>Increases the effect of Briv's Netherese Steel ability by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="alyndra" style="background-image:url(images/portraits/alyndra.png)">Alyndra (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Alyndra's Heroes of the Planes ability by 200%.</li><li>Increases the effect of Alyndra's Brows of Judgement ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Alyndra's Portent ability by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="alyndra" style="background-image:url(images/portraits/alyndra.png)">Alyndra (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Alyndra's Heroes of the Planes ability by 200%.</li><li>Increases the effect of Alyndra's Brows of Judgement ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Alyndra's Portent ability by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="tatyana" style="background-image:url(images/portraits/tatyana.png)">Tatyana (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Tatyana's Faithful Friend ability by 400%.</li><li>Increases the effect of Tatyana's Rising Fury ability by 2400%.</li><li>Increases the effect of Tatyana's Faithful Friend ability by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="miria" style="background-image:url(images/portraits/miria.png)">Miria (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Miria's Mage of High Sorcery ability by 400%.</li><li>Increases the effect of Miria's Soul Cage ability by 2400%.</li><li>Increases the effect of Miria's Methodical, Intellectual and Independent by 100%. (Prestack)</li></ol><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="darkurge" style="background-image:url(images/portraits/darkurge.png)">Dark Urge (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the damage of Dark Urge by 200%.</li><li>Increases the effect of Dark Urge's The Urge ability by 400%.</li><li>Increases the effect of Dark Urge's Embrace the Urge and Resist the Urge by 50%.</li><li>Increases the effect of Dark Urge's Ceremorphosis ability by 100%. (Prestack)</li></ol><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
@@ -5828,6 +5828,57 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">27 Nov 2025</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Wulfgar</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 1330**Master's Precision (Wulfgar)**Rage will fuel my warhammer!<br><br><span style="color:var(--Flavescent)">Additively increases the Crit Chance of Wulfgar by 20%.</span><code>buff_base_crit_chance_add,20</code></span>Master's Precision
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Additively increases the Crit Chance of Wulfgar by 20%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">03 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Cazrin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Forbidden Magic Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2290**Forbidden Magic (Cazrin)**Knowledge should be shared by everyone, not hoarded by dragons.<br><br><span style="color:var(--Flavescent)">Increases the effect of Cazrin's Self Taught and Ancestor's Shadow by 80%. (Prestack)</span><code>buff_upgrades,80,17678,17679</code></span>Forbidden Magic
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Cazrin's Self Taught and Ancestor's Shadow by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">03 Dec 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Bobby</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Master's Precision Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2227**Master's Precision (Bobby)**You wanna guess how many baddies I've bashed with this club?<br><br><span style="color:var(--Flavescent)">Additively increases the Crit Chance of Bobby by 20%.</span><code>buff_base_crit_chance_add,20</code></span>Master's Precision
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Additively increases the Crit Chance of Bobby by 20%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">03 Dec 2025</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -6168,6 +6219,61 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             </span>
             <span class="postSeasonTableDate">
                 <span>01 November 2025 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="g5a" onclick="exclusiveToggleContent(`g5`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Anniversary Giveaway 8th Anniversary Celebration Icon](images/general/anniversary.png)**Anniversary Giveaway** - 8th Anniversary Celebration
+            </span>
+        </span>
+        <span id="g5" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Tenacious Feat Icon](images/featicons/attributeboostx2.png)<span class="featTooltipContents">ID: 1774**Tenacious (Diana)**Don't count me out yet!<br><br><span style="color:var(--Flavescent)">Increases the Constitution score of Diana by 2.</span><code>increase_ability_score,con,2</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Tenacious</span>
+                        <span style="margin-left:15px">Diana</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Heroic Diana Skin Icon](images/exclusivities/skin_27614.png)<span class="featTooltipContents">ID: 602**Heroic Diana (Diana)**<img src="images/exclusivities/skin_27617.gif" alt="Heroic Diana Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Heroic Diana</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>03 September 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>10 September 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>10 December 2025 (Guess)</span>
             </span>
         </span>
     </span>
