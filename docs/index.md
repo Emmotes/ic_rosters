@@ -5188,7 +5188,7 @@ A list of events and what champions are in them - to the best of our knowledge.
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="egbert" style="background-image:url(images/portraits/egbert.png)">Egbert (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the health of Egbert by 200%.</li><li>Increases the effect of Egbert's Atone for the Past ability by 400%.</li><li>Increases the effect of Egbert's Smoky Bombs, Health Kick and Oxventure Capitalism by 2400%.</li><li>All Champions damage +6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="certainty" style="background-image:url(images/portraits/certainty.png)">Certainty (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Certainty's Secretarian's Advice ability by 200%.</li><li>Increases the effect of Certainty's Reboot Expert ability by 400%.</li><li>Increases the effect of Certainty's Financing Rounds ability by 2400%.</li><li>Increases the effect of Certainty's Employee Evaluations and Employee Evaluations by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="bobby" style="background-image:url(images/portraits/bobby.png)">Bobby (12)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Bobby's Charge Into Battle ability by 100%. (Prestack)</li><li>Increases the effect of Bobby's Uni, the Unicorn ability by 2400%.</li><li>Increases the effect of Bobby's Now We're Talking ability by 6300%. (Prestack)</li></ol><br><strong>Event Reward Tiers:</strong><br><ol><li value="3">Barbarian Strength Feat<ul style="margin:0"><li>Increases the max stacks of Now We're Talking by 100%.</li></ul><li value="4">Marvelous DPS Pigment x2</ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="cazrin" style="background-image:url(images/portraits/cazrin.png)">Cazrin (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Cazrin's Unctuous Uggie ability by 200%.</li><li>Increases the effect of Cazrin's Library of Lore ability by 400%. (Prestack)</li><li>All Champions damage +2400%.</li><li>Increases the effect of Cazrin's Sunny Disposition ability by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br><ol><li value="3">Rapid Analysis Feat<ul style="margin:0"><li>Increases the effect of Cazrin's Library of Lore order of magnitude buff by 100%.</li></ul><li value="4">Heavy Lifter Feat<ul style="margin:0"><li>Increases the Strength score of Cazrin by 2.</li></ul></ol></span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="cazrin" style="background-image:url(images/portraits/cazrin.png)">Cazrin (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Cazrin's Unctuous Uggie ability by 200%.</li><li>Increases the effect of Cazrin's Library of Lore ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Cazrin's Sunny Disposition ability by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br><ol><li value="3">Rapid Analysis Feat<ul style="margin:0"><li>Increases the effect of Cazrin's Library of Lore order of magnitude buff by 100%.</li></ul><li value="4">Heavy Lifter Feat<ul style="margin:0"><li>Increases the Strength score of Cazrin by 2.</li></ul></ol></span></span>
 </span>
 
 {:/nomarkdown}
@@ -5452,40 +5452,6 @@ These are feats that were previously released in premium packs and are now sitti
         </span>
         <span class="featTableDate">
             <span class="featTableInner">**Date**</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Ravengard</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Morale Boost Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1823**Morale Boost (Ravengard)**This is what our soldiers needed - hope.<br><br><span style="color:var(--Flavescent)">Increases the max stacks of Ravengard's Critical Teamwork by 20.</span><code>buff_upgrade_effect_stacks_max_add,20,15030</code></span>Morale Boost
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the max stacks of Ravengard's Critical Teamwork by 20.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">04 Sept 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Hank</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Foe Slayer Icon](images/featicons/favoredfoe.png)<span class="featTooltipContents">ID: 2202**Foe Slayer (Hank)**This bow isn't just for show, you know. Go ahead. Make my day.<br><br><span style="color:var(--Flavescent)">Hank's Dragon Slayer Specialization now stacks on any favored foe killed.</span><code>change_upgrade_data,17087,1</code></span>Foe Slayer
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Hank's Dragon Slayer Specialization now stacks on any favored foe killed.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">04 Sept 2025</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -8859,6 +8825,40 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
         </span>
         <span class="featTableDate">
             <span class="featTableInner">**Date**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Ravengard</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Morale Boost Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1823**Morale Boost (Ravengard)**This is what our soldiers needed - hope.<br><br><span style="color:var(--Flavescent)">Increases the max stacks of Ravengard's Critical Teamwork by 20.</span><code>buff_upgrade_effect_stacks_max_add,20,15030</code></span>Morale Boost
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the max stacks of Ravengard's Critical Teamwork by 20.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">04 Sept 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Hank</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Foe Slayer Icon](images/featicons/favoredfoe.png)<span class="featTooltipContents">ID: 2202**Foe Slayer (Hank)**This bow isn't just for show, you know. Go ahead. Make my day.<br><br><span style="color:var(--Flavescent)">Hank's Dragon Slayer Specialization now stacks on any favored foe killed.</span><code>change_upgrade_data,17087,1</code></span>Foe Slayer
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Hank's Dragon Slayer Specialization now stacks on any favored foe killed.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">04 Sept 2025</span>
         </span>
     </span>
     <span class="featTableRow">
