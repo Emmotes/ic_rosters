@@ -9269,40 +9269,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">12 Jun 2025</span>
         </span>
     </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Volo</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Volo's Expanded Expertise Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2098**Volo's Expanded Expertise (Volo)**I've had an epiphany! If I raise my voice, more willing ears might hear me!<br><br><span style="color:var(--Flavescent)">Increases the number of columns buffed by Volo's Guide to Combat by +1.</span><code>change_upgrade_data,16550,0</code></span>Volo's Expanded Expertise
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the number of columns buffed by Volo's Guide to Combat by +1.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">05 Jun 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Gale</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Dark Academia Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2090**Dark Academia (Gale)**If Mystra will not hear my pleas, I shall seek succor elsewhere.<br><br><span style="color:var(--Flavescent)">Increases the effect of Gale's An Experienced Sage ability by 80%.</span><code>buff_upgrade,80,14573</code></span>Dark Academia
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Gale's An Experienced Sage ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">05 Jun 2025</span>
-        </span>
-    </span>
 </span>
 <br />
 
