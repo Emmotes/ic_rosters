@@ -9303,57 +9303,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">19 Jun 2025</span>
         </span>
     </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Sheila</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Heart of Gold Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2113**Heart of Gold (Sheila)**Well, I lost us a chance to get home, but gained a friend!<br><br><span style="color:var(--Flavescent)">Increases the effect of Sheila's Kind Heart ability by 80%.</span><code>buff_upgrade,80,16538</code></span>Heart of Gold
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Sheila's Kind Heart ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">12 Jun 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Orkira</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2091**Immolation (Orkira)**Friends are like marshmallows, flammable and sweet.<br><br><span style="color:var(--Flavescent)">Orkira's attacks deal an additional 1 second of BUD damage every second for 5 seconds.</span><code>immolation,1,5</code></span>Immolation
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Orkira's attacks deal an additional 1 second of BUD damage every second for 5 seconds.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">12 Jun 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Volo</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Illithid Tadpole Icon](images/featicons/ceramorph.png)<span class="featTooltipContents">ID: 2159**Illithid Tadpole (Volo)**I've simply the worst headache today. Bah! I'm certain it's nothing serious.<br><br><span style="color:var(--Flavescent)">All Champions damage +25%. Additively increases Ceremorphosis Stacks by 1.</span><code>global_dps_multiplier_mult,25<br>add_global_ceremorphosis_stacks,1</code></span>Illithid Tadpole
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +25%. Additively increases Ceremorphosis Stacks by 1.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">12 Jun 2025</span>
-        </span>
-    </span>
 </span>
 <br />
 
