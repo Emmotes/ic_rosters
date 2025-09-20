@@ -9231,40 +9231,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">26 Jun 2025</span>
         </span>
     </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Sisaspia</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Evolved Contagion Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2092**Evolved Contagion (Sisaspia)**Thisss isn't even itsss final form.<br><br><span style="color:var(--Flavescent)">Increases the effect of Sisaspia's Symbiotic Infection ability by 80%.</span><code>buff_upgrade,80,13251</code></span>Evolved Contagion
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Sisaspia's Symbiotic Infection ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">19 Jun 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Nrakk</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Enlightened Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2093**Enlightened (Nrakk)**Mind, heart, body, and soul in perfect balance, as all things should be.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nrakk's Githzerai Focus and Githzerai Agility by 80%.</span><code>buff_upgrades,80,13005,13006</code></span>Enlightened
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Nrakk's Githzerai Focus and Githzerai Agility by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">19 Jun 2025</span>
-        </span>
-    </span>
 </span>
 <br />
 
