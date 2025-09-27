@@ -9197,40 +9197,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">02 Jul 2025</span>
         </span>
     </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Makos</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Immolation Icon](images/featicons/immolation.png)<span class="featTooltipContents">ID: 2108**Immolation (Makos)**I call upon the Flames of Phlegethos!<br><br><span style="color:var(--Flavescent)">Makos's attacks deal an additional 1 second of BUD damage every second for 5 seconds.</span><code>immolation,1,5</code></span>Immolation
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Makos's attacks deal an additional 1 second of BUD damage every second for 5 seconds.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">26 Jun 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Blooshi</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Nine Lives Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2107**Nine Lives (Blooshi)**It's actually way more, I think. I just stopped counting.<br><br><span style="color:var(--Flavescent)">Increases the effect of Blooshi's A Life Well Lived ability by 80%.</span><code>buff_upgrade,80,7520</code></span>Nine Lives
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Blooshi's A Life Well Lived ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">26 Jun 2025</span>
-        </span>
-    </span>
 </span>
 <br />
 
