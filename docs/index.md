@@ -9248,40 +9248,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">09 Jul 2025</span>
         </span>
     </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Grimm</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Gloves Off Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2154**Gloves Off (Grimm)**Let's settle this, one on one. No potions, blades only, neutral ground. ~Grimm<br><br><span style="color:var(--Flavescent)">Increases the damage of Grimm's ultimate attack by 100% and prevents roaming familiars from automatically activating Grimm's ultimate attack.</span><code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span>Gloves Off
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of Grimm's ultimate attack by 100% and prevents roaming familiars from automatically activating Grimm's ultimate attack.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">02 Jul 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Beadle</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Show Off Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2128**Show Off (Beadle)**Sneak attacks are a bit easier when you can teleport! ~Beadle<br><br><span style="color:var(--Flavescent)">Increases the damage of Beadle's ultimate attack by 100% and prevents roaming familiars from automatically activating Beadle's ultimate attack.</span><code>buff_ultimate,100<br>disallow_roaming_familiar_ult_trigger</code></span>Show Off
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of Beadle's ultimate attack by 100% and prevents roaming familiars from automatically activating Beadle's ultimate attack.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">02 Jul 2025</span>
-        </span>
-    </span>
 </span>
 <br />
 
