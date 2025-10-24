@@ -9408,23 +9408,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">30 Jul 2025</span>
         </span>
     </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Reya</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Zariel's Chosen Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2133**Zariel's Chosen (Reya)**I am her mercy. I am her wrath. I am all that she was, is, and will be.<br><br><span style="color:var(--Flavescent)">Increases the pre-stack bonus of Echoes of Zariel by 80%.</span><code>buff_upgrade,80,5457,0</code></span>Zariel's Chosen
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the pre-stack bonus of Echoes of Zariel by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">23 Jul 2025</span>
-        </span>
-    </span>
 </span>
 <br />
 
