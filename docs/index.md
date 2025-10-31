@@ -9408,40 +9408,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">07 Aug 2025</span>
         </span>
     </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Minthara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Unrelenting Strife Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1967**Unrelenting Strife (Minthara)**If somebody causes me sorrow, I remove their ability to do so again.<br><br><span style="color:var(--Flavescent)">Increases the maximum number of Soul Branding stacks by 2.</span><code>minthara_increase_max_stacks,2</code></span>Unrelenting Strife
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the maximum number of Soul Branding stacks by 2.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">30 Jul 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Halsin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Verdant Vow Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2135**Verdant Vow (Halsin)**I give my all to serve the Oak Father. No sacrifice is too great.<br><br><span style="color:var(--Flavescent)">Increases the pre-stack effect of Halsin's Archdruid of Emerald Grove ability by 80%. (Prestack)</span><code>buff_upgrade,80,15962,0</code></span>Verdant Vow
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the pre-stack effect of Halsin's Archdruid of Emerald Grove ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">30 Jul 2025</span>
-        </span>
-    </span>
 </span>
 <br />
 
