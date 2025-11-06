@@ -5524,57 +5524,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Baldric</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Resolute Icon](images/featicons/stunimmunity.png)<span class="featTooltipContents">ID: 2275**Resolute (Baldric)**That all you've got? Come try to impress me when you get a little older.<br><br><span style="color:var(--Flavescent)">Grants Baldric immunity to stun effects.</span><code>hero_stun_immunity</code></span>Resolute
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Grants Baldric immunity to stun effects.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">06 Nov 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Ishi</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Enemy Enumeration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1577**Enemy Enumeration (Ishi)**Five stabs, six stabs, seven stabs, MORE!<br><br><span style="color:var(--Flavescent)">Increases the effect of Ishi's Faster, Harder, Stronger ability by 80%.</span><code>buff_upgrade,80,16530</code></span>Enemy Enumeration
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Ishi's Faster, Harder, Stronger ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">06 Nov 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Lae'zel</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Queen's Blade Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2222**Queen's Blade (Lae'zel)**Vlaakith gha'g shkath zai!<br><br><span style="color:var(--Flavescent)">Increases the effect of Lae'zel's Ceremorphosis ability by 80%. (Prestack)</span><code>buff_upgrade,80,12114</code></span>Queen's Blade
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Lae'zel's Ceremorphosis ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">06 Nov 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Shandie</span>
         </span>
         <span class="featTableIcon4">
@@ -6358,6 +6307,51 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
             </span>
             <span class="postSeasonTableDate">
                 <span>31 January 2026 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="g7a" onclick="exclusiveToggleContent(`g7`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![EGS Giveaway Nixie's Champions of Renown Pack Icon](images/general/egs.png)**EGS Giveaway** - Nixie's Champions of Renown Pack
+            </span>
+        </span>
+        <span id="g7" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Sting the Scorpion Familiar Icon](images/exclusivities/fam_299.png)<span class="featTooltipContents">ID: 299**Sting the Scorpion**It's all fun and games till Sting skitters out!<br><img src="images/exclusivities/fam_299.gif" alt="Sting the Scorpion Model Gif" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Familiar**</span>
+                        <span style="margin-left:15px">Sting the Scorpion</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>06 November 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>13 November 2025</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>13 February 2026 (Guess)</span>
             </span>
         </span>
     </span>
@@ -9048,6 +9042,57 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
         </span>
         <span class="featTableDate">
             <span class="featTableInner">**Date**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Baldric</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Resolute Icon](images/featicons/stunimmunity.png)<span class="featTooltipContents">ID: 2275**Resolute (Baldric)**That all you've got? Come try to impress me when you get a little older.<br><br><span style="color:var(--Flavescent)">Grants Baldric immunity to stun effects.</span><code>hero_stun_immunity</code></span>Resolute
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Grants Baldric immunity to stun effects.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">06 Nov 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Ishi</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Enemy Enumeration Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1577**Enemy Enumeration (Ishi)**Five stabs, six stabs, seven stabs, MORE!<br><br><span style="color:var(--Flavescent)">Increases the effect of Ishi's Faster, Harder, Stronger ability by 80%.</span><code>buff_upgrade,80,16530</code></span>Enemy Enumeration
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Ishi's Faster, Harder, Stronger ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">06 Nov 2025</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Lae'zel</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Queen's Blade Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2222**Queen's Blade (Lae'zel)**Vlaakith gha'g shkath zai!<br><br><span style="color:var(--Flavescent)">Increases the effect of Lae'zel's Ceremorphosis ability by 80%. (Prestack)</span><code>buff_upgrade,80,12114</code></span>Queen's Blade
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Lae'zel's Ceremorphosis ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">06 Nov 2025</span>
         </span>
     </span>
     <span class="featTableRow">
