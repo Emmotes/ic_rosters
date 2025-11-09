@@ -3604,72 +3604,72 @@ A list of all champions and their patron availability.
         <input type="checkbox" disabled>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="106,42,79,317,317,0,317,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="107,71,41,317,317,317,314,316">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="107,71,41,317,317,317,314,316">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="107,71,41,317,317,317,314,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="107,71,41,317,317,317,314,0">
         114
     </span>
-    <span class="patronRosterItem" data-sort="107,71,41,317,317,317,314,316">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="107,71,41,317,317,317,314,316">
+    <span class="patronRosterItem" data-sort="107,71,41,317,317,317,314,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="107,71,41,317,317,317,314,0">
         Kent
     </span>
-    <span class="patronRosterItem" data-sort="107,71,41,317,317,317,314,316">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="107,71,41,317,317,317,314,316">
+    <span class="patronRosterItem" data-sort="107,71,41,317,317,317,314,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="107,71,41,317,317,317,314,0">
         4
     </span>
-    <span class="patronRosterItem" data-sort="107,71,41,317,317,317,314,316">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="107,71,41,317,317,317,314,316">
+    <span class="patronRosterItem" data-sort="107,71,41,317,317,317,314,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="107,71,41,317,317,317,314,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="107,71,41,317,317,317,314,316">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="107,71,41,317,317,317,314,316">
+    <span class="patronRosterItem" data-sort="107,71,41,317,317,317,314,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="107,71,41,317,317,317,314,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="107,71,41,317,317,317,314,316">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="107,71,41,317,317,317,314,316">
+    <span class="patronRosterItem" data-sort="107,71,41,317,317,317,314,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="107,71,41,317,317,317,314,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="107,71,41,317,317,317,314,316">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="107,71,41,317,317,317,314,316">
+    <span class="patronRosterItem" data-sort="107,71,41,317,317,317,314,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="107,71,41,317,317,317,314,0">
         <input type="checkbox" disabled checked><label class="cblabel">Ability w/ Fts</label>
     </span>
-    <span class="patronRosterItem" data-sort="107,71,41,317,317,317,314,316">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="107,71,41,317,317,317,314,316">
-        <input type="checkbox" disabled checked><label class="cblabel">Ability</label>
+    <span class="patronRosterItem" data-sort="107,71,41,317,317,317,314,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="107,71,41,317,317,317,314,0">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="107,71,41,317,317,317,314,316">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="108,139,118,317,317,317,315,199">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="108,139,118,317,317,317,315,199">
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="107,71,41,317,317,317,314,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="108,139,118,317,317,317,315,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="108,139,118,317,317,317,315,0">
         115
     </span>
-    <span class="patronRosterItem" data-sort="108,139,118,317,317,317,315,199">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="108,139,118,317,317,317,315,199">
+    <span class="patronRosterItem" data-sort="108,139,118,317,317,317,315,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="108,139,118,317,317,317,315,0">
         Virgil
     </span>
-    <span class="patronRosterItem" data-sort="108,139,118,317,317,317,315,199">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="108,139,118,317,317,317,315,199">
+    <span class="patronRosterItem" data-sort="108,139,118,317,317,317,315,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="108,139,118,317,317,317,315,0">
         10
     </span>
-    <span class="patronRosterItem" data-sort="108,139,118,317,317,317,315,199">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="108,139,118,317,317,317,315,199">
+    <span class="patronRosterItem" data-sort="108,139,118,317,317,317,315,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="108,139,118,317,317,317,315,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="108,139,118,317,317,317,315,199">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="108,139,118,317,317,317,315,199">
+    <span class="patronRosterItem" data-sort="108,139,118,317,317,317,315,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="108,139,118,317,317,317,315,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="108,139,118,317,317,317,315,199">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="108,139,118,317,317,317,315,199">
+    <span class="patronRosterItem" data-sort="108,139,118,317,317,317,315,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="108,139,118,317,317,317,315,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="108,139,118,317,317,317,315,199">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="108,139,118,317,317,317,315,199">
+    <span class="patronRosterItem" data-sort="108,139,118,317,317,317,315,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="108,139,118,317,317,317,315,0">
         <input type="checkbox" disabled checked><label class="cblabel">w/ Feats</label>
     </span>
-    <span class="patronRosterItem" data-sort="108,139,118,317,317,317,315,199">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="108,139,118,317,317,317,315,199">
-        <input type="checkbox" disabled checked><label class="cblabel">Until 2025-11-08</label>
+    <span class="patronRosterItem" data-sort="108,139,118,317,317,317,315,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="108,139,118,317,317,317,315,0">
+        <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="108,139,118,317,317,317,315,199">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="108,139,118,317,317,317,315,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="109,146,92,317,317,0,315,201">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="109,146,92,317,317,0,315,201">
         116
@@ -9450,74 +9450,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
         </span>
         <span class="featTableDate">
             <span class="featTableInner">14 Aug 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Vlithryn</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Making Waves Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2167**Making Waves (Vlithryn)**A tidal wave? It's a bit much.<br><br><span style="color:var(--Flavescent)">Increases the effect of Vlithryn's Pantheon of Blessings ability by 80%. (Prestack)</span><code>buff_upgrade,80,16897,0</code></span>Making Waves
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Vlithryn's Pantheon of Blessings ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">07 Aug 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Nixie</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Burning Beauty Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2139**Burning Beauty (Nixie)**Can't spell charm without harm!<br><br><span style="color:var(--Flavescent)">Increases the effect of Nixie's Infernal Impact, Flawed Force and Anarchy Amplified by 80%.</span><code>buff_upgrades,80,10890,10891,10892</code></span>Burning Beauty
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Nixie's Infernal Impact, Flawed Force and Anarchy Amplified by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">07 Aug 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Jaheira</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Sylvan Calling Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2136**Sylvan Calling (Jaheira)**I'm getting in touch with my roots.<br><br><span style="color:var(--Flavescent)">Increase the effect of Jaheira's Class Act ability by 80%.</span><code>buff_upgrades,80,9714,9715,9716,9717</code></span>Sylvan Calling
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increase the effect of Jaheira's Class Act ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">07 Aug 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Evandra</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Regimented Fury Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2137**Regimented Fury (Evandra)**Classy, sassy, and about to kick your --<br><br><span style="color:var(--Flavescent)">Increases the effect of Evandra's Powerful Allies, Fighting Force and Carnival Crew by 80%.</span><code>buff_upgrades,80,11299,11300,11301</code></span>Regimented Fury
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Evandra's Powerful Allies, Fighting Force and Carnival Crew by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">07 Aug 2025</span>
         </span>
     </span>
 </span>
