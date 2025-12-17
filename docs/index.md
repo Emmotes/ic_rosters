@@ -5964,6 +5964,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">10 Mar 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Regis</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2358**Standard Affair (Regis)**I could teach you a thing or two about underestimating common folk.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span><code>effect_def,2527</code></span>Standard Affair
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each unique species in the formation, stacking additively.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">17 Mar 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Yorven</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Too Late Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2360**Too Late (Yorven)**The longer I fight, the angrier I get.<br><br><span style="color:var(--Flavescent)">Increases the effect of Yorven's Down The Rabbit Hole ability by 80%.</span><code>buff_upgrade,80,17066</code></span>Too Late
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Yorven's Down The Rabbit Hole ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">17 Mar 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -8877,7 +8911,7 @@ This is the list of recurring events that have had their exclusivity period end.
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
-                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Venom Harvester Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2155**Venom Harvester (Spurt)**Spurt make discovery! Wyvern tail VERY stingy!<br><br><span style="color:var(--Flavescent)">Increases the effect of Spurt's Wa-spiration: Stingy ability by 80%.</span><code>buff_spurt_waspiration_effect,80,0</code></span></span>
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Venom Harvester Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2155**Venom Harvester (Spurt)**I made a discovery! Wyvern tail VERY stingy!<br><br><span style="color:var(--Flavescent)">Increases the effect of Spurt's Wa-spiration: Stingy ability by 80%.</span><code>buff_spurt_waspiration_effect,80,0</code></span></span>
                     </span>
                     <span class="emergenceShopTableTextColumn">
                         <span style="margin-left:5px">**Feat**</span>
