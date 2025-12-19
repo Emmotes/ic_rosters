@@ -9440,57 +9440,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">25 Sept 2025</span>
         </span>
     </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Antrius</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Sky Shanty Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2130**Sky Shanty (Antrius)**Come on, sing! It will LIFT your spirits! Get it? Gods, I'm good.<br><br><span style="color:var(--Flavescent)">Increases the Damage Bonus of Antrius' Inspiring Song ability by 80%.</span><code>buff_upgrade,80,10794,0</code></span>Sky Shanty
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the Damage Bonus of Antrius' Inspiring Song ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">18 Sept 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">DM</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Young at Heart Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2134**Young at Heart (DM)**You are only as old as you feel, adventurers!<br><br><span style="color:var(--Flavescent)">Increases the age limit of Dungeon Master's Patience Young Ones by 10 years.</span><code>buff_upgrade_add_flat_amount,10,7844,1</code></span>Young at Heart
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the age limit of Dungeon Master's Patience Young Ones by 10 years.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">18 Sept 2025</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Nova</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Applied Mathematics Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2049**Applied Mathematics (Nova)**Now that it's confirmed, let's put my theory to the test.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nova's Curiosity ability by 80%.</span><code>buff_upgrade,80,8747</code></span>Applied Mathematics
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Nova's Curiosity ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">18 Sept 2025</span>
-        </span>
-    </span>
 </span>
 <br />
 
