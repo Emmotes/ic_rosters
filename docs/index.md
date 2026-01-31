@@ -9527,23 +9527,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">06 Nov 2025</span>
         </span>
     </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Eric</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Powerful Shove Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2035**Powerful Shove (Eric)**Let's keep a safe distance. Way over there sounds perfect.<br><br><span style="color:var(--Flavescent)">Increases the knockback effect of Eric's Keep Away ability by 80%.</span><code>buff_upgrade,80,16132,1</code></span>Powerful Shove
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the knockback effect of Eric's Keep Away ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">30 Oct 2025</span>
-        </span>
-    </span>
 </span>
 <br />
 
