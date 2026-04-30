@@ -6187,6 +6187,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">22 Jul 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Bobby</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Playground Boss Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2561**Playground Boss (Bobby)**The best games are the ones where the rules are different every time you play!<br><br><span style="color:var(--Flavescent)">Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed Specializations by 80%. (Prestack)</span><code>buff_upgrade,80,15449,0<br>buff_upgrade,80,15450,0<br>buff_upgrade,80,15451,0</code></span>Playground Boss
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed Specializations by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Farideh</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Magius Infernus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2562**Magius Infernus (Farideh)**Cast enough fireballs, and most problems tend to go away.<br><br><span style="color:var(--Flavescent)">Increases the effect of Farideh's Specializations by 80%.</span><code>buff_upgrades,80,17839,17840,17841</code></span>Magius Infernus
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Farideh's Specializations by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Jul 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -6427,10 +6461,135 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 <span>23 December 2025</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>01 May 2026</span>
+                <span>08 May 2026</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>01 August 2026 (Guess)</span>
+                <span>08 August 2026 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="e15a" onclick="exclusiveToggleContent(`e15`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Emergence 15 Icon](images/general/e15.png)**Emergence 15** - Draconians
+            </span>
+        </span>
+        <span id="e15" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Extra Payout Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2556**Extra Payout (Binwin)**Talk to the other guy. I don't deal with that.<br><br><span style="color:var(--Flavescent)">Increases the effect of Binwin's specialization abilities by 80%.</span><code>buff_upgrades,80,18464,18465,18463</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Extra Payout</span>
+                        <span style="margin-left:15px">Binwin</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Misdirection Feat Icon](images/featicons/misdirection.png)<span class="featTooltipContents">ID: 2499**Misdirection (Donaar)**Hey! Look over there! A distraction!<br><br><span style="color:var(--Flavescent)">Enemies that attempt to attack this Champion will instead attack a different Champion, if possible.</span><code>global_dps_multiplier_mult,100<br>reverse_taunt</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Misdirection</span>
+                        <span style="margin-left:15px">Donaar</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Volatile Magic Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2530**Volatile Magic (Lucius)**Oh, dear! That was quite a strong reaction. Let's try that again.<br><br><span style="color:var(--Flavescent)">Increases the effect of Lucius's Elemental Adept ability by 80%.</span><code>buff_upgrade,80,19250</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Volatile Magic</span>
+                        <span style="margin-left:15px">Lucius</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Pierce the Heavens Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2465**Pierce the Heavens (Kyre)**I've practiced this spiral thrust maneuver ten thousand times.<br><br><span style="color:var(--Flavescent)">Increases the base chance of Stunning Strike up to 200%.</span><code>change_upgrade_data,18668,0<br>change_upgrade_data,18668,2</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Pierce the Heavens</span>
+                        <span style="margin-left:15px">Kyre</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Flaming Darts Feat Icon](images/featicons/twomagicmissile.png)<span class="featTooltipContents">ID: 2513**Flaming Darts (Raistlin)**Kalith karan, tobaniskar! ~Raistlin<br><br><span style="color:var(--Flavescent)">Raistlin fires two additional magic missiles with his base attack.</span><code>do_nothing</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Flaming Darts</span>
+                        <span style="margin-left:15px">Raistlin</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Dragon Army Infiltrator Eric Skin Icon](images/exclusivities/skin_29151.png)<span class="featTooltipContents">ID: 684**Dragon Army Infiltrator Eric (Eric)**<img src="images/exclusivities/skin_29153.webp" alt="Dragon Army Infiltrator Eric Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Dragon Army Infiltrator Eric</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Bruenor Slot 5](images/exclusivities/ge_261.png)<span class="itemTooltipContents">ID: 20**Shield of Foaming Ale (Bruenor)**A magical shield with secret and mysterious powers.<br><br><span style="color:var(--Flavescent)">Buffs Bruenor's Ultimate Attack Damage by 275%.</span><code>buff_ultimate,275</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Shield of Foaming Ale</span>
+                        <span style="margin-left:15px">Bruenor (Slot 5)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Xerophon Slot 2](images/exclusivities/ge_12089.png)<span class="itemTooltipContents">ID: 2504**Reminder of Freedom (Xerophon)**My future lays before me -- a new path, a new me. I am no one's tool and no one's captive.<br><br><span style="color:var(--Flavescent)">All Champions damage +230%.</span><code>global_dps_multiplier_mult,230</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Reminder of Freedom</span>
+                        <span style="margin-left:15px">Xerophon (Slot 2)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Tasslehoff Slot 2](images/exclusivities/ge_28695.png)<span class="itemTooltipContents">ID: 4161**Rabbitslayer (Tasslehoff)**And Caramon told me it wouldn't be of any use unless I met a vicious rabbit!<br><br><span style="color:var(--Flavescent)">Increases the effect of Tasslehoff's second set of Specializations by 275%.</span><code>buff_upgrades,275,19237,19238,19239</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Rabbitslayer</span>
+                        <span style="margin-left:15px">Tasslehoff (Slot 2)</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
+                <span>29 April 2026</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>29 July 2026</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>29 October 2026 (Guess)</span>
             </span>
         </span>
     </span>
@@ -9721,40 +9880,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
         </span>
         <span class="featTableDate">
             <span class="featTableInner">05 Feb 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Halsin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Prodigal Leader Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2302**Prodigal Leader (Halsin)**Even those who defile nature inevitably return to it, in the end.<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span>Prodigal Leader
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">All Champions damage +50%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">29 Jan 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Dark Urge</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Blood Moon Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2303**Blood Moon (Dark Urge)**Time for the final act.<br><br><span style="color:var(--Flavescent)">Increases the effect of Dark Urge's The Urge ability by 80%.</span><code>buff_upgrade,80,14379</code></span>Blood Moon
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Dark Urge's The Urge ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">29 Jan 2026</span>
         </span>
     </span>
 </span>
