@@ -6206,6 +6206,57 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">13 Aug 2026</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Vlithryn</span>
+        </span>
+        <span class="featTableIcon4">
+            ![External Screaming Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2169**External Screaming (Vlithryn)**You're literally dying! Of course I can spare the spell slot.<br><br><span style="color:var(--Flavescent)">Increases the effect of Vlithryn's Revivify ability by 80%. (Prestack)</span><code>buff_upgrade,80,16898,0</code></span>External Screaming
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Vlithryn's Revivify ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">20 Aug 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Nixie</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Embiggen Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2586**Embiggen (Nixie)**Look at me! I'm huge! I don't need a fireball anymore! I can just step on them!<br><br><span style="color:var(--Flavescent)">Increases the effect of Nixie's Gigantic Growth ability by 80%.</span><code>buff_upgrade,80,10889</code></span>Embiggen
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Nixie's Gigantic Growth ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">20 Aug 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Mehen</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Guaranteed Grump Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2585**Guaranteed Grump (Mehen)**I'm certain of few things in this life. Disappointment is one of them.<br><br><span style="color:var(--Flavescent)">Increases the effect of Mehen's Grumpy ability by 80%. (Prestack)</span><code>buff_upgrade,80,16146,0</code></span>Guaranteed Grump
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Mehen's Grumpy ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">20 Aug 2026</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
@@ -9831,57 +9882,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
         </span>
         <span class="featTableDate">
             <span class="featTableInner">26 Feb 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Jang Sao</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Eternity and Infinity Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2355**Eternity and Infinity (Jang Sao)**Nothing can be bolder. Nothing can be vaster.<br><br><span style="color:var(--Flavescent)">Increases the effect of Jang Sao's Wisdom of the Ages and Speed of Shooting Stars by 80%. (Prestack)</span><code>buff_upgrades,80,13261,13262</code></span>Eternity and Infinity
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Jang Sao's Wisdom of the Ages and Speed of Shooting Stars by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">19 Feb 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Virgil</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2356**Standard Affair (Virgil)**We're all in this together! ...No, Kent, I'm not singing.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span>Standard Affair
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">19 Feb 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Gromma</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Rite of Passage Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 1757**Rite of Passage (Gromma)**Look how far you've come - you're nearly as old as I am!<br><br><span style="color:var(--Flavescent)">Increases the base value of Grandmotherly Love's stacking bonus by 80%.</span><code>change_upgrade_data,14874,1</code></span>Rite of Passage
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the base value of Grandmotherly Love's stacking bonus by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">19 Feb 2026</span>
         </span>
     </span>
 </span>
