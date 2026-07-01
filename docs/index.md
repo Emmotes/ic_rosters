@@ -5512,16 +5512,16 @@ You can find a champion's Event Buffs and Event Rewards in their tooltips. Pleas
 <span class="eventRosterHolder">
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="deekin" style="background-image:url(images/portraits/deekin.png)">Deekin (1)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Deekin's Confidence in The Boss ability by 200%.</li><li>Increases the effect of Deekin's Specializations by 400%.</li><li>Increases the effect of Deekin's Current Heroic Saga ability by 2400%.</li><li>Increases the base effect of Deekin's Story of Doom ability by 100%. (Prestack)</li></ol><br><strong>Event Reward Tiers:</strong><br><ol><li value="2">DOOM DOOM DOOM Feat<ul style="margin:0"><li>Changes Deekin's Story of Doom ability to target all Champions.</li></ul><li value="3">Doom Intensifies Feat<ul style="margin:0"><li>Increases Deekin's maximum number of Doom stacks by 5.</li></ul><li value="4">Marvelous Support Pigment x3</ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="xander" style="background-image:url(images/portraits/xander.png)">Xander (5)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Xander's Lucky Shot ability by 200%.</li><li>All Champions damage +400%.</li><li>Increases the effect of Xander's Streetwise ability by 2400%.</li><li>All Champions damage +6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="walnut" style="background-image:url(images/portraits/walnut.png)">Walnut (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Walnut's Wolfnut ability by 200%.</li><li>Increases the effect of Walnut's Job's Done ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Walnut's Documancer ability by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="walnut" style="background-image:url(images/portraits/walnut.png)">Walnut (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Walnut's Wolfnut ability by 200%.</li><li>Increases the effect of Walnut's Job's Done ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Walnut's Documancer ability by 100%. (Prestack)</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="freely" style="background-image:url(images/portraits/freely.png)">Freely (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases Luck of Yondalla Requisition lucky break 200% for each application.</li><li>Increases the effect of Freely's Unlucky For Them ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Freely's Adventurous Tale ability by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="sgtknox" style="background-image:url(images/portraits/sgtknox.png)">Sgt. Knox (6)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Sgt. Knox's Master Defender ability by 200%.</li><li>Increases the effect of Sgt. Knox's Squad Leader ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Sgt. Knox's Rallying Cry ability by 100%. (Prestack)</li></ol><br><strong>Event Reward Tiers:</strong><br><ol><li value="3">Siege Breaker Feat<ul style="margin:0"><li>Increases the effect of Sgt. Knox's Master Defender ability by 80%.</li></ul><li value="4">Marvelous Tanking Pigment x3</ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="nahara" style="background-image:url(images/portraits/nahara.png)">Nahara (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the damage of Nahara by 200%.</li><li>Increases the effect of Nahara's Who Am I? ability by 400%.</li><li>Increases the effect of Nahara's To Amuse or Avenge ability by 2400%.</li><li>Increases the damage of Nahara by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="nahara" style="background-image:url(images/portraits/nahara.png)">Nahara (3)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the damage of Nahara by 200%.</li><li>Increases the effect of Nahara's Who Am I? ability by 400%.</li><li>Increases the damage of Nahara's To Amuse or Avenge ability by 2400%.</li><li>Increases the damage of Nahara by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="strongheart" style="background-image:url(images/portraits/strongheart.png)">Strongheart (11)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the Crit Chance of Strongheart by 100%.</li><li>Increases the effect of Strongheart's Courage to Stand ability by 400%.</li><li>Increases the effect of Strongheart's Justice Needs Champions ability by 2400%.</li><li>Increases the effect of Strongheart's Righteous Might ability by 6300%. (Prestack)</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="vinursa" style="background-image:url(images/portraits/vinursa.png)">Vin Ursa (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Vin Ursa's Bounty Hunter ability by 200%.</li><li>Increases the effect of Vin Ursa's Vicious Vantage ability by 400%. (Prestack)</li><li>Increases the effect of Vin Ursa's Front Deck and Rear Deck by 2400%.</li><li>Increases the effect of Vin Ursa's Friends in Low Places, Friends in Meh Places and Friends in High Places by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br>Nothing.</span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="aeon" style="background-image:url(images/portraits/aeon.png)">Aeon (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Aeon's Uncover Weakness ability by 200%. (Prestack)</li><li>Increases the effect of Aeon's Inner Circle ability by 400%.</li><li>All Champions damage +2400%.</li><li>Increases the effect of Aeon's Challenge Accepted ability by 150%.</li></ol><br><strong>Event Reward Tiers:</strong><br><ol><li value="3">A Little Bird Said... Feat<ul style="margin:0"><li>Increases the effect of Aeon's Uncover Weakness ability by 80%. (Prestack)</li></ul><li value="4">Marvelous Support Pigment x1</ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="umberto" style="background-image:url(images/portraits/umberto.png)">Umberto (7)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Umberto's Detective's Entourage ability by 400%.</li><li>Increases the effect of Umberto's Ongoing Investigation ability by 2400%.</li><li>Increases the effect of Umberto's Law's Alliance, Family of Orphans and Call of the Wardens by 100%. (Prestack)</li></ol><br><strong>Event Reward Tiers:</strong><br><ol><li value="3">Scholar Feat<ul style="margin:0"><li>Increases the Intelligence score of Umberto by 2.</li></ul><li value="4">Mounting Evidence Feat<ul style="margin:0"><li>Adds 40 Clue Stacks to Umberto's Ongoing Investigation.</li></ul></ol></span></span>
 <span class="eventRosterChampion eventBuffsTooltipHolder" id="tess" style="background-image:url(images/portraits/tess.png)">Tess (8)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>All Champions damage +200%.</li><li>Increases the effect of Tess's A Plan For Everything ability by 400%.</li><li>Increases the effect of Tess's Unleash Uggie ability by 2400%.</li><li>Increases the effect of Tess's Lead The Way ability by 6300%.</li></ol><br><strong>Event Reward Tiers:</strong><br><ol><li value="3">Great Things Ahead Feat<ul style="margin:0"><li>Changes Lead The Way to affect Champions in columns in front of her instead of behind.</li></ul><li value="4">Tenacious Feat<ul style="margin:0"><li>Increases the Constitution score of Tess by 2.</li></ul></ol></span></span>
-<span class="eventRosterChampion eventBuffsTooltipHolder" id="vanrichten" style="background-image:url(images/portraits/vanrichten.png)">Van Richten (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br>Unknown.<br><br><strong>Event Reward Tiers:</strong><br>Unknown.</span></span>
+<span class="eventRosterChampion eventBuffsTooltipHolder" id="vanrichten" style="background-image:url(images/portraits/vanrichten.png)">Van Richten (10)<span class="eventBuffsTooltipContents"><strong>Event Buff Tiers:</strong><br><ol><li>Increases the effect of Van Richten's Watched by Erasmus ability by 200%.</li><li>Increases the effect of Van Richten's Slayer Training ability by 400%.</li><li>Increases the effect of Van Richten's Triumph ability by 2400%.</li><li>Increases the effect of Van Richten's first set of Specializations by 100%. (Prestack)</li></ol><br><strong>Event Reward Tiers:</strong><br><ol><li value="2">Athlete Feat<ul style="margin:0"><li>Increases the Strength score of Van Richten by 1.</li></ul><li value="3">Hell's Song Feat<ul style="margin:0"><li>Add Fiend as a favored foe for Van Richten.</li></ul><li value="4">Marvelous Support Pigment x3</ol></span></span>
 </span>
 
 {:/nomarkdown}
@@ -5796,40 +5796,6 @@ These are feats that were previously released in premium packs and are now sitti
         </span>
         <span class="featTableDate">
             <span class="featTableInner">**Date**</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Tasslehoff</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Acquisitive Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2546**Acquisitive (Tasslehoff)**I'm not going to take it! I just mentioned it, as an item of interest. ~Tas<br><br><span style="color:var(--Flavescent)">Increases the effect of Tasslehoff's Borrower ability by 80%.</span><code>buff_upgrade,80,19244</code></span>Acquisitive
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Tasslehoff's Borrower ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Briv</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Baatorian Bones Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2354**Baatorian Bones (Briv)**Mine durability rivaleth even Baatorian green steel!<br><br><span style="color:var(--Flavescent)">Every third stack of Steelbones earned by Briv adds an additional stack.</span><code>additional_steelbones_stack_every,3</code></span>Baatorian Bones
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Every third stack of Steelbones earned by Briv adds an additional stack.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jul 2026</span>
         </span>
     </span>
     <span class="featTableRow">
@@ -6221,6 +6187,57 @@ These are feats that were previously released in premium packs and are now sitti
         </span>
         <span class="featTableDate">
             <span class="featTableInner">17 Sept 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Nahara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Everlasting Bonds Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2587**Everlasting Bonds (Nahara)**Stand with me now, as I stand with all of you.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nahara's Strong Society ability by 20% for each Black Dice Society affiliation member in the formation, stacking additively.</span><code>effect_def,2795</code></span>Everlasting Bonds
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Nahara's Strong Society ability by 20% for each Black Dice Society affiliation member in the formation, stacking additively.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Van Richten</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vampire Slayer Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2692**Vampire Slayer (Van Richten)**You do not frighten me, monster. On the contrary, you should be afraid.<br><br><span style="color:var(--Flavescent)">Increases the effect of Van Richten's first set of Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,19700,19701,19702</code></span>Vampire Slayer
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Van Richten's first set of Specializations by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Tess</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tactical Adaptation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2583**Tactical Adaptation (Tess)**I've got a plan for that.<br><br><span style="color:var(--Flavescent)">Increases the effect of all of Tess's Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,17321,17322,17323</code></span>Tactical Adaptation
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of all of Tess's Specializations by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Oct 2026</span>
         </span>
     </span>
 </span>
@@ -9416,6 +9433,40 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
         </span>
         <span class="featTableDate">
             <span class="featTableInner">**Date**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Tasslehoff</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Acquisitive Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2546**Acquisitive (Tasslehoff)**I'm not going to take it! I just mentioned it, as an item of interest. ~Tas<br><br><span style="color:var(--Flavescent)">Increases the effect of Tasslehoff's Borrower ability by 80%.</span><code>buff_upgrade,80,19244</code></span>Acquisitive
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Tasslehoff's Borrower ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Briv</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Baatorian Bones Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2354**Baatorian Bones (Briv)**Mine durability rivaleth even Baatorian green steel!<br><br><span style="color:var(--Flavescent)">Every third stack of Steelbones earned by Briv adds an additional stack.</span><code>additional_steelbones_stack_every,3</code></span>Baatorian Bones
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Every third stack of Steelbones earned by Briv adds an additional stack.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Jul 2026</span>
         </span>
     </span>
     <span class="featTableRow">
