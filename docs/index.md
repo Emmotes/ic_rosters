@@ -5800,57 +5800,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Grimm</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Buffed Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2347**Buffed Up (Grimm)**It'll all be over in just one swing. ~Grimm<br><br><span style="color:var(--Flavescent)">Increases the effect of Grimm's Get Buff ability by 80%. (Prestack)</span><code>buff_upgrade,80,16735</code></span>Buffed Up
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Grimm's Get Buff ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">15 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Valentine</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2581**Standard Affair (Valentine)**Yes, yes, gather around.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span>Standard Affair
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">15 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Spurt</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Corpse Stench Icon](images/featicons/spurtult.png)<span class="featTooltipContents">ID: 2559**Corpse Stench (Spurt)**Bath? What's that?<br><br><span style="color:var(--Flavescent)">Spurt always counts as Undead, even when not in Spirit form.</span><code>add_hero_tags,0,undead<br>buff_upgrade_per_any_tagged_crusader,20,10678,undead</code></span>Corpse Stench
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Spurt always counts as Undead, even when not in Spirit form.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">15 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Beadle</span>
         </span>
         <span class="featTableIcon4">
@@ -6204,6 +6153,40 @@ These are feats that were previously released in premium packs and are now sitti
         </span>
         <span class="featTableDate">
             <span class="featTableInner">08 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Vin Ursa</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Guided Strike Icon](images/featicons/critchanceincrease.png)<span class="featTooltipContents">ID: 2697**Guided Strike (Vin Ursa)**Kalix! Get me an opening!<br><br><span style="color:var(--Flavescent)">Vin Ursa increases her crit chance by 5% for each adjacent Champion.</span><code>effect_def,2794<br>DevNote: blah blah blah</code></span>Guided Strike
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Vin Ursa increases her crit chance by 5% for each adjacent Champion.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">15 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Deekin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Non-Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2696**Non-Standard Affair (Deekin)**Deekin find comfort in others like Deekin.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2608</code></span>Non-Standard Affair
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each non-Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">15 Oct 2026</span>
         </span>
     </span>
 </span>
@@ -9403,6 +9386,57 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Grimm</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Buffed Up Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2347**Buffed Up (Grimm)**It'll all be over in just one swing. ~Grimm<br><br><span style="color:var(--Flavescent)">Increases the effect of Grimm's Get Buff ability by 80%. (Prestack)</span><code>buff_upgrade,80,16735</code></span>Buffed Up
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Grimm's Get Buff ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">15 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Valentine</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Standard Affair Icon](images/featicons/dpsallchampions.png)<span class="featTooltipContents">ID: 2581**Standard Affair (Valentine)**Yes, yes, gather around.<br><br><span style="color:var(--Flavescent)">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span><code>effect_def,2527</code></span>Standard Affair
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the damage of all Champions by 20% for each Standard species in the formation, stacking additively. Standard species are Aasimar, Dragonborn, Dwarf, Elf, Gnome, Goliath, Halfling, Human, Orc, Tiefling, Half-Orc, and Half-Elf.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">15 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Spurt</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Corpse Stench Icon](images/featicons/spurtult.png)<span class="featTooltipContents">ID: 2559**Corpse Stench (Spurt)**Bath? What's that?<br><br><span style="color:var(--Flavescent)">Spurt always counts as Undead, even when not in Spirit form.</span><code>add_hero_tags,0,undead<br>buff_upgrade_per_any_tagged_crusader,20,10678,undead</code></span>Corpse Stench
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Spurt always counts as Undead, even when not in Spirit form.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">15 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">Lucius</span>
         </span>
         <span class="featTableIcon4">
@@ -9909,57 +9943,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
         </span>
         <span class="featTableDate">
             <span class="featTableInner">21 Apr 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Binwin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Catchphrase Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2409**Catchphrase (Binwin)**You gotta bin it to win it!<br><br><span style="color:var(--Flavescent)">Increases the effect of Binwin's Extra Damage ability by 80%. (Prestack)</span><code>buff_upgrade,80,18460,0</code></span>Catchphrase
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Binwin's Extra Damage ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">14 Apr 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Wyll</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Psychic Link Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2445**Psychic Link (Wyll)**I feel its power awakening within, and I sense Mizora's growing terror.<br><br><span style="color:var(--Flavescent)">Increases the effect of Wyll's Ceremorphosis ability by 80%. (Prestack)</span><code>buff_upgrade,80,13430</code></span>Psychic Link
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Wyll's Ceremorphosis ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">14 Apr 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Eric</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Mercurial Demeanor Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2444**Mercurial Demeanor (Eric)**Let's hear about this quest first, then I'll decide how I feel about it.<br><br><span style="color:var(--Flavescent)">Increases the base effect of Eric's Trait specializations by 80%.</span><code>buff_upgrades,80,16134,16135,16136</code></span>Mercurial Demeanor
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the base effect of Eric's Trait specializations by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">14 Apr 2026</span>
         </span>
     </span>
 </span>
