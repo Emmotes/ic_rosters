@@ -205,39 +205,39 @@ A list of all champions and their patron availability.
         <input type="checkbox" disabled>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="3,66,43,333,0,333,333,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="4,24,56,333,333,0,333,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="4,24,56,333,333,0,333,0">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="4,24,56,333,333,331,333,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="4,24,56,333,333,331,333,0">
         5
     </span>
-    <span class="patronRosterItem" data-sort="4,24,56,333,333,0,333,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="4,24,56,333,333,0,333,0">
+    <span class="patronRosterItem" data-sort="4,24,56,333,333,331,333,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="4,24,56,333,333,331,333,0">
         Calliope
     </span>
-    <span class="patronRosterItem" data-sort="4,24,56,333,333,0,333,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="4,24,56,333,333,0,333,0">
+    <span class="patronRosterItem" data-sort="4,24,56,333,333,331,333,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="4,24,56,333,333,331,333,0">
         5
     </span>
-    <span class="patronRosterItem" data-sort="4,24,56,333,333,0,333,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="4,24,56,333,333,0,333,0">
+    <span class="patronRosterItem" data-sort="4,24,56,333,333,331,333,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="4,24,56,333,333,331,333,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="4,24,56,333,333,0,333,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="4,24,56,333,333,0,333,0">
+    <span class="patronRosterItem" data-sort="4,24,56,333,333,331,333,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="4,24,56,333,333,331,333,0">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="4,24,56,333,333,0,333,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="4,24,56,333,333,0,333,0">
+    <span class="patronRosterItem" data-sort="4,24,56,333,333,331,333,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="4,24,56,333,333,331,333,0">
+        <input type="checkbox" disabled checked><label class="cblabel">w/ Feats</label>
+    </span>
+    <span class="patronRosterItem" data-sort="4,24,56,333,333,331,333,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="4,24,56,333,333,331,333,0">
+        <input type="checkbox" disabled checked>
+    </span>
+    <span class="patronRosterItem" data-sort="4,24,56,333,333,331,333,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="4,24,56,333,333,331,333,0">
         <input type="checkbox" disabled>
     </span>
-    <span class="patronRosterItem" data-sort="4,24,56,333,333,0,333,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="4,24,56,333,333,0,333,0">
-        <input type="checkbox" disabled checked>
-    </span>
-    <span class="patronRosterItem" data-sort="4,24,56,333,333,0,333,0">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="4,24,56,333,333,0,333,0">
-        <input type="checkbox" disabled>
-    </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="4,24,56,333,333,0,333,0">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="4,24,56,333,333,331,333,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="5,7,70,0,0,333,333,0">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="5,7,70,0,0,333,333,0">
         6
@@ -5188,39 +5188,39 @@ A list of all champions and their patron availability.
         <input type="checkbox" disabled checked><label class="cblabel">Until 2028-09-30</label>
     </span>
     <span class="patronRosterItem patronRosterBorderRight" data-sort="154,73,111,333,333,333,333,298">&nbsp;</span>
-    <span class="patronRosterItem patronRosterBorderLeft" data-sort="155,124,43,333,333,0,0,301">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="155,124,43,333,333,0,0,301">
+    <span class="patronRosterItem patronRosterBorderLeft" data-sort="155,124,43,333,333,331,331,301">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="155,124,43,333,333,331,331,301">
         169
     </span>
-    <span class="patronRosterItem" data-sort="155,124,43,333,333,0,0,301">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="155,124,43,333,333,0,0,301">
+    <span class="patronRosterItem" data-sort="155,124,43,333,333,331,331,301">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="155,124,43,333,333,331,331,301">
         Skylla
     </span>
-    <span class="patronRosterItem" data-sort="155,124,43,333,333,0,0,301">&nbsp;</span>
-    <span class="patronRosterItem patronRosterRight" data-sort="155,124,43,333,333,0,0,301">
+    <span class="patronRosterItem" data-sort="155,124,43,333,333,331,331,301">&nbsp;</span>
+    <span class="patronRosterItem patronRosterRight" data-sort="155,124,43,333,333,331,331,301">
         4
     </span>
-    <span class="patronRosterItem" data-sort="155,124,43,333,333,0,0,301">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="155,124,43,333,333,0,0,301">
+    <span class="patronRosterItem" data-sort="155,124,43,333,333,331,331,301">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="155,124,43,333,333,331,331,301">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="155,124,43,333,333,0,0,301">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="155,124,43,333,333,0,0,301">
+    <span class="patronRosterItem" data-sort="155,124,43,333,333,331,331,301">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="155,124,43,333,333,331,331,301">
         <input type="checkbox" disabled checked>
     </span>
-    <span class="patronRosterItem" data-sort="155,124,43,333,333,0,0,301">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="155,124,43,333,333,0,0,301">
-        <input type="checkbox" disabled>
+    <span class="patronRosterItem" data-sort="155,124,43,333,333,331,331,301">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="155,124,43,333,333,331,331,301">
+        <input type="checkbox" disabled checked><label class="cblabel">w/ Feats</label>
     </span>
-    <span class="patronRosterItem" data-sort="155,124,43,333,333,0,0,301">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="155,124,43,333,333,0,0,301">
-        <input type="checkbox" disabled>
+    <span class="patronRosterItem" data-sort="155,124,43,333,333,331,331,301">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="155,124,43,333,333,331,331,301">
+        <input type="checkbox" disabled checked><label class="cblabel">w/ Feats</label>
     </span>
-    <span class="patronRosterItem" data-sort="155,124,43,333,333,0,0,301">&nbsp;</span>
-    <span class="patronRosterItem patronRosterLeft" data-sort="155,124,43,333,333,0,0,301">
+    <span class="patronRosterItem" data-sort="155,124,43,333,333,331,331,301">&nbsp;</span>
+    <span class="patronRosterItem patronRosterLeft" data-sort="155,124,43,333,333,331,331,301">
         <input type="checkbox" disabled checked><label class="cblabel">Until 2028-11-04</label>
     </span>
-    <span class="patronRosterItem patronRosterBorderRight" data-sort="155,124,43,333,333,0,0,301">&nbsp;</span>
+    <span class="patronRosterItem patronRosterBorderRight" data-sort="155,124,43,333,333,331,331,301">&nbsp;</span>
     <span class="patronRosterItem patronRosterBorderLeft" data-sort="156,81,70,0,331,331,333,304">&nbsp;</span>
     <span class="patronRosterItem patronRosterRight" data-sort="156,81,70,0,331,331,333,304">
         170
@@ -5800,40 +5800,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Bobby</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Playground Boss Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2561**Playground Boss (Bobby)**The best games are the ones where the rules are different every time you play!<br><br><span style="color:var(--Flavescent)">Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed Specializations by 80%. (Prestack)</span><code>buff_upgrade,80,15449,0<br>buff_upgrade,80,15450,0<br>buff_upgrade,80,15451,0</code></span>Playground Boss
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed Specializations by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">29 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Farideh</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Magius Infernus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2562**Magius Infernus (Farideh)**Cast enough fireballs, and most problems tend to go away.<br><br><span style="color:var(--Flavescent)">Increases the effect of Farideh's Specializations by 80%.</span><code>buff_upgrades,80,17839,17840,17841</code></span>Magius Infernus
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Farideh's Specializations by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">29 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Laurana</span>
         </span>
         <span class="featTableIcon4">
@@ -6170,6 +6136,23 @@ These are feats that were previously released in premium packs and are now sitti
         </span>
         <span class="featTableDate">
             <span class="featTableInner">15 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Raistlin</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Into Darkness Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2698**Into Darkness (Raistlin)**No, my brother, where I go, you cannot follow. ~Raistlin<br><br><span style="color:var(--Flavescent)">Increases the effect of Raistlin's Savant ability by 80%. (Prestack)</span><code>buff_upgrade,80,18930</code></span>Into Darkness
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Raistlin's Savant ability by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Oct 2026</span>
         </span>
     </span>
 </span>
@@ -6547,10 +6530,135 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
                 <span>29 April 2026</span>
             </span>
             <span class="postSeasonTableDate">
+                <span>05 August 2026</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>05 November 2026 (Guess)</span>
+            </span>
+        </span>
+    </span>
+    <span class="postSeasonTableRow">
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableTitle">
+                <a id="e16a" onclick="exclusiveToggleContent(`e16`)">
+                    <span class="postSeasonTableShowContents">[show contents]</span>
+                </a>
+                ![Emergence 16 Icon](images/general/e16.png)**Emergence 16** - Strahd Zombies
+            </span>
+        </span>
+        <span id="e16" class="postSeasonTableRowShowHide" hidden>
+            <span class="postSeasonTableRowContents">
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Abrasive Magic Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2534**Abrasive Magic (Lucius)**I do have a tendency to get under people's skin.<br><br><span style="color:var(--Flavescent)">Increases the amount of health segments broken by Armor Eating Acid by 1.</span><code>buff_upgrade,100,19252</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Abrasive Magic</span>
+                        <span style="margin-left:15px">Lucius</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Blinding Force Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2466**Blinding Force (Kyre)**Know yourself. Know what needs to be done. Know to never hesitate.<br><br><span style="color:var(--Flavescent)">Increases the stun duration to 20 seconds for Stunning Strike.</span><code>change_upgrade_data,18668,0</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Blinding Force</span>
+                        <span style="margin-left:15px">Kyre</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Devastating Arcana Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2702**Devastating Arcana (Raistlin)**I don't need you now. I won't need you anymore... ever. Watch! ~Raistlin<br><br><span style="color:var(--Flavescent)">Increases the effect of Raistlin's Debilitating Magic ability by 80%.</span><code>buff_upgrade,80,18931</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Devastating Arcana</span>
+                        <span style="margin-left:15px">Raistlin</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Prodigal Leader Feat Icon](images/featicons/globaldps.png)<span class="featTooltipContents">ID: 2701**Prodigal Leader (Laurana)**I'm not discussing anything. I'm the general. It's my decision. ~Laurana<br><br><span style="color:var(--Flavescent)">All Champions damage +50%.</span><code>global_dps_multiplier_mult,50</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Prodigal Leader</span>
+                        <span style="margin-left:15px">Laurana</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="emergenceShopFeatIcon4 tooltipHolder">![Inevitable Triumph Feat Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2700**Inevitable Triumph (Van Richten)**I have faith that my students will carry on my work long after I am gone.<br><br><span style="color:var(--Flavescent)">Increases the effect of Van Richten's Triumph ability by 80%.</span><code>buff_upgrade,80,19698</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Feat**</span>
+                        <span style="margin-left:15px">Inevitable Triumph</span>
+                        <span style="margin-left:15px">Van Richten</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Zombie Hunter Drizzt Skin Icon](images/exclusivities/skin_29960.png)<span class="featTooltipContents">ID: 714**Zombie Hunter Drizzt (Drizzt)**<img src="images/exclusivities/skin_29962.webp" alt="Zombie Hunter Drizzt Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Skin**</span>
+                        <span style="margin-left:15px">Zombie Hunter Drizzt</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Drizzt Slot 5](images/exclusivities/ge_1720.png)<span class="itemTooltipContents">ID: 428**Figurine of Guenhwyvar (Drizzt)**A unique figurine that summons my faithful companion, Guenhwyvar.<br><br><span style="color:var(--Flavescent)">Buffs Drizzt's Ultimate Attack Damage by 275%.</span><code>buff_ultimate,275</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Figurine of Guenhwyvar</span>
+                        <span style="margin-left:15px">Drizzt (Slot 5)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Ezmerelda Slot 3](images/exclusivities/ge_8862.png)<span class="itemTooltipContents">ID: 1668**Dagger of Lathander (Ezmerelda)**Let the Morninglord light a new dawn throughout Barovia!<br><br><span style="color:var(--Flavescent)">Increases the effect of Ezmerelda's Training Montage ability by 275%. (Prestack)</span><code>buff_upgrade,275,15037,0</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Dagger of Lathander</span>
+                        <span style="margin-left:15px">Ezmerelda (Slot 3)</span>
+                    </span>
+                </span>
+                <span class="postSeasonTableRowContentsItem">
+                    <span class="emergenceShopTableIcon">
+                        <span class="tooltipHolder">![Golden Epic Icon for Van Richten Slot 3](images/exclusivities/ge_29262.png)<span class="itemTooltipContents">ID: 4237**Blessed Bandolier (Van Richten)**Holy water and spell scrolls. No matter what awaits me, I am always prepared.<br><br><span style="color:var(--Flavescent)">Increases the effect of Van Richten's Triumph ability by 275%.</span><code>buff_upgrade,275,19698</code></span></span>
+                    </span>
+                    <span class="emergenceShopTableTextColumn">
+                        <span style="margin-left:5px">**Golden Epic**</span>
+                        <span style="margin-left:15px">Blessed Bandolier</span>
+                        <span style="margin-left:15px">Van Richten (Slot 3)</span>
+                    </span>
+                </span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDateHeader">
+                <span>**Start Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**End Date**</span>
+            </span>
+            <span class="postSeasonTableDateHeader">
+                <span>**Exclusive Date**</span>
+            </span>
+        </span>
+        <span class="postSeasonTableRowInner">
+            <span class="postSeasonTableDate">
                 <span>29 July 2026</span>
             </span>
             <span class="postSeasonTableDate">
-                <span>29 October 2026 (Guess)</span>
+                <span>07 October 2026</span>
+            </span>
+            <span class="postSeasonTableDate">
+                <span>07 January 2027 (Guess)</span>
             </span>
         </span>
     </span>
@@ -9365,6 +9473,40 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
         </span>
         <span class="featTableDate">
             <span class="featTableInner">**Date**</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Bobby</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Playground Boss Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2561**Playground Boss (Bobby)**The best games are the ones where the rules are different every time you play!<br><br><span style="color:var(--Flavescent)">Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed Specializations by 80%. (Prestack)</span><code>buff_upgrade,80,15449,0<br>buff_upgrade,80,15450,0<br>buff_upgrade,80,15451,0</code></span>Playground Boss
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Bobby's Not So Low, Still Growing Up, and Strong Armed Specializations by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Jul 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Farideh</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Magius Infernus Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2562**Magius Infernus (Farideh)**Cast enough fireballs, and most problems tend to go away.<br><br><span style="color:var(--Flavescent)">Increases the effect of Farideh's Specializations by 80%.</span><code>buff_upgrades,80,17839,17840,17841</code></span>Magius Infernus
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Farideh's Specializations by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">29 Jul 2026</span>
         </span>
     </span>
     <span class="featTableRow">
