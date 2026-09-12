@@ -9968,57 +9968,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
             <span class="featTableInner">18 Jun 2026</span>
         </span>
     </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Deekin</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Story of DOOOOM Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2557**Story of DOOOOM (Deekin)**Doomy doomy doom doom<br><br><span style="color:var(--Flavescent)">Increases the base effect of Deekin's Story of Doom ability by 80%. (Prestack)</span><code>buff_upgrade,80,18855,0</code></span>Story of DOOOOM
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the base effect of Deekin's Story of Doom ability by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">11 Jun 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Sheila</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Old Tricks Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2477**Old Tricks (Sheila)**You'd think they would have learned by now.<br><br><span style="color:var(--Flavescent)">Increases the effect of Sheila's second set of Specializations by 80%.</span><code>buff_upgrades,80,16544,16545,16546</code></span>Old Tricks
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Sheila's second set of Specializations by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">11 Jun 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Zorbu</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Hunter's Oath Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2476**Hunter's Oath (Zorbu)**I vow to protect this world from those who would despoil it.<br><br><span style="color:var(--Flavescent)">Increases the effect of Zorbu's Focused Fury ability by 80%.</span><code>buff_upgrade,80,12990</code></span>Hunter's Oath
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Zorbu's Focused Fury ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">11 Jun 2026</span>
-        </span>
-    </span>
 </span>
 <br />
 
