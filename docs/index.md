@@ -5868,57 +5868,6 @@ These are feats that were previously released in premium packs and are now sitti
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
-            <span class="featTableInner">Nahara</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Everlasting Bonds Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2587**Everlasting Bonds (Nahara)**Stand with me now, as I stand with all of you.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nahara's Strong Society ability by 20% for each Black Dice Society affiliation member in the formation, stacking additively.</span><code>effect_def,2795</code></span>Everlasting Bonds
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Nahara's Strong Society ability by 20% for each Black Dice Society affiliation member in the formation, stacking additively.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Oct 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Van Richten</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Vampire Slayer Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2692**Vampire Slayer (Van Richten)**You do not frighten me, monster. On the contrary, you should be afraid.<br><br><span style="color:var(--Flavescent)">Increases the effect of Van Richten's first set of Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,19700,19701,19702</code></span>Vampire Slayer
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Van Richten's first set of Specializations by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Oct 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Tess</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Tactical Adaptation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2583**Tactical Adaptation (Tess)**I've got a plan for that.<br><br><span style="color:var(--Flavescent)">Increases the effect of all of Tess's Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,17321,17322,17323</code></span>Tactical Adaptation
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of all of Tess's Specializations by 80%. (Prestack)</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Oct 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
             <span class="featTableInner">Strongheart</span>
         </span>
         <span class="featTableIcon4">
@@ -6204,51 +6153,6 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
-                    <span class="postSeasonTableShowContents">[show contents]</span>
-                </a>
-                ![XBox Giveaway Raistlin's Champions of Renown Pack Icon](images/general/xbox.png)**XBox Giveaway** - Raistlin's Champions of Renown Pack
-            </span>
-        </span>
-        <span id="g1" class="postSeasonTableRowShowHide" hidden>
-            <span class="postSeasonTableRowContents">
-                <span class="postSeasonTableRowContentsItem">
-                    <span class="emergenceShopTableIcon">
-                        <span class="tooltipHolder">![Rocky the Baaz Draconian Familiar Icon](images/exclusivities/fam_313.png)<span class="featTooltipContents">ID: 313**Rocky the Baaz Draconian**Even the smallest draconian is not one to underestimate!<br><img src="images/exclusivities/fam_313.webp" alt="Rocky the Baaz Draconian Model WebP" style="width:auto;height:auto;max-width:min-content;max-height:100%"></span></span>
-                    </span>
-                    <span class="emergenceShopTableTextColumn">
-                        <span style="margin-left:5px">**Familiar**</span>
-                        <span style="margin-left:15px">Rocky the Baaz Draconian</span>
-                    </span>
-                </span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDateHeader">
-                <span>**Start Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**End Date**</span>
-            </span>
-            <span class="postSeasonTableDateHeader">
-                <span>**Exclusive Date**</span>
-            </span>
-        </span>
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableDate">
-                <span>24 June 2026</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>01 July 2026</span>
-            </span>
-            <span class="postSeasonTableDate">
-                <span>01 October 2026 (Guess)</span>
-            </span>
-        </span>
-    </span>
-    <span class="postSeasonTableRow">
-        <span class="postSeasonTableRowInner">
-            <span class="postSeasonTableTitle">
                 <a id="e15a" onclick="exclusiveToggleContent(`e15`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
@@ -6374,13 +6278,13 @@ For Emergences - the items added will remain in the Thayan Enclave until the fol
     <span class="postSeasonTableRow">
         <span class="postSeasonTableRowInner">
             <span class="postSeasonTableTitle">
-                <a id="g2a" onclick="exclusiveToggleContent(`g2`)">
+                <a id="g1a" onclick="exclusiveToggleContent(`g1`)">
                     <span class="postSeasonTableShowContents">[show contents]</span>
                 </a>
                 ![Anniversary Giveaway Anniversary Celebration Icon](images/general/anniversary.png)**Anniversary Giveaway** - Anniversary Celebration
             </span>
         </span>
-        <span id="g2" class="postSeasonTableRowShowHide" hidden>
+        <span id="g1" class="postSeasonTableRowShowHide" hidden>
             <span class="postSeasonTableRowContents">
                 <span class="postSeasonTableRowContentsItem">
                     <span class="emergenceShopTableIcon">
@@ -9636,6 +9540,57 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
     </span>
     <span class="featTableRow">
         <span class="featTableChampion">
+            <span class="featTableInner">Nahara</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Everlasting Bonds Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2587**Everlasting Bonds (Nahara)**Stand with me now, as I stand with all of you.<br><br><span style="color:var(--Flavescent)">Increases the effect of Nahara's Strong Society ability by 20% for each Black Dice Society affiliation member in the formation, stacking additively.</span><code>effect_def,2795</code></span>Everlasting Bonds
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Nahara's Strong Society ability by 20% for each Black Dice Society affiliation member in the formation, stacking additively.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Van Richten</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Vampire Slayer Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2692**Vampire Slayer (Van Richten)**You do not frighten me, monster. On the contrary, you should be afraid.<br><br><span style="color:var(--Flavescent)">Increases the effect of Van Richten's first set of Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,19700,19701,19702</code></span>Vampire Slayer
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Van Richten's first set of Specializations by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Tess</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Tactical Adaptation Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2583**Tactical Adaptation (Tess)**I've got a plan for that.<br><br><span style="color:var(--Flavescent)">Increases the effect of all of Tess's Specializations by 80%. (Prestack)</span><code>buff_upgrades,80,17321,17322,17323</code></span>Tactical Adaptation
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of all of Tess's Specializations by 80%. (Prestack)</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">01 Oct 2026</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
             <span class="featTableInner">DM</span>
         </span>
         <span class="featTableIcon4">
@@ -10023,40 +9978,6 @@ For a list of feats still in exclusivity - see the Exclusivities tab.
         </span>
         <span class="featTableDate">
             <span class="featTableInner">08 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Tasslehoff</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Acquisitive Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2546**Acquisitive (Tasslehoff)**I'm not going to take it! I just mentioned it, as an item of interest. ~Tas<br><br><span style="color:var(--Flavescent)">Increases the effect of Tasslehoff's Borrower ability by 80%.</span><code>buff_upgrade,80,19244</code></span>Acquisitive
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Increases the effect of Tasslehoff's Borrower ability by 80%.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jul 2026</span>
-        </span>
-    </span>
-    <span class="featTableRow">
-        <span class="featTableChampion">
-            <span class="featTableInner">Briv</span>
-        </span>
-        <span class="featTableIcon4">
-            ![Baatorian Bones Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2354**Baatorian Bones (Briv)**Mine durability rivaleth even Baatorian green steel!<br><br><span style="color:var(--Flavescent)">Every third stack of Steelbones earned by Briv adds an additional stack.</span><code>additional_steelbones_stack_every,3</code></span>Baatorian Bones
-        </span>
-        <span class="featTableEffect">
-            <span class="featTableInner">Every third stack of Steelbones earned by Briv adds an additional stack.</span>
-        </span>
-        <span class="featTableSource">
-            <span class="featTableInner">50,000 Gems</span>
-        </span>
-        <span class="featTableDate">
-            <span class="featTableInner">01 Jul 2026</span>
         </span>
     </span>
 </span>
