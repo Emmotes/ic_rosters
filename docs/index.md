@@ -6189,6 +6189,40 @@ These are feats that were previously released in premium packs and are now sitti
             <span class="featTableInner">21 Jan 2027</span>
         </span>
     </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Widdle</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Too Many Friends Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2779**Too Many Friends (Widdle)**Back up, people! I need some breathing room!<br><br><span style="color:var(--Flavescent)">Increases the effect of Tasty Friends by 100% if there are 3 or fewer Champions adjacent to Widdle.</span><code>effect_def,3106</code></span>Too Many Friends
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Tasty Friends by 100% if there are 3 or fewer Champions adjacent to Widdle.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">04 Feb 2027</span>
+        </span>
+    </span>
+    <span class="featTableRow">
+        <span class="featTableChampion">
+            <span class="featTableInner">Turiel</span>
+        </span>
+        <span class="featTableIcon4">
+            ![Dire Resolve Icon](images/featicons/upgradefa.png)<span class="featTooltipContents">ID: 2780**Dire Resolve (Turiel)**To destroy your enemy, sometimes you must become like them.<br><br><span style="color:var(--Flavescent)">Increases the effect of Turiel's Unflinching Hatred ability by 80%.</span><code>buff_upgrade,80,21267</code></span>Dire Resolve
+        </span>
+        <span class="featTableEffect">
+            <span class="featTableInner">Increases the effect of Turiel's Unflinching Hatred ability by 80%.</span>
+        </span>
+        <span class="featTableSource">
+            <span class="featTableInner">50,000 Gems</span>
+        </span>
+        <span class="featTableDate">
+            <span class="featTableInner">04 Feb 2027</span>
+        </span>
+    </span>
 </span>
 
 # Current Exclusive Special Events
